@@ -1,0 +1,1383 @@
+Date,Time,NetName,Addr,Token,Action,DataID,DataDetail,Cluster_x,Cluster_y
+2024/05/29,16:43:55,Hist_GreekMyth,-,-,NETCREATE APPSERVER SESSION LOG for 2024/05/29 Wednesday 16:43:55,,,5,1
+2024/05/29,16:43:55,Hist_GreekMyth,-,-,---,,,5,1
+2024/05/29,16:43:55,Hist_GreekMyth,UADDR_01,-,joined network,,,0,0
+2024/05/29,16:43:55,Hist_GreekMyth,UADDR_01,-,getdatabase,,,0,0
+2024/05/29,16:46:29,Hist_GreekMyth,UADDR_01,-,left network,,,0,0
+2024/05/29,16:46:30,Hist_GreekMyth,UADDR_02,-,joined network,,,4,2
+2024/05/29,16:46:30,Hist_GreekMyth,UADDR_02,-,getdatabase,,,4,2
+2024/05/29,16:46:36,Hist_GreekMyth,UADDR_01,-,SRV_NET  -,pong not received before time ran out -- CLIENT CONNECTION DEAD!,,0,0
+2024/05/29,17:30:46,Hist_GreekMyth,UADDR_03,-,joined network,,,3,1
+2024/05/29,17:30:46,Hist_GreekMyth,UADDR_03,-,getdatabase,,,3,1
+2024/05/29,17:32:32,Hist_GreekMyth,UADDR_03,-,select node,255,Selene,3,1
+2024/05/29,17:32:33,Hist_GreekMyth,UADDR_04,-,joined network,,,3,1
+2024/05/29,17:32:33,Hist_GreekMyth,UADDR_04,-,getdatabase,,,3,1
+2024/05/29,17:32:37,Hist_GreekMyth,UADDR_05,-,joined network,,,3,1
+2024/05/29,17:32:37,Hist_GreekMyth,UADDR_05,-,getdatabase,,,3,1
+2024/05/29,17:32:53,Hist_GreekMyth,UADDR_05,-,left network,,,3,1
+2024/05/29,17:32:53,Hist_GreekMyth,UADDR_06,-,joined network,,,3,5
+2024/05/29,17:32:53,Hist_GreekMyth,UADDR_06,-,getdatabase,,,3,5
+2024/05/29,17:32:55,Hist_GreekMyth,UADDR_03,-,left network,,,3,1
+2024/05/29,17:32:56,Hist_GreekMyth,UADDR_07,-,joined network,,,1,4
+2024/05/29,17:32:56,Hist_GreekMyth,UADDR_07,-,getdatabase,,,1,4
+2024/05/29,17:33:01,Hist_GreekMyth,UADDR_07,CLASS1-G1-Y7Z,select node,255,Selene,1,4
+2024/05/29,17:33:02,Hist_GreekMyth,UADDR_05,-,SRV_NET  -,pong not received before time ran out -- CLIENT CONNECTION DEAD!,,3,1
+2024/05/29,17:33:02,Hist_GreekMyth,UADDR_03,-,SRV_NET  -,pong not received before time ran out -- CLIENT CONNECTION DEAD!,,3,1
+2024/05/29,17:33:04,Hist_GreekMyth,UADDR_08,-,joined network,,,3,1
+2024/05/29,17:33:04,Hist_GreekMyth,UADDR_08,-,getdatabase,,,3,1
+2024/05/29,17:33:08,Hist_GreekMyth,UADDR_08,-,left network,,,3,1
+2024/05/29,17:33:08,Hist_GreekMyth,UADDR_09,-,joined network,,,3,1
+2024/05/29,17:33:08,Hist_GreekMyth,UADDR_09,-,getdatabase,,,3,1
+2024/05/29,17:33:08,Hist_GreekMyth,UADDR_07,CLASS1-G1-Y7Z,select node,1,Zeus,1,4
+2024/05/29,17:33:14,Hist_GreekMyth,UADDR_07,CLASS1-G1-Y7Z,select node,248,Python,1,4
+2024/05/29,17:33:17,Hist_GreekMyth,UADDR_08,-,SRV_NET  -,pong not received before time ran out -- CLIENT CONNECTION DEAD!,,3,1
+2024/05/29,17:33:29,Hist_GreekMyth,UADDR_07,CLASS1-G1-Y7Z,insert node,291,"{""id"":291,""label"":""Mengxi"",""provenance"":[],""createdBy"":""CLASS1-G1-Y7Z"",""updatedBy"":""CLASS1-G1-Y7Z""}",1,4
+2024/05/29,17:33:29,Hist_GreekMyth,UADDR_07,CLASS1-G1-Y7Z,select node,291,Mengxi,1,4
+2024/05/29,17:33:41,Hist_GreekMyth,UADDR_02,CLASS1-G1-KWG,insert node,292,"{""id"":292,""label"":""Joshua"",""provenance"":[],""createdBy"":""CLASS1-G1-KWG"",""updatedBy"":""CLASS1-G1-KWG""}",4,2
+2024/05/29,17:33:41,Hist_GreekMyth,UADDR_02,CLASS1-G1-KWG,select node,292,Joshua,4,2
+2024/05/29,17:33:51,Hist_GreekMyth,UADDR_07,CLASS1-G1-Y7Z,update node,291,"{""id"":291,""label"":""Mengxi"",""updatedBy"":""CLASS1-G1-Y7Z"",""type"":""Human"",""provenance"":[]}",1,4
+2024/05/29,17:34:07,Hist_GreekMyth,UADDR_02,CLASS1-G1-KWG,update node,292,"{""id"":292,""label"":""Joshua"",""updatedBy"":""CLASS1-G1-KWG"",""type"":""Human"",""notes"":""It me."",""provenance"":[]}",4,2
+2024/05/29,17:34:07,Hist_GreekMyth,UADDR_04,-,left network,,,3,1
+2024/05/29,17:34:08,Hist_GreekMyth,UADDR_10,-,joined network,,,3,1
+2024/05/29,17:34:08,Hist_GreekMyth,UADDR_10,-,getdatabase,,,3,1
+2024/05/29,17:34:11,Hist_GreekMyth,UADDR_10,CLASS1-G1-KZD,insert node,293,"{""id"":293,""label"":""Xtina"",""provenance"":[],""createdBy"":""CLASS1-G1-KZD"",""updatedBy"":""CLASS1-G1-KZD""}",3,1
+2024/05/29,17:34:11,Hist_GreekMyth,UADDR_10,CLASS1-G1-KZD,select node,293,Xtina,3,1
+2024/05/29,17:34:15,Hist_GreekMyth,UADDR_06,CLASS1-G1-KMZ,insert node,294,"{""id"":294,""label"":""Alec"",""provenance"":[],""createdBy"":""CLASS1-G1-KMZ"",""updatedBy"":""CLASS1-G1-KMZ""}",3,5
+2024/05/29,17:34:15,Hist_GreekMyth,UADDR_06,CLASS1-G1-KMZ,select node,294,Alec,3,5
+2024/05/29,17:34:17,Hist_GreekMyth,UADDR_04,-,SRV_NET  -,pong not received before time ran out -- CLIENT CONNECTION DEAD!,,3,1
+2024/05/29,17:34:17,Hist_GreekMyth,UADDR_02,CLASS1-G1-KWG,select node,138,Hermes,4,2
+2024/05/29,17:34:20,Hist_GreekMyth,UADDR_02,CLASS1-G1-KWG,insert edge,595,"{""id"":595,""source"":138,""attributes"":{},""provenance"":[],""createdBy"":""CLASS1-G1-KWG"",""updatedBy"":""CLASS1-G1-KWG""}",4,2
+2024/05/29,17:34:21,Hist_GreekMyth,UADDR_06,CLASS1-G1-KMZ,update node,294,"{""id"":294,""label"":""Alec"",""updatedBy"":""CLASS1-G1-KMZ"",""type"":""Human"",""notes"":""Self"",""provenance"":[]}",3,5
+2024/05/29,17:34:31,Hist_GreekMyth,UADDR_10,CLASS1-G1-KZD,update node,293,"{""id"":293,""label"":""Xtina"",""updatedBy"":""CLASS1-G1-KZD"",""type"":""Human"",""notes"":""Humanoid, at least."",""provenance"":[]}",3,1
+2024/05/29,17:34:35,Hist_GreekMyth,UADDR_11,-,joined network,,,3,5
+2024/05/29,17:34:35,Hist_GreekMyth,UADDR_11,-,getdatabase,,,3,5
+2024/05/29,17:34:42,Hist_GreekMyth,UADDR_07,CLASS1-G1-Y7Z,insert edge,596,"{""id"":596,""source"":291,""attributes"":{},""provenance"":[],""createdBy"":""CLASS1-G1-Y7Z"",""updatedBy"":""CLASS1-G1-Y7Z""}",1,4
+2024/05/29,17:34:52,Hist_GreekMyth,UADDR_12,-,joined network,,,3,1
+2024/05/29,17:34:52,Hist_GreekMyth,UADDR_12,-,getdatabase,,,3,1
+2024/05/29,17:34:53,Hist_GreekMyth,UADDR_02,CLASS1-G1-KWG,delete edge,595,,4,2
+2024/05/29,17:34:53,Hist_GreekMyth,UADDR_02,CLASS1-G1-KWG,select node,138,Hermes,4,2
+2024/05/29,17:34:53,Hist_GreekMyth,UADDR_10,CLASS1-G1-KZD,select node,293,Xtina,3,1
+2024/05/29,17:34:53,Hist_GreekMyth,UADDR_06,CLASS1-G1-KMZ,select node,294,Alec,3,5
+2024/05/29,17:34:53,Hist_GreekMyth,UADDR_02,CLASS1-G1-KWG,select node,138,Hermes,4,2
+2024/05/29,17:34:53,Hist_GreekMyth,UADDR_07,CLASS1-G1-Y7Z,select node,291,Mengxi,1,4
+2024/05/29,17:34:53,Hist_GreekMyth,UADDR_09,CLASS1-G2-NZX,insert node,295,"{""id"":295,""label"":""Selena"",""provenance"":[],""createdBy"":""CLASS1-G2-NZX"",""updatedBy"":""CLASS1-G2-NZX""}",3,1
+2024/05/29,17:34:53,Hist_GreekMyth,UADDR_09,CLASS1-G2-NZX,select node,295,Selena,3,1
+2024/05/29,17:34:54,Hist_GreekMyth,UADDR_02,CLASS1-G1-KWG,insert edge,597,"{""id"":597,""source"":138,""attributes"":{},""provenance"":[],""createdBy"":""CLASS1-G1-KWG"",""updatedBy"":""CLASS1-G1-KWG""}",4,2
+2024/05/29,17:34:55,Hist_GreekMyth,UADDR_07,CLASS1-G1-Y7Z,select node,291,Mengxi,1,4
+2024/05/29,17:34:57,Hist_GreekMyth,UADDR_11,-,left network,,,3,5
+2024/05/29,17:34:57,Hist_GreekMyth,UADDR_13,-,joined network,,,3,1
+2024/05/29,17:34:57,Hist_GreekMyth,UADDR_13,-,getdatabase,,,3,1
+2024/05/29,17:34:58,Hist_GreekMyth,UADDR_09,CLASS1-G2-NZX,update node,295,"{""id"":295,""label"":""Selena"",""updatedBy"":""CLASS1-G2-NZX"",""type"":""Human"",""provenance"":[]}",3,1
+2024/05/29,17:35:00,Hist_GreekMyth,UADDR_06,CLASS1-G1-KMZ,insert edge,598,"{""id"":598,""source"":294,""attributes"":{},""provenance"":[],""createdBy"":""CLASS1-G1-KMZ"",""updatedBy"":""CLASS1-G1-KMZ""}",3,5
+2024/05/29,17:35:00,Hist_GreekMyth,UADDR_10,CLASS1-G1-KZD,insert edge,599,"{""id"":599,""source"":293,""attributes"":{},""provenance"":[],""createdBy"":""CLASS1-G1-KZD"",""updatedBy"":""CLASS1-G1-KZD""}",3,1
+2024/05/29,17:35:01,Hist_GreekMyth,UADDR_13,CLASS1-G2-NX2,insert node,296,"{""id"":296,""label"":""Kalani"",""provenance"":[],""createdBy"":""CLASS1-G2-NX2"",""updatedBy"":""CLASS1-G2-NX2""}",3,1
+2024/05/29,17:35:01,Hist_GreekMyth,UADDR_13,CLASS1-G2-NX2,select node,296,Kalani,3,1
+2024/05/29,17:35:02,Hist_GreekMyth,UADDR_02,CLASS1-G1-KWG,select node,138,Hermes,4,2
+2024/05/29,17:35:07,Hist_GreekMyth,UADDR_11,-,SRV_NET  -,pong not received before time ran out -- CLIENT CONNECTION DEAD!,,3,5
+2024/05/29,17:35:07,Hist_GreekMyth,UADDR_09,CLASS1-G2-NZX,insert edge,600,"{""id"":600,""source"":295,""attributes"":{},""provenance"":[],""createdBy"":""CLASS1-G2-NZX"",""updatedBy"":""CLASS1-G2-NZX""}",3,1
+2024/05/29,17:35:07,Hist_GreekMyth,UADDR_13,CLASS1-G2-NX2,update node,296,"{""id"":296,""label"":""Kalani"",""updatedBy"":""CLASS1-G2-NX2"",""type"":""Human"",""provenance"":[]}",3,1
+2024/05/29,17:35:07,Hist_GreekMyth,UADDR_10,CLASS1-G1-KZD,select node,293,Xtina,3,1
+2024/05/29,17:35:07,Hist_GreekMyth,UADDR_10,CLASS1-G1-KZD,select node,293,Xtina,3,1
+2024/05/29,17:35:09,Hist_GreekMyth,UADDR_06,CLASS1-G1-KMZ,select node,294,Alec,3,5
+2024/05/29,17:35:09,Hist_GreekMyth,UADDR_13,CLASS1-G2-NX2,insert edge,601,"{""id"":601,""source"":296,""attributes"":{},""provenance"":[],""createdBy"":""CLASS1-G2-NX2"",""updatedBy"":""CLASS1-G2-NX2""}",3,1
+2024/05/29,17:35:11,Hist_GreekMyth,UADDR_09,CLASS1-G2-NZX,select node,295,Selena,3,1
+2024/05/29,17:35:12,Hist_GreekMyth,UADDR_12,-,SRV_NET  -,pong not received before time ran out -- CLIENT CONNECTION DEAD!,,3,1
+2024/05/29,17:35:14,Hist_GreekMyth,UADDR_07,CLASS1-G1-Y7Z,update edge,596,"{""id"":596,""source"":291,""target"":31,""updatedBy"":""CLASS1-G1-Y7Z"",""type"":""interacts with""}",1,4
+2024/05/29,17:35:15,Hist_GreekMyth,UADDR_07,CLASS1-G1-Y7Z,select node,291,Mengxi,1,4
+2024/05/29,17:35:16,Hist_GreekMyth,UADDR_13,CLASS1-G2-NX2,select node,296,Kalani,3,1
+2024/05/29,17:35:18,Hist_GreekMyth,UADDR_02,CLASS1-G1-KWG,update edge,597,"{""id"":597,""source"":138,""target"":138,""updatedBy"":""CLASS1-G1-KWG"",""type"":""interacts with"",""notes"":""Nathan finds Hermes funny in Percy Jackson, so I feel a connection.""}",4,2
+2024/05/29,17:35:18,Hist_GreekMyth,UADDR_02,CLASS1-G1-KWG,select node,138,Hermes,4,2
+2024/05/29,17:35:22,Hist_GreekMyth,UADDR_06,CLASS1-G1-KMZ,delete edge,598,,3,5
+2024/05/29,17:35:22,Hist_GreekMyth,UADDR_06,CLASS1-G1-KMZ,select node,294,Alec,3,5
+2024/05/29,17:35:22,Hist_GreekMyth,UADDR_09,CLASS1-G2-NZX,select node,295,Selena,3,1
+2024/05/29,17:35:22,Hist_GreekMyth,UADDR_13,CLASS1-G2-NX2,select node,296,Kalani,3,1
+2024/05/29,17:35:22,Hist_GreekMyth,UADDR_02,CLASS1-G1-KWG,select node,138,Hermes,4,2
+2024/05/29,17:35:22,Hist_GreekMyth,UADDR_10,CLASS1-G1-KZD,select node,293,Xtina,3,1
+2024/05/29,17:35:22,Hist_GreekMyth,UADDR_06,CLASS1-G1-KMZ,select node,294,Alec,3,5
+2024/05/29,17:35:27,Hist_GreekMyth,UADDR_12,-,SRV_NET  -,pong not received before time ran out -- CLIENT CONNECTION DEAD!,,3,1
+2024/05/29,17:35:27,Hist_GreekMyth,UADDR_02,CLASS1-G1-KWG,cancel edit edge,597,Hermes➔Hermes,4,2
+2024/05/29,17:35:27,Hist_GreekMyth,UADDR_02,CLASS1-G1-KWG,select node,138,Hermes,4,2
+2024/05/29,17:35:27,Hist_GreekMyth,UADDR_10,CLASS1-G1-KZD,update edge,599,"{""id"":599,""source"":293,""target"":41,""updatedBy"":""CLASS1-G1-KZD"",""type"":""interacts with"",""notes"":""My cat's name is Artemis""}",3,1
+2024/05/29,17:35:27,Hist_GreekMyth,UADDR_10,CLASS1-G1-KZD,select node,293,Xtina,3,1
+2024/05/29,17:35:29,Hist_GreekMyth,UADDR_06,CLASS1-G1-KMZ,insert edge,602,"{""id"":602,""source"":294,""attributes"":{},""provenance"":[],""createdBy"":""CLASS1-G1-KMZ"",""updatedBy"":""CLASS1-G1-KMZ""}",3,5
+2024/05/29,17:35:32,Hist_GreekMyth,UADDR_09,CLASS1-G2-NZX,update edge,600,"{""id"":600,""source"":295,""target"":255,""updatedBy"":""CLASS1-G2-NZX"",""notes"":""we have a similar name!""}",3,1
+2024/05/29,17:35:32,Hist_GreekMyth,UADDR_09,CLASS1-G2-NZX,select node,295,Selena,3,1
+2024/05/29,17:35:34,Hist_GreekMyth,UADDR_06,CLASS1-G1-KMZ,select node,294,Alec,3,5
+2024/05/29,17:35:34,Hist_GreekMyth,UADDR_13,CLASS1-G2-NX2,update edge,601,"{""id"":601,""source"":296,""target"":45,""updatedBy"":""CLASS1-G2-NX2"",""type"":""interacts with"",""notes"":""My undergrad alma mater's mascot was Athena, plus she's smart""}",3,1
+2024/05/29,17:35:34,Hist_GreekMyth,UADDR_13,CLASS1-G2-NX2,select node,296,Kalani,3,1
+2024/05/29,17:35:36,Hist_GreekMyth,UADDR_09,CLASS1-G2-NZX,select node,255,Selene,3,1
+2024/05/29,17:35:39,Hist_GreekMyth,UADDR_13,CLASS1-G2-NX2,select node,45,Athena,3,1
+2024/05/29,17:35:46,Hist_GreekMyth,UADDR_06,CLASS1-G1-KMZ,update edge,602,"{""id"":602,""source"":294,""target"":209,""updatedBy"":""CLASS1-G1-KMZ"",""notes"":""Prefer Odyssey over Iliad""}",3,5
+2024/05/29,17:35:46,Hist_GreekMyth,UADDR_06,CLASS1-G1-KMZ,select node,294,Alec,3,5
+2024/05/29,17:35:53,Hist_GreekMyth,UADDR_13,CLASS1-G2-NX2,update node,45,"{""id"":45,""label"":""Athena"",""updatedBy"":""CLASS1-G2-NX2"",""type"":""God"",""notes"":""Athena is the goddess of wisdom"",""provenance"":""Added by GREEK-MYTH-EP8 on 11/27/2023""}",3,1
+2024/05/29,17:35:55,Hist_GreekMyth,UADDR_10,CLASS1-G1-KZD,select tab Nodes Table,,,3,1
+2024/05/29,17:35:56,Hist_GreekMyth,UADDR_02,-,left network,,,4,2
+2024/05/29,17:35:57,Hist_GreekMyth,UADDR_12,-,SRV_NET  -,pong not received before time ran out -- CLIENT CONNECTION DEAD!,,3,1
+2024/05/29,17:35:57,Hist_GreekMyth,UADDR_14,-,joined network,,,3,1
+2024/05/29,17:35:57,Hist_GreekMyth,UADDR_14,-,getdatabase,,,3,1
+2024/05/29,17:35:58,Hist_GreekMyth,UADDR_06,CLASS1-G1-KMZ,select node,48,Atropos,3,5
+2024/05/29,17:35:58,Hist_GreekMyth,UADDR_09,CLASS1-G2-NZX,select node,41,Artemis,3,1
+2024/05/29,17:35:59,Hist_GreekMyth,UADDR_10,CLASS1-G1-KZD,sort node table,type,1,3,1
+2024/05/29,17:36:02,Hist_GreekMyth,UADDR_02,-,SRV_NET  -,pong not received before time ran out -- CLIENT CONNECTION DEAD!,,4,2
+2024/05/29,17:36:04,Hist_GreekMyth,UADDR_14,CLASS1-G1-KWG,select node,292,Joshua,3,1
+2024/05/29,17:36:05,Hist_GreekMyth,UADDR_14,CLASS1-G1-KWG,insert edge,603,"{""id"":603,""source"":292,""attributes"":{},""provenance"":[],""createdBy"":""CLASS1-G1-KWG"",""updatedBy"":""CLASS1-G1-KWG""}",3,1
+2024/05/29,17:36:09,Hist_GreekMyth,UADDR_13,CLASS1-G2-NX2,insert comment,1,"{""collection_ref"":""n45"",""comment_id"":1,""comment_id_parent"":"""",""comment_id_previous"":"""",""comment_type"":""source"",""comment_createtime"":1717004158481,""comment_modifytime"":1717004169615,""commenter_id"":""CLASS1-G2-NX2"",""commenter_text"":[""No"",""How do we know she's the goddess of wisdom""]}",3,1
+2024/05/29,17:36:11,Hist_GreekMyth,UADDR_13,CLASS1-G2-NX2,insert readby,1,"{""comment_id"":1,""commenter_ids"":[""CLASS1-G2-NX2""]}",3,1
+2024/05/29,17:36:12,Hist_GreekMyth,UADDR_14,CLASS1-G1-KWG,select node,292,Joshua,3,1
+2024/05/29,17:36:17,Hist_GreekMyth,UADDR_06,CLASS1-G1-KMZ,update node,48,"{""id"":48,""label"":""Atropos"",""updatedBy"":""CLASS1-G1-KMZ"",""type"":""God"",""notes"":""One of the Fates; she who cuts the thread"",""provenance"":""Added by GREEK-MYTH-EP8 on 11/27/2023""}",3,5
+2024/05/29,17:36:21,Hist_GreekMyth,UADDR_06,CLASS1-G1-KMZ,select node,87,Deianira,3,5
+2024/05/29,17:36:23,Hist_GreekMyth,UADDR_12,-,left network,,,3,1
+2024/05/29,17:36:23,Hist_GreekMyth,UADDR_10,CLASS1-G1-KZD,"deselect tab Nodes Table, reverting to Graph",,,3,1
+2024/05/29,17:36:24,Hist_GreekMyth,UADDR_15,-,joined network,,,3,1
+2024/05/29,17:36:24,Hist_GreekMyth,UADDR_15,-,getdatabase,,,3,1
+2024/05/29,17:36:25,Hist_GreekMyth,UADDR_10,CLASS1-G1-KZD,select node,41,Artemis,3,1
+2024/05/29,17:36:26,Hist_GreekMyth,UADDR_14,CLASS1-G1-KWG,update edge,603,"{""id"":603,""source"":292,""target"":138,""updatedBy"":""CLASS1-G1-KWG"",""type"":""interacts with"",""notes"":""Nathan loves Hermes so. I  feel a connection.""}",3,1
+2024/05/29,17:36:26,Hist_GreekMyth,UADDR_14,CLASS1-G1-KWG,select node,292,Joshua,3,1
+2024/05/29,17:36:32,Hist_GreekMyth,UADDR_12,-,SRV_NET  -,pong not received before time ran out -- CLIENT CONNECTION DEAD!,,3,1
+2024/05/29,17:36:34,Hist_GreekMyth,UADDR_06,CLASS1-G1-KMZ,update node,87,"{""id"":87,""label"":""Deianira"",""updatedBy"":""CLASS1-G1-KMZ"",""type"":""Human"",""notes"":""Contributes to Heracles' death"",""provenance"":""Added by GREEK-MYTH-EP8 on 11/27/2023""}",3,5
+2024/05/29,17:36:35,Hist_GreekMyth,UADDR_14,CLASS1-G1-KWG,update edge,603,"{""id"":603,""source"":292,""target"":138,""updatedBy"":""CLASS1-G1-KWG"",""type"":""interacts with"",""notes"":""Nathan loves Hermes so I feel a connection of sorts.""}",3,1
+2024/05/29,17:36:35,Hist_GreekMyth,UADDR_14,CLASS1-G1-KWG,select node,292,Joshua,3,1
+2024/05/29,17:36:36,Hist_GreekMyth,UADDR_06,CLASS1-G1-KMZ,insert edge,604,"{""id"":604,""source"":87,""attributes"":{},""provenance"":[],""createdBy"":""CLASS1-G1-KMZ"",""updatedBy"":""CLASS1-G1-KMZ""}",3,5
+2024/05/29,17:36:41,Hist_GreekMyth,UADDR_06,CLASS1-G1-KMZ,select node,87,Deianira,3,5
+2024/05/29,17:36:41,Hist_GreekMyth,UADDR_14,CLASS1-G1-KWG,select tab Nodes Table,,,3,1
+2024/05/29,17:36:50,Hist_GreekMyth,UADDR_07,CLASS1-G1-Y7Z,select tab Nodes Table,,,1,4
+2024/05/29,17:36:50,Hist_GreekMyth,UADDR_06,CLASS1-G1-KMZ,update edge,604,"{""id"":604,""source"":87,""target"":137,""updatedBy"":""CLASS1-G1-KMZ"",""type"":""interacts with"",""notes"":""Marries""}",3,5
+2024/05/29,17:36:50,Hist_GreekMyth,UADDR_06,CLASS1-G1-KMZ,select node,87,Deianira,3,5
+2024/05/29,17:36:52,Hist_GreekMyth,UADDR_07,CLASS1-G1-Y7Z,sort node table,label,-1,1,4
+2024/05/29,17:36:53,Hist_GreekMyth,UADDR_09,CLASS1-G2-NZX,delete comment,2,,3,1
+2024/05/29,17:36:53,Hist_GreekMyth,UADDR_14,CLASS1-G1-KWG,sort node table,label,-1,3,1
+2024/05/29,17:36:53,Hist_GreekMyth,UADDR_07,CLASS1-G1-Y7Z,sort node table,label,1,1,4
+2024/05/29,17:36:53,Hist_GreekMyth,UADDR_14,CLASS1-G1-KWG,sort node table,label,1,3,1
+2024/05/29,17:37:00,Hist_GreekMyth,UADDR_09,CLASS1-G2-NZX,select tab Nodes Table,,,3,1
+2024/05/29,17:37:03,Hist_GreekMyth,UADDR_14,CLASS1-G1-KWG,select tab Edges Table,,,3,1
+2024/05/29,17:37:04,Hist_GreekMyth,UADDR_14,CLASS1-G1-KWG,sort edge table,source,1,3,1
+2024/05/29,17:37:09,Hist_GreekMyth,UADDR_07,CLASS1-G1-Y7Z,sort node table,type,1,1,4
+2024/05/29,17:37:17,Hist_GreekMyth,UADDR_09,CLASS1-G2-NZX,select tab Edges Table,,,3,1
+2024/05/29,17:37:26,Hist_GreekMyth,UADDR_07,CLASS1-G1-Y7Z,select tab Graph,,,1,4
+2024/05/29,17:37:29,Hist_GreekMyth,UADDR_06,CLASS1-G1-KMZ,select node,91,Deucalion,3,5
+2024/05/29,17:37:41,Hist_GreekMyth,UADDR_14,CLASS1-G1-KWG,select tab Nodes Table,,,3,1
+2024/05/29,17:37:41,Hist_GreekMyth,UADDR_06,CLASS1-G1-KMZ,insert edge,605,"{""id"":605,""source"":91,""attributes"":{},""provenance"":[],""createdBy"":""CLASS1-G1-KMZ"",""updatedBy"":""CLASS1-G1-KMZ""}",3,5
+2024/05/29,17:37:42,Hist_GreekMyth,UADDR_14,CLASS1-G1-KWG,select tab Edges Table,,,3,1
+2024/05/29,17:37:43,Hist_GreekMyth,UADDR_14,CLASS1-G1-KWG,select tab Nodes Table,,,3,1
+2024/05/29,17:37:47,Hist_GreekMyth,UADDR_06,CLASS1-G1-KMZ,select node,91,Deucalion,3,5
+2024/05/29,17:37:50,Hist_GreekMyth,UADDR_07,CLASS1-G1-Y7Z,select node,291,Mengxi,1,4
+2024/05/29,17:37:52,Hist_GreekMyth,UADDR_14,CLASS1-G1-KWG,select tab Edges Table,,,3,1
+2024/05/29,17:37:52,Hist_GreekMyth,UADDR_07,CLASS1-G1-Y7Z,insert edge,606,"{""id"":606,""source"":291,""attributes"":{},""provenance"":[],""createdBy"":""CLASS1-G1-Y7Z"",""updatedBy"":""CLASS1-G1-Y7Z""}",1,4
+2024/05/29,17:37:53,Hist_GreekMyth,UADDR_14,CLASS1-G1-KWG,select tab Nodes Table,,,3,1
+2024/05/29,17:37:56,Hist_GreekMyth,UADDR_14,CLASS1-G1-KWG,select tab Edges Table,,,3,1
+2024/05/29,17:37:57,Hist_GreekMyth,UADDR_14,CLASS1-G1-KWG,select tab Nodes Table,,,3,1
+2024/05/29,17:37:59,Hist_GreekMyth,UADDR_14,CLASS1-G1-KWG,select tab Edges Table,,,3,1
+2024/05/29,17:38:01,Hist_GreekMyth,UADDR_14,-,left network,,,3,1
+2024/05/29,17:38:01,Hist_GreekMyth,UADDR_16,-,joined network,,,1,3
+2024/05/29,17:38:01,Hist_GreekMyth,UADDR_16,-,getdatabase,,,1,3
+2024/05/29,17:38:02,Hist_GreekMyth,UADDR_10,CLASS1-G1-KZD,update node,41,"{""id"":41,""label"":""Artemis"",""updatedBy"":""CLASS1-G1-KZD"",""type"":""God"",""notes"":""According to Britannica, the goddess of wild animals, the hunt, and vegetation and of chastity and childbirth"",""provenance"":""Added by GREEK-MYTH-EP8 on 11/27/2023""}",3,1
+2024/05/29,17:38:02,Hist_GreekMyth,UADDR_16,CLASS1-G1-KWG,select tab Nodes Table,,,1,3
+2024/05/29,17:38:02,Hist_GreekMyth,UADDR_06,CLASS1-G1-KMZ,update edge,605,"{""id"":605,""source"":91,""target"":247,""updatedBy"":""CLASS1-G1-KMZ"",""type"":""interacts with"",""notes"":""Marries""}",3,5
+2024/05/29,17:38:02,Hist_GreekMyth,UADDR_06,CLASS1-G1-KMZ,select node,91,Deucalion,3,5
+2024/05/29,17:38:03,Hist_GreekMyth,UADDR_10,CLASS1-G1-KZD,select tab Nodes Table,,,3,1
+2024/05/29,17:38:04,Hist_GreekMyth,UADDR_16,CLASS1-G1-KWG,select tab Edges Table,,,1,3
+2024/05/29,17:38:04,Hist_GreekMyth,UADDR_16,CLASS1-G1-KWG,select tab Nodes Table,,,1,3
+2024/05/29,17:38:05,Hist_GreekMyth,UADDR_06,CLASS1-G1-KMZ,select tab Nodes Table,,,3,5
+2024/05/29,17:38:06,Hist_GreekMyth,UADDR_06,CLASS1-G1-KMZ,select tab Edges Table,,,3,5
+2024/05/29,17:38:07,Hist_GreekMyth,UADDR_14,-,SRV_NET  -,pong not received before time ran out -- CLIENT CONNECTION DEAD!,,3,1
+2024/05/29,17:38:07,Hist_GreekMyth,UADDR_06,CLASS1-G1-KMZ,select tab Nodes Table,,,3,5
+2024/05/29,17:38:09,Hist_GreekMyth,UADDR_16,CLASS1-G1-KWG,"deselect tab Nodes Table, reverting to Graph",,,1,3
+2024/05/29,17:38:13,Hist_GreekMyth,UADDR_16,CLASS1-G1-KWG,select node,138,Hermes,1,3
+2024/05/29,17:38:15,Hist_GreekMyth,UADDR_07,CLASS1-G1-Y7Z,select node,291,Mengxi,1,4
+2024/05/29,17:38:16,Hist_GreekMyth,UADDR_07,CLASS1-G1-Y7Z,update edge,606,"{""id"":606,""source"":291,""target"":41,""updatedBy"":""CLASS1-G1-Y7Z""}",1,4
+2024/05/29,17:38:17,Hist_GreekMyth,UADDR_07,CLASS1-G1-Y7Z,select node,291,Mengxi,1,4
+2024/05/29,17:38:24,Hist_GreekMyth,UADDR_16,CLASS1-G1-KWG,delete edge,597,,1,3
+2024/05/29,17:38:24,Hist_GreekMyth,UADDR_16,CLASS1-G1-KWG,select node,138,Hermes,1,3
+2024/05/29,17:38:24,Hist_GreekMyth,UADDR_16,CLASS1-G1-KWG,select node,138,Hermes,1,3
+2024/05/29,17:38:24,Hist_GreekMyth,UADDR_10,CLASS1-G1-KZD,select node,41,Artemis,3,1
+2024/05/29,17:38:24,Hist_GreekMyth,UADDR_09,CLASS1-G2-NZX,select node,138,Hermes,3,1
+2024/05/29,17:38:25,Hist_GreekMyth,UADDR_10,CLASS1-G1-KZD,cancel edit node,41,Artemis,3,1
+2024/05/29,17:38:26,Hist_GreekMyth,UADDR_07,CLASS1-G1-Y7Z,select node,293,Xtina,1,4
+2024/05/29,17:38:27,Hist_GreekMyth,UADDR_06,CLASS1-G1-KMZ,select node,48,Atropos,3,5
+2024/05/29,17:38:32,Hist_GreekMyth,UADDR_07,CLASS1-G1-Y7Z,select node,291,Mengxi,1,4
+2024/05/29,17:38:33,Hist_GreekMyth,UADDR_07,CLASS1-G1-Y7Z,select node,5,Actaeon,1,4
+2024/05/29,17:38:34,Hist_GreekMyth,UADDR_06,CLASS1-G1-KMZ,insert edge,607,"{""id"":607,""source"":48,""attributes"":{},""provenance"":[],""createdBy"":""CLASS1-G1-KMZ"",""updatedBy"":""CLASS1-G1-KMZ""}",3,5
+2024/05/29,17:38:36,Hist_GreekMyth,UADDR_09,CLASS1-G2-NZX,select node,238,Pluto,3,1
+2024/05/29,17:38:40,Hist_GreekMyth,UADDR_06,CLASS1-G1-KMZ,select node,48,Atropos,3,5
+2024/05/29,17:38:42,Hist_GreekMyth,UADDR_16,CLASS1-G1-KWG,select tab Edges Table,,,1,3
+2024/05/29,17:38:43,Hist_GreekMyth,UADDR_10,CLASS1-G1-KZD,update node,41,"{""id"":41,""label"":""Artemis"",""updatedBy"":""CLASS1-G1-KZD"",""type"":""God"",""notes"":""According to Britannica, the goddess of wild animals, the hunt, and vegetation and of chastity and childbirth"",""provenance"":""Added by GREEK-MYTH-EP8 on 11/27/2023\nhttps://www.britannica.com/topic/Artemis-Greek-goddess#:~:text=Artemis%2C%20in%20Greek%20religion%2C%20the,Artemis%20was%20the%20favourite%20goddess.""}",3,1
+2024/05/29,17:38:46,Hist_GreekMyth,UADDR_07,CLASS1-G1-Y7Z,select node,296,Kalani,1,4
+2024/05/29,17:38:47,Hist_GreekMyth,UADDR_16,CLASS1-G1-KWG,select node,45,Athena,1,3
+2024/05/29,17:38:47,Hist_GreekMyth,UADDR_06,CLASS1-G1-KMZ,update edge,607,"{""id"":607,""source"":48,""target"":72,""updatedBy"":""CLASS1-G1-KMZ"",""type"":""interacts with"",""notes"":""Same group""}",3,5
+2024/05/29,17:38:47,Hist_GreekMyth,UADDR_06,CLASS1-G1-KMZ,select node,48,Atropos,3,5
+2024/05/29,17:38:52,Hist_GreekMyth,UADDR_17,-,joined network,,,3,1
+2024/05/29,17:38:52,Hist_GreekMyth,UADDR_17,-,getdatabase,,,3,1
+2024/05/29,17:38:54,Hist_GreekMyth,UADDR_17,-,left network,,,3,1
+2024/05/29,17:38:54,Hist_GreekMyth,UADDR_18,-,joined network,,,2,1
+2024/05/29,17:38:54,Hist_GreekMyth,UADDR_18,-,getdatabase,,,2,1
+2024/05/29,17:38:55,Hist_GreekMyth,UADDR_10,CLASS1-G1-KZD,select node,45,Athena,3,1
+2024/05/29,17:38:56,Hist_GreekMyth,UADDR_06,CLASS1-G1-KMZ,select node,162,Lachesis,3,5
+2024/05/29,17:39:00,Hist_GreekMyth,UADDR_16,CLASS1-G1-KWG,insert comment,4,"{""collection_ref"":""n45"",""comment_id"":4,""comment_id_parent"":1,""comment_id_previous"":"""",""comment_type"":""cmt"",""comment_createtime"":1717004331628,""comment_modifytime"":1717004340167,""commenter_id"":""CLASS1-G1-KWG"",""commenter_text"":[""This is a good question I think. ""]}",1,3
+2024/05/29,17:39:03,Hist_GreekMyth,UADDR_16,CLASS1-G1-KWG,update readby,1,"{""comment_id"":1,""commenter_ids"":[""CLASS1-G2-NX2"",""CLASS1-G1-KWG""]}",1,3
+2024/05/29,17:39:03,Hist_GreekMyth,UADDR_16,CLASS1-G1-KWG,insert readby,4,"{""comment_id"":4,""commenter_ids"":[""CLASS1-G1-KWG""]}",1,3
+2024/05/29,17:39:04,Hist_GreekMyth,UADDR_07,CLASS1-G1-Y7Z,select node,45,Athena,1,4
+2024/05/29,17:39:04,Hist_GreekMyth,UADDR_18,-,left network,,,2,1
+2024/05/29,17:39:07,Hist_GreekMyth,UADDR_09,-,left network,,,3,1
+2024/05/29,17:39:07,Hist_GreekMyth,UADDR_19,-,joined network,,,1,5
+2024/05/29,17:39:07,Hist_GreekMyth,UADDR_19,-,getdatabase,,,1,5
+2024/05/29,17:39:11,Hist_GreekMyth,UADDR_19,CLASS1-G2-NZX,select node,238,Pluto,1,5
+2024/05/29,17:39:12,Hist_GreekMyth,UADDR_18,-,SRV_NET  -,pong not received before time ran out -- CLIENT CONNECTION DEAD!,,2,1
+2024/05/29,17:39:16,Hist_GreekMyth,UADDR_16,CLASS1-G1-KWG,"deselect tab Edges Table, reverting to Graph",,,1,3
+2024/05/29,17:39:17,Hist_GreekMyth,UADDR_09,-,SRV_NET  -,pong not received before time ran out -- CLIENT CONNECTION DEAD!,,3,1
+2024/05/29,17:39:17,Hist_GreekMyth,UADDR_16,CLASS1-G1-KWG,select tab Nodes Table,,,1,3
+2024/05/29,17:39:17,Hist_GreekMyth,UADDR_06,CLASS1-G1-KMZ,update node,162,"{""id"":162,""label"":""Lachesis"",""updatedBy"":""CLASS1-G1-KMZ"",""type"":""God"",""notes"":""One of the Fates"",""provenance"":""Added by GREEK-MYTH-EP8 on 11/27/2023""}",3,5
+2024/05/29,17:39:18,Hist_GreekMyth,UADDR_16,CLASS1-G1-KWG,select tab Edges Table,,,1,3
+2024/05/29,17:39:19,Hist_GreekMyth,UADDR_06,CLASS1-G1-KMZ,insert edge,608,"{""id"":608,""source"":162,""attributes"":{},""provenance"":[],""createdBy"":""CLASS1-G1-KMZ"",""updatedBy"":""CLASS1-G1-KMZ""}",3,5
+2024/05/29,17:39:23,Hist_GreekMyth,UADDR_10,CLASS1-G1-KZD,insert comment,7,"{""collection_ref"":""n45"",""comment_id"":7,""comment_id_parent"":"""",""comment_id_previous"":1,""comment_type"":""source"",""comment_createtime"":1717004356150,""comment_modifytime"":1717004363632,""commenter_id"":""CLASS1-G1-KZD"",""commenter_text"":[""https://www.britannica.com/topic/Athena-Greek-mythology""]}",3,1
+2024/05/29,17:39:25,Hist_GreekMyth,UADDR_06,CLASS1-G1-KMZ,select node,162,Lachesis,3,5
+2024/05/29,17:39:26,Hist_GreekMyth,UADDR_10,CLASS1-G1-KZD,update readby,1,"{""comment_id"":1,""commenter_ids"":[""CLASS1-G1-KZD""]}",3,1
+2024/05/29,17:39:26,Hist_GreekMyth,UADDR_10,CLASS1-G1-KZD,update readby,4,"{""comment_id"":4,""commenter_ids"":[""CLASS1-G1-KZD""]}",3,1
+2024/05/29,17:39:26,Hist_GreekMyth,UADDR_10,CLASS1-G1-KZD,insert readby,7,"{""comment_id"":7,""commenter_ids"":[""CLASS1-G1-KZD""]}",3,1
+2024/05/29,17:39:31,Hist_GreekMyth,UADDR_06,CLASS1-G1-KMZ,update edge,608,"{""id"":608,""source"":162,""target"":48,""updatedBy"":""CLASS1-G1-KMZ"",""type"":""interacts with""}",3,5
+2024/05/29,17:39:31,Hist_GreekMyth,UADDR_06,CLASS1-G1-KMZ,select node,162,Lachesis,3,5
+2024/05/29,17:39:33,Hist_GreekMyth,UADDR_07,CLASS1-G1-Y7Z,select node,45,Athena,1,4
+2024/05/29,17:39:35,Hist_GreekMyth,UADDR_07,CLASS1-G1-Y7Z,select node,45,Athena,1,4
+2024/05/29,17:39:36,Hist_GreekMyth,UADDR_06,CLASS1-G1-KMZ,select node,162,Lachesis,3,5
+2024/05/29,17:39:38,Hist_GreekMyth,UADDR_06,CLASS1-G1-KMZ,insert edge,609,"{""id"":609,""source"":162,""attributes"":{},""provenance"":[],""createdBy"":""CLASS1-G1-KMZ"",""updatedBy"":""CLASS1-G1-KMZ""}",3,5
+2024/05/29,17:39:38,Hist_GreekMyth,UADDR_07,CLASS1-G1-Y7Z,select node,45,Athena,1,4
+2024/05/29,17:39:43,Hist_GreekMyth,UADDR_06,CLASS1-G1-KMZ,select node,162,Lachesis,3,5
+2024/05/29,17:39:46,Hist_GreekMyth,UADDR_07,CLASS1-G1-Y7Z,select node,45,Athena,1,4
+2024/05/29,17:39:46,Hist_GreekMyth,UADDR_06,CLASS1-G1-KMZ,update edge,609,"{""id"":609,""source"":162,""target"":72,""updatedBy"":""CLASS1-G1-KMZ"",""type"":""interacts with""}",3,5
+2024/05/29,17:39:47,Hist_GreekMyth,UADDR_06,CLASS1-G1-KMZ,select node,162,Lachesis,3,5
+2024/05/29,17:39:50,Hist_GreekMyth,UADDR_19,-,left network,,,1,5
+2024/05/29,17:39:50,Hist_GreekMyth,UADDR_20,-,joined network,,,3,5
+2024/05/29,17:39:50,Hist_GreekMyth,UADDR_20,-,getdatabase,,,3,5
+2024/05/29,17:39:54,Hist_GreekMyth,UADDR_20,CLASS1-G2-NZX,select node,238,Pluto,3,5
+2024/05/29,17:39:54,Hist_GreekMyth,UADDR_07,-,left network,,,1,4
+2024/05/29,17:39:55,Hist_GreekMyth,UADDR_21,-,joined network,,,2,1
+2024/05/29,17:39:55,Hist_GreekMyth,UADDR_21,-,getdatabase,,,2,1
+2024/05/29,17:39:57,Hist_GreekMyth,UADDR_19,-,SRV_NET  -,pong not received before time ran out -- CLIENT CONNECTION DEAD!,,1,5
+2024/05/29,17:40:01,Hist_GreekMyth,UADDR_21,CLASS1-G1-Y7Z,select node,45,Athena,2,1
+2024/05/29,17:40:02,Hist_GreekMyth,UADDR_07,-,SRV_NET  -,pong not received before time ran out -- CLIENT CONNECTION DEAD!,,1,4
+2024/05/29,17:40:05,Hist_GreekMyth,UADDR_13,CLASS1-G2-NX2,select node,45,Athena,3,1
+2024/05/29,17:40:07,Hist_GreekMyth,UADDR_10,CLASS1-G1-KZD,update node,45,"{""id"":45,""label"":""Athena"",""updatedBy"":""CLASS1-G1-KZD"",""type"":""God"",""notes"":""Athena is the goddess of wisdom"",""provenance"":""Added by GREEK-MYTH-EP8 on 11/27/2023\n\nhttps://www.britannica.com/topic/Athena-Greek-mythology""}",3,1
+2024/05/29,17:40:09,Hist_GreekMyth,UADDR_06,CLASS1-G1-KMZ,select node,58,Calliope,3,5
+2024/05/29,17:40:16,Hist_GreekMyth,UADDR_20,CLASS1-G2-NZX,insert comment,8,"{""collection_ref"":""n238"",""comment_id"":8,""comment_id_parent"":"""",""comment_id_previous"":"""",""comment_type"":""tellmemore"",""comment_createtime"":1717004396103,""comment_modifytime"":1717004416319,""commenter_id"":""CLASS1-G2-NZX"",""commenter_text"":[""I thought Pluto was a planet. Or a dog? What is Pluto the God of? ""]}",3,5
+2024/05/29,17:40:16,Hist_GreekMyth,UADDR_06,CLASS1-G1-KMZ,update node,58,"{""id"":58,""label"":""Calliope"",""updatedBy"":""CLASS1-G1-KMZ"",""type"":""God"",""notes"":""Muse"",""provenance"":""Added by GREEK-MYTH-EP8 on 11/27/2023""}",3,5
+2024/05/29,17:40:17,Hist_GreekMyth,UADDR_20,CLASS1-G2-NZX,insert readby,8,"{""comment_id"":8,""commenter_ids"":[""CLASS1-G2-NZX""]}",3,5
+2024/05/29,17:40:21,Hist_GreekMyth,UADDR_10,CLASS1-G1-KZD,select node,238,Pluto,3,1
+2024/05/29,17:40:21,Hist_GreekMyth,UADDR_21,CLASS1-G1-Y7Z,select node,45,Athena,2,1
+2024/05/29,17:40:23,Hist_GreekMyth,UADDR_21,-,left network,,,2,1
+2024/05/29,17:40:24,Hist_GreekMyth,UADDR_22,-,joined network,,,2,1
+2024/05/29,17:40:24,Hist_GreekMyth,UADDR_22,-,getdatabase,,,2,1
+2024/05/29,17:40:25,Hist_GreekMyth,UADDR_06,CLASS1-G1-KMZ,select node,110,Euridice,3,5
+2024/05/29,17:40:29,Hist_GreekMyth,UADDR_22,CLASS1-G1-Y7Z,select node,45,Athena,2,1
+2024/05/29,17:40:32,Hist_GreekMyth,UADDR_21,-,SRV_NET  -,pong not received before time ran out -- CLIENT CONNECTION DEAD!,,2,1
+2024/05/29,17:40:32,Hist_GreekMyth,UADDR_20,CLASS1-G2-NZX,select node,295,Selena,3,5
+2024/05/29,17:40:33,Hist_GreekMyth,UADDR_06,CLASS1-G1-KMZ,insert edge,610,"{""id"":610,""source"":110,""attributes"":{},""provenance"":[],""createdBy"":""CLASS1-G1-KMZ"",""updatedBy"":""CLASS1-G1-KMZ""}",3,5
+2024/05/29,17:40:34,Hist_GreekMyth,UADDR_16,CLASS1-G1-KWG,"deselect tab Edges Table, reverting to Graph",,,1,3
+2024/05/29,17:40:39,Hist_GreekMyth,UADDR_06,CLASS1-G1-KMZ,select node,110,Euridice,3,5
+2024/05/29,17:40:42,Hist_GreekMyth,UADDR_15,-,SRV_NET  -,pong not received before time ran out -- CLIENT CONNECTION DEAD!,,3,1
+2024/05/29,17:40:42,Hist_GreekMyth,UADDR_06,CLASS1-G1-KMZ,update edge,610,"{""id"":610,""source"":216,""target"":110,""updatedBy"":""CLASS1-G1-KMZ"",""type"":""interacts with""}",3,5
+2024/05/29,17:40:43,Hist_GreekMyth,UADDR_06,CLASS1-G1-KMZ,select node,110,Euridice,3,5
+2024/05/29,17:40:44,Hist_GreekMyth,UADDR_10,CLASS1-G1-KZD,insert comment,10,"{""collection_ref"":""n238"",""comment_id"":10,""comment_id_parent"":8,""comment_id_previous"":"""",""comment_type"":""cmt"",""comment_createtime"":1717004427936,""comment_modifytime"":1717004444823,""commenter_id"":""CLASS1-G1-KZD"",""commenter_text"":[""The god of Planets & dogs, obvs""]}",3,1
+2024/05/29,17:40:52,Hist_GreekMyth,UADDR_10,CLASS1-G1-KZD,update readby,8,"{""comment_id"":8,""commenter_ids"":[""CLASS1-G1-KZD""]}",3,1
+2024/05/29,17:40:52,Hist_GreekMyth,UADDR_10,CLASS1-G1-KZD,insert readby,10,"{""comment_id"":10,""commenter_ids"":[""CLASS1-G1-KZD""]}",3,1
+2024/05/29,17:40:53,Hist_GreekMyth,UADDR_16,CLASS1-G1-KWG,select node,45,Athena,1,3
+2024/05/29,17:40:53,Hist_GreekMyth,UADDR_22,-,left network,,,2,1
+2024/05/29,17:40:53,Hist_GreekMyth,UADDR_23,-,joined network,,,2,1
+2024/05/29,17:40:53,Hist_GreekMyth,UADDR_23,-,getdatabase,,,2,1
+2024/05/29,17:41:00,Hist_GreekMyth,UADDR_06,CLASS1-G1-KMZ,select node,269,Terpsichore,3,5
+2024/05/29,17:41:02,Hist_GreekMyth,UADDR_22,-,SRV_NET  -,pong not received before time ran out -- CLIENT CONNECTION DEAD!,,2,1
+2024/05/29,17:41:02,Hist_GreekMyth,UADDR_06,CLASS1-G1-KMZ,insert edge,611,"{""id"":611,""source"":269,""attributes"":{},""provenance"":[],""createdBy"":""CLASS1-G1-KMZ"",""updatedBy"":""CLASS1-G1-KMZ""}",3,5
+2024/05/29,17:41:07,Hist_GreekMyth,UADDR_06,CLASS1-G1-KMZ,select node,269,Terpsichore,3,5
+2024/05/29,17:41:09,Hist_GreekMyth,UADDR_06,CLASS1-G1-KMZ,update edge,611,"{""id"":611,""source"":269,""target"":58,""updatedBy"":""CLASS1-G1-KMZ"",""type"":""interacts with""}",3,5
+2024/05/29,17:41:10,Hist_GreekMyth,UADDR_06,CLASS1-G1-KMZ,select node,269,Terpsichore,3,5
+2024/05/29,17:41:15,Hist_GreekMyth,UADDR_16,CLASS1-G1-KWG,insert comment,12,"{""collection_ref"":""n45"",""comment_id"":12,""comment_id_parent"":7,""comment_id_previous"":"""",""comment_type"":""demo"",""comment_createtime"":1717004460283,""comment_modifytime"":1717004475223,""commenter_id"":""CLASS1-G1-KWG"",""commenter_text"":[""Want to test"",""🤔 A little"",""Apple Pie\n\n"",""I disagree"",""💛"",""3,★★★★""]}",1,3
+2024/05/29,17:41:21,Hist_GreekMyth,UADDR_16,CLASS1-G1-KWG,update readby,1,"{""comment_id"":1,""commenter_ids"":[""CLASS1-G2-NX2"",""CLASS1-G1-KWG""]}",1,3
+2024/05/29,17:41:21,Hist_GreekMyth,UADDR_16,CLASS1-G1-KWG,update readby,4,"{""comment_id"":4,""commenter_ids"":[""CLASS1-G1-KWG""]}",1,3
+2024/05/29,17:41:21,Hist_GreekMyth,UADDR_16,CLASS1-G1-KWG,update readby,7,"{""comment_id"":7,""commenter_ids"":[""CLASS1-G1-KWG""]}",1,3
+2024/05/29,17:41:21,Hist_GreekMyth,UADDR_16,CLASS1-G1-KWG,insert readby,12,"{""comment_id"":12,""commenter_ids"":[""CLASS1-G1-KWG""]}",1,3
+2024/05/29,17:41:27,Hist_GreekMyth,UADDR_10,CLASS1-G1-KZD,select node,1,Zeus,3,1
+2024/05/29,17:41:30,Hist_GreekMyth,UADDR_06,CLASS1-G1-KMZ,select node,269,Terpsichore,3,5
+2024/05/29,17:41:35,Hist_GreekMyth,UADDR_06,CLASS1-G1-KMZ,update node,269,"{""id"":269,""label"":""Terpsichore"",""updatedBy"":""CLASS1-G1-KMZ"",""type"":""God"",""notes"":""Muse"",""provenance"":""Added by GREEK-MYTH-EP8 on 11/27/2023""}",3,5
+2024/05/29,17:41:43,Hist_GreekMyth,UADDR_20,CLASS1-G2-NZX,select node,259,Sirens,3,5
+2024/05/29,17:41:44,Hist_GreekMyth,UADDR_23,CLASS1-G1-Y7Z,select node,45,Athena,2,1
+2024/05/29,17:41:52,Hist_GreekMyth,UADDR_06,CLASS1-G1-KMZ,select node,115,Euterpe,3,5
+2024/05/29,17:41:57,Hist_GreekMyth,UADDR_20,CLASS1-G2-NZX,select node,180,Medusa,3,5
+2024/05/29,17:41:59,Hist_GreekMyth,UADDR_10,CLASS1-G1-KZD,insert comment,13,"{""collection_ref"":""n1"",""comment_id"":13,""comment_id_parent"":"""",""comment_id_previous"":"""",""comment_type"":""demo"",""comment_createtime"":1717004491829,""comment_modifytime"":1717004519635,""commenter_id"":""CLASS1-G1-KZD"",""commenter_text"":[""This is neat"",null,""\nOrange, Lime\n"",""Handle, comma, please""]}",3,1
+2024/05/29,17:42:01,Hist_GreekMyth,UADDR_10,CLASS1-G1-KZD,insert readby,13,"{""comment_id"":13,""commenter_ids"":[""CLASS1-G1-KZD""]}",3,1
+2024/05/29,17:42:02,Hist_GreekMyth,UADDR_06,CLASS1-G1-KMZ,select node,58,Calliope,3,5
+2024/05/29,17:42:04,Hist_GreekMyth,UADDR_10,CLASS1-G1-KZD,"deselect tab Nodes Table, reverting to Graph",,,3,1
+2024/05/29,17:42:17,Hist_GreekMyth,UADDR_10,-,left network,,,3,1
+2024/05/29,17:42:27,Hist_GreekMyth,UADDR_23,CLASS1-G1-Y7Z,update readby,1,"{""comment_id"":1,""commenter_ids"":[""CLASS1-G1-KZD"",""CLASS1-G1-Y7Z""]}",2,1
+2024/05/29,17:42:27,Hist_GreekMyth,UADDR_23,CLASS1-G1-Y7Z,update readby,4,"{""comment_id"":4,""commenter_ids"":[""CLASS1-G1-KZD"",""CLASS1-G1-Y7Z""]}",2,1
+2024/05/29,17:42:27,Hist_GreekMyth,UADDR_23,CLASS1-G1-Y7Z,update readby,7,"{""comment_id"":7,""commenter_ids"":[""CLASS1-G1-KZD"",""CLASS1-G1-Y7Z""]}",2,1
+2024/05/29,17:42:27,Hist_GreekMyth,UADDR_23,CLASS1-G1-Y7Z,update readby,12,"{""comment_id"":12,""commenter_ids"":[""CLASS1-G1-Y7Z""]}",2,1
+2024/05/29,17:42:27,Hist_GreekMyth,UADDR_23,CLASS1-G1-Y7Z,update readby,8,"{""comment_id"":8,""commenter_ids"":[""CLASS1-G1-KZD"",""CLASS1-G1-Y7Z""]}",2,1
+2024/05/29,17:42:27,Hist_GreekMyth,UADDR_23,CLASS1-G1-Y7Z,update readby,10,"{""comment_id"":10,""commenter_ids"":[""CLASS1-G1-KZD"",""CLASS1-G1-Y7Z""]}",2,1
+2024/05/29,17:42:27,Hist_GreekMyth,UADDR_23,CLASS1-G1-Y7Z,update readby,13,"{""comment_id"":13,""commenter_ids"":[""CLASS1-G1-Y7Z""]}",2,1
+2024/05/29,17:42:27,Hist_GreekMyth,UADDR_10,-,SRV_NET  -,pong not received before time ran out -- CLIENT CONNECTION DEAD!,,3,1
+2024/05/29,17:42:40,Hist_GreekMyth,UADDR_20,CLASS1-G2-NZX,update readby,1,"{""comment_id"":1,""commenter_ids"":[""CLASS1-G1-KZD"",""CLASS1-G2-NZX""]}",3,5
+2024/05/29,17:42:40,Hist_GreekMyth,UADDR_20,CLASS1-G2-NZX,update readby,4,"{""comment_id"":4,""commenter_ids"":[""CLASS1-G1-KZD"",""CLASS1-G2-NZX""]}",3,5
+2024/05/29,17:42:40,Hist_GreekMyth,UADDR_20,CLASS1-G2-NZX,update readby,7,"{""comment_id"":7,""commenter_ids"":[""CLASS1-G1-KZD"",""CLASS1-G2-NZX""]}",3,5
+2024/05/29,17:42:40,Hist_GreekMyth,UADDR_20,CLASS1-G2-NZX,update readby,12,"{""comment_id"":12,""commenter_ids"":[""CLASS1-G2-NZX""]}",3,5
+2024/05/29,17:42:40,Hist_GreekMyth,UADDR_20,CLASS1-G2-NZX,update readby,8,"{""comment_id"":8,""commenter_ids"":[""CLASS1-G2-NZX""]}",3,5
+2024/05/29,17:42:40,Hist_GreekMyth,UADDR_20,CLASS1-G2-NZX,update readby,10,"{""comment_id"":10,""commenter_ids"":[""CLASS1-G2-NZX""]}",3,5
+2024/05/29,17:42:40,Hist_GreekMyth,UADDR_20,CLASS1-G2-NZX,update readby,13,"{""comment_id"":13,""commenter_ids"":[""CLASS1-G2-NZX""]}",3,5
+2024/05/29,17:42:49,Hist_GreekMyth,UADDR_20,CLASS1-G2-NZX,select tab Edges Table,,,3,5
+2024/05/29,17:43:00,Hist_GreekMyth,UADDR_20,CLASS1-G2-NZX,select tab Nodes Table,,,3,5
+2024/05/29,17:43:14,Hist_GreekMyth,UADDR_06,CLASS1-G1-KMZ,update readby,1,"{""comment_id"":1,""commenter_ids"":[""CLASS1-G1-KMZ""]}",3,5
+2024/05/29,17:43:14,Hist_GreekMyth,UADDR_06,CLASS1-G1-KMZ,update readby,4,"{""comment_id"":4,""commenter_ids"":[""CLASS1-G1-KMZ""]}",3,5
+2024/05/29,17:43:14,Hist_GreekMyth,UADDR_06,CLASS1-G1-KMZ,update readby,7,"{""comment_id"":7,""commenter_ids"":[""CLASS1-G1-KMZ""]}",3,5
+2024/05/29,17:43:14,Hist_GreekMyth,UADDR_06,CLASS1-G1-KMZ,update readby,12,"{""comment_id"":12,""commenter_ids"":[""CLASS1-G1-KMZ""]}",3,5
+2024/05/29,17:43:14,Hist_GreekMyth,UADDR_06,CLASS1-G1-KMZ,update readby,8,"{""comment_id"":8,""commenter_ids"":[""CLASS1-G1-KMZ""]}",3,5
+2024/05/29,17:43:14,Hist_GreekMyth,UADDR_06,CLASS1-G1-KMZ,update readby,10,"{""comment_id"":10,""commenter_ids"":[""CLASS1-G1-KMZ""]}",3,5
+2024/05/29,17:43:14,Hist_GreekMyth,UADDR_06,CLASS1-G1-KMZ,update readby,13,"{""comment_id"":13,""commenter_ids"":[""CLASS1-G1-KMZ""]}",3,5
+2024/05/29,17:43:23,Hist_GreekMyth,UADDR_23,CLASS1-G1-Y7Z,select node,295,Selena,2,1
+2024/05/29,17:43:34,Hist_GreekMyth,UADDR_20,CLASS1-G2-NZX,delete comment,14,,3,5
+2024/05/29,17:43:35,Hist_GreekMyth,UADDR_20,CLASS1-G2-NZX,update readby,13,"{""comment_id"":13,""commenter_ids"":[""CLASS1-G2-NZX""]}",3,5
+2024/05/29,17:43:58,Hist_GreekMyth,UADDR_20,-,left network,,,3,5
+2024/05/29,17:43:58,Hist_GreekMyth,UADDR_06,-,left network,,,3,5
+2024/05/29,17:44:01,Hist_GreekMyth,UADDR_16,-,left network,,,1,3
+2024/05/29,17:44:07,Hist_GreekMyth,UADDR_16,-,SRV_NET  -,pong not received before time ran out -- CLIENT CONNECTION DEAD!,,1,3
+2024/05/29,17:44:07,Hist_GreekMyth,UADDR_06,-,SRV_NET  -,pong not received before time ran out -- CLIENT CONNECTION DEAD!,,3,5
+2024/05/29,17:44:07,Hist_GreekMyth,UADDR_20,-,SRV_NET  -,pong not received before time ran out -- CLIENT CONNECTION DEAD!,,3,5
+2024/05/29,17:44:42,Hist_GreekMyth,UADDR_23,-,left network,,,2,1
+2024/05/29,17:44:45,Hist_GreekMyth,UADDR_24,-,joined network,,,2,1
+2024/05/29,17:44:45,Hist_GreekMyth,UADDR_24,-,getdatabase,,,2,1
+2024/05/29,17:44:47,Hist_GreekMyth,UADDR_23,-,SRV_NET  -,pong not received before time ran out -- CLIENT CONNECTION DEAD!,,2,1
+2024/05/29,17:45:10,Hist_GreekMyth,UADDR_24,-,left network,,,2,1
+2024/05/29,17:45:10,Hist_GreekMyth,UADDR_24,-,SRV_NET  -,pong not received before time ran out -- CLIENT CONNECTION DEAD!,,2,1
+2024/05/29,17:46:29,Hist_GreekMyth,UADDR_25,-,joined network,,,3,1
+2024/05/29,17:46:29,Hist_GreekMyth,UADDR_25,-,getdatabase,,,3,1
+2024/05/29,17:46:30,Hist_GreekMyth,UADDR_25,-,select tab Nodes Table,,,3,1
+2024/05/29,17:47:14,Hist_GreekMyth,UADDR_25,-,select tab Edges Table,,,3,1
+2024/05/29,17:47:15,Hist_GreekMyth,UADDR_25,-,select node,3,Achilles,3,1
+2024/05/29,17:47:17,Hist_GreekMyth,UADDR_25,-,select node,3,Achilles,3,1
+2024/05/29,17:47:18,Hist_GreekMyth,UADDR_25,-,select tab Nodes Table,,,3,1
+2024/05/29,17:53:28,Hist_GreekMyth,UADDR_25,-,left network,,,3,1
+2024/05/29,17:53:28,Hist_GreekMyth,UADDR_26,-,joined network,,,2,1
+2024/05/29,17:53:28,Hist_GreekMyth,UADDR_26,-,getdatabase,,,2,1
+2024/05/29,17:53:37,Hist_GreekMyth,UADDR_25,-,SRV_NET  -,pong not received before time ran out -- CLIENT CONNECTION DEAD!,,3,1
+2024/05/29,17:53:59,Hist_GreekMyth,UADDR_26,-,left network,,,2,1
+2024/05/29,17:53:59,Hist_GreekMyth,UADDR_27,-,joined network,,,2,1
+2024/05/29,17:53:59,Hist_GreekMyth,UADDR_27,-,getdatabase,,,2,1
+2024/05/29,17:54:01,Hist_GreekMyth,UADDR_27,CLASS1-G1-KWG,select tab Nodes Table,,,2,1
+2024/05/29,17:54:03,Hist_GreekMyth,UADDR_27,CLASS1-G1-KWG,select tab Edges Table,,,2,1
+2024/05/29,17:54:07,Hist_GreekMyth,UADDR_26,-,SRV_NET  -,pong not received before time ran out -- CLIENT CONNECTION DEAD!,,2,1
+2024/05/29,17:54:10,Hist_GreekMyth,UADDR_27,CLASS1-G1-KWG,select tab Nodes Table,,,2,1
+2024/05/29,17:54:11,Hist_GreekMyth,UADDR_27,CLASS1-G1-KWG,select tab Edges Table,,,2,1
+2024/05/29,17:54:15,Hist_GreekMyth,UADDR_27,CLASS1-G1-KWG,update readby,1,"{""comment_id"":1,""commenter_ids"":[""CLASS1-G1-KMZ"",""CLASS1-G1-KWG""]}",2,1
+2024/05/29,17:54:15,Hist_GreekMyth,UADDR_27,CLASS1-G1-KWG,update readby,4,"{""comment_id"":4,""commenter_ids"":[""CLASS1-G1-KMZ"",""CLASS1-G1-KWG""]}",2,1
+2024/05/29,17:54:15,Hist_GreekMyth,UADDR_27,CLASS1-G1-KWG,update readby,7,"{""comment_id"":7,""commenter_ids"":[""CLASS1-G1-KMZ"",""CLASS1-G1-KWG""]}",2,1
+2024/05/29,17:54:15,Hist_GreekMyth,UADDR_27,CLASS1-G1-KWG,update readby,12,"{""comment_id"":12,""commenter_ids"":[""CLASS1-G1-KMZ"",""CLASS1-G1-KWG""]}",2,1
+2024/05/29,17:54:15,Hist_GreekMyth,UADDR_27,CLASS1-G1-KWG,update readby,8,"{""comment_id"":8,""commenter_ids"":[""CLASS1-G1-KMZ"",""CLASS1-G1-KWG""]}",2,1
+2024/05/29,17:54:15,Hist_GreekMyth,UADDR_27,CLASS1-G1-KWG,update readby,10,"{""comment_id"":10,""commenter_ids"":[""CLASS1-G1-KMZ"",""CLASS1-G1-KWG""]}",2,1
+2024/05/29,17:54:15,Hist_GreekMyth,UADDR_27,CLASS1-G1-KWG,update readby,13,"{""comment_id"":13,""commenter_ids"":[""CLASS1-G2-NZX"",""CLASS1-G1-KWG""]}",2,1
+2024/05/29,17:54:18,Hist_GreekMyth,UADDR_27,CLASS1-G1-KWG,update readby,1,"{""comment_id"":1,""commenter_ids"":[""CLASS1-G1-KMZ"",""CLASS1-G1-KWG""]}",2,1
+2024/05/29,17:54:18,Hist_GreekMyth,UADDR_27,CLASS1-G1-KWG,update readby,4,"{""comment_id"":4,""commenter_ids"":[""CLASS1-G1-KMZ"",""CLASS1-G1-KWG""]}",2,1
+2024/05/29,17:54:18,Hist_GreekMyth,UADDR_27,CLASS1-G1-KWG,update readby,7,"{""comment_id"":7,""commenter_ids"":[""CLASS1-G1-KMZ"",""CLASS1-G1-KWG""]}",2,1
+2024/05/29,17:54:18,Hist_GreekMyth,UADDR_27,CLASS1-G1-KWG,update readby,12,"{""comment_id"":12,""commenter_ids"":[""CLASS1-G1-KMZ"",""CLASS1-G1-KWG""]}",2,1
+2024/05/29,17:54:18,Hist_GreekMyth,UADDR_27,CLASS1-G1-KWG,update readby,8,"{""comment_id"":8,""commenter_ids"":[""CLASS1-G1-KMZ"",""CLASS1-G1-KWG""]}",2,1
+2024/05/29,17:54:18,Hist_GreekMyth,UADDR_27,CLASS1-G1-KWG,update readby,10,"{""comment_id"":10,""commenter_ids"":[""CLASS1-G1-KMZ"",""CLASS1-G1-KWG""]}",2,1
+2024/05/29,17:54:18,Hist_GreekMyth,UADDR_27,CLASS1-G1-KWG,update readby,13,"{""comment_id"":13,""commenter_ids"":[""CLASS1-G2-NZX"",""CLASS1-G1-KWG""]}",2,1
+2024/05/29,17:56:33,Hist_GreekMyth,UADDR_15,-,left network,,,3,1
+2024/05/29,16:43:57,ELA_Death,-,-,NETCREATE APPSERVER SESSION LOG for 2024/05/29 Wednesday 16:43:57,,,5,1
+2024/05/29,16:43:57,ELA_Death,-,-,---,,,5,1
+2024/05/29,16:43:57,ELA_Death,UADDR_01,-,joined network,,,0,0
+2024/05/29,16:43:57,ELA_Death,UADDR_01,-,getdatabase,,,0,0
+2024/05/29,16:46:18,ELA_Death,UADDR_01,-,left network,,,0,0
+2024/05/29,16:46:19,ELA_Death,UADDR_02,-,joined network,,,4,2
+2024/05/29,16:46:19,ELA_Death,UADDR_02,-,getdatabase,,,4,2
+2024/05/29,16:46:27,ELA_Death,UADDR_01,-,SRV_NET  -,pong not received before time ran out -- CLIENT CONNECTION DEAD!,,0,0
+2024/05/29,16:47:31,ELA_Death,UADDR_02,-,left network,,,4,2
+2024/05/29,16:47:31,ELA_Death,UADDR_03,-,joined network,,,3,1
+2024/05/29,16:47:31,ELA_Death,UADDR_03,-,getdatabase,,,3,1
+2024/05/29,16:47:33,ELA_Death,UADDR_03,CLASS1-G1-82Y,select node,3,Comforting,3,1
+2024/05/29,16:47:38,ELA_Death,UADDR_02,-,SRV_NET  -,pong not received before time ran out -- CLIENT CONNECTION DEAD!,,4,2
+2024/05/29,17:07:23,ELA_Death,UADDR_03,-,left network,,,3,1
+2024/05/29,17:07:23,ELA_Death,UADDR_04,-,joined network,,,3,1
+2024/05/29,17:07:23,ELA_Death,UADDR_04,-,getdatabase,,,3,1
+2024/05/29,17:07:24,ELA_Death,UADDR_04,-,left network,,,3,1
+2024/05/29,17:07:24,ELA_Death,UADDR_05,-,joined network,,,3,1
+2024/05/29,17:07:25,ELA_Death,UADDR_05,-,getdatabase,,,3,1
+2024/05/29,17:07:28,ELA_Death,UADDR_03,-,SRV_NET  -,pong not received before time ran out -- CLIENT CONNECTION DEAD!,,3,1
+2024/05/29,17:07:28,ELA_Death,UADDR_05,-,left network,,,3,1
+2024/05/29,17:07:33,ELA_Death,UADDR_06,-,joined network,,,3,5
+2024/05/29,17:07:33,ELA_Death,UADDR_06,-,getdatabase,,,3,5
+2024/05/29,17:07:36,ELA_Death,UADDR_06,-,left network,,,3,5
+2024/05/29,17:07:37,ELA_Death,UADDR_07,-,joined network,,,1,4
+2024/05/29,17:07:37,ELA_Death,UADDR_07,-,getdatabase,,,1,4
+2024/05/29,17:07:38,ELA_Death,UADDR_05,-,SRV_NET  -,pong not received before time ran out -- CLIENT CONNECTION DEAD!,,3,1
+2024/05/29,17:07:43,ELA_Death,UADDR_06,-,SRV_NET  -,pong not received before time ran out -- CLIENT CONNECTION DEAD!,,3,5
+2024/05/29,17:07:44,ELA_Death,UADDR_08,-,joined network,,,3,1
+2024/05/29,17:07:44,ELA_Death,UADDR_08,-,getdatabase,,,3,1
+2024/05/29,17:08:47,ELA_Death,UADDR_09,-,joined network,,,3,1
+2024/05/29,17:08:47,ELA_Death,UADDR_09,-,getdatabase,,,3,1
+2024/05/29,17:08:52,ELA_Death,UADDR_09,-,left network,,,3,1
+2024/05/29,17:08:52,ELA_Death,UADDR_10,-,joined network,,,3,1
+2024/05/29,17:08:52,ELA_Death,UADDR_10,-,getdatabase,,,3,1
+2024/05/29,17:08:52,ELA_Death,UADDR_11,-,joined network,,,3,5
+2024/05/29,17:08:52,ELA_Death,UADDR_11,-,getdatabase,,,3,5
+2024/05/29,17:08:56,ELA_Death,UADDR_10,-,left network,,,3,1
+2024/05/29,17:08:56,ELA_Death,UADDR_12,-,joined network,,,3,1
+2024/05/29,17:08:56,ELA_Death,UADDR_12,-,getdatabase,,,3,1
+2024/05/29,17:08:58,ELA_Death,UADDR_09,-,SRV_NET  -,pong not received before time ran out -- CLIENT CONNECTION DEAD!,,3,1
+2024/05/29,17:09:03,ELA_Death,UADDR_10,-,SRV_NET  -,pong not received before time ran out -- CLIENT CONNECTION DEAD!,,3,1
+2024/05/29,17:09:43,ELA_Death,UADDR_07,CLASS1-G1-82Y,select node,5,el Día de los Muertos,1,4
+2024/05/29,17:09:48,ELA_Death,UADDR_13,-,joined network,,,3,1
+2024/05/29,17:09:48,ELA_Death,UADDR_13,-,getdatabase,,,3,1
+2024/05/29,17:09:51,ELA_Death,UADDR_14,-,joined network,,,3,1
+2024/05/29,17:09:52,ELA_Death,UADDR_14,-,getdatabase,,,3,1
+2024/05/29,17:09:56,ELA_Death,UADDR_14,-,left network,,,3,1
+2024/05/29,17:09:56,ELA_Death,UADDR_15,-,joined network,,,3,1
+2024/05/29,17:09:56,ELA_Death,UADDR_15,-,getdatabase,,,3,1
+2024/05/29,17:09:59,ELA_Death,UADDR_13,-,left network,,,3,1
+2024/05/29,17:09:59,ELA_Death,UADDR_16,-,joined network,,,1,3
+2024/05/29,17:09:59,ELA_Death,UADDR_16,-,getdatabase,,,1,3
+2024/05/29,17:10:03,ELA_Death,UADDR_14,-,SRV_NET  -,pong not received before time ran out -- CLIENT CONNECTION DEAD!,,3,1
+2024/05/29,17:10:07,ELA_Death,UADDR_12,CLASS1-G1-7PX,select node,5,el Día de los Muertos,3,1
+2024/05/29,17:10:08,ELA_Death,UADDR_13,-,SRV_NET  -,pong not received before time ran out -- CLIENT CONNECTION DEAD!,,3,1
+2024/05/29,17:10:10,ELA_Death,UADDR_12,CLASS1-G1-7PX,select node,4,Death on the Pale Horse,3,1
+2024/05/29,17:10:12,ELA_Death,UADDR_12,CLASS1-G1-7PX,select node,7,Jurassic Park,3,1
+2024/05/29,17:10:18,ELA_Death,UADDR_12,CLASS1-G1-7PX,select node,1,Angel of Death,3,1
+2024/05/29,17:10:28,ELA_Death,UADDR_17,-,joined network,,,3,1
+2024/05/29,17:10:28,ELA_Death,UADDR_17,-,getdatabase,,,3,1
+2024/05/29,17:10:31,ELA_Death,UADDR_15,CLASS1-G2-EP6,select node,3,Comforting,3,1
+2024/05/29,17:10:32,ELA_Death,UADDR_07,CLASS1-G1-82Y,select node,1,Angel of Death,1,4
+2024/05/29,17:10:36,ELA_Death,UADDR_07,CLASS1-G1-82Y,select node,4,Death on the Pale Horse,1,4
+2024/05/29,17:10:38,ELA_Death,UADDR_07,CLASS1-G1-82Y,select node,7,Jurassic Park,1,4
+2024/05/29,17:10:40,ELA_Death,UADDR_07,CLASS1-G1-82Y,select tab Nodes Table,,,1,4
+2024/05/29,17:10:47,ELA_Death,UADDR_07,CLASS1-G1-82Y,"deselect tab Nodes Table, reverting to Graph",,,1,4
+2024/05/29,17:10:48,ELA_Death,UADDR_08,-,left network,,,3,1
+2024/05/29,17:10:48,ELA_Death,UADDR_18,-,joined network,,,2,1
+2024/05/29,17:10:48,ELA_Death,UADDR_18,-,getdatabase,,,2,1
+2024/05/29,17:10:52,ELA_Death,UADDR_18,CLASS1-G2-EY4,insert node,8,"{""id"":8,""label"":""Plague Doctor"",""provenance"":[],""createdBy"":""CLASS1-G2-EY4"",""updatedBy"":""CLASS1-G2-EY4""}",2,1
+2024/05/29,17:10:52,ELA_Death,UADDR_18,CLASS1-G2-EY4,select node,8,Plague Doctor,2,1
+2024/05/29,17:10:53,ELA_Death,UADDR_08,-,SRV_NET  -,pong not received before time ran out -- CLIENT CONNECTION DEAD!,,3,1
+2024/05/29,17:11:06,ELA_Death,UADDR_07,CLASS1-G1-82Y,select node,8,Plague Doctor,1,4
+2024/05/29,17:11:07,ELA_Death,UADDR_17,-,select tab Nodes Table,,,3,1
+2024/05/29,17:11:07,ELA_Death,UADDR_18,-,left network,,,2,1
+2024/05/29,17:11:07,ELA_Death,UADDR_19,-,joined network,,,1,5
+2024/05/29,17:11:07,ELA_Death,UADDR_19,-,getdatabase,,,1,5
+2024/05/29,17:11:09,ELA_Death,UADDR_07,CLASS1-G1-82Y,select node,5,el Día de los Muertos,1,4
+2024/05/29,17:11:11,ELA_Death,UADDR_17,-,left network,,,3,1
+2024/05/29,17:11:13,ELA_Death,UADDR_18,-,SRV_NET  -,pong not received before time ran out -- CLIENT CONNECTION DEAD!,,2,1
+2024/05/29,17:11:14,ELA_Death,UADDR_20,-,joined network,,,3,5
+2024/05/29,17:11:15,ELA_Death,UADDR_20,-,getdatabase,,,3,5
+2024/05/29,17:11:15,ELA_Death,UADDR_19,CLASS1-G2-EY4,select node,8,Plague Doctor,1,5
+2024/05/29,17:11:18,ELA_Death,UADDR_15,CLASS1-G2-EP6,select node,8,Plague Doctor,3,1
+2024/05/29,17:11:18,ELA_Death,UADDR_17,-,SRV_NET  -,pong not received before time ran out -- CLIENT CONNECTION DEAD!,,3,1
+2024/05/29,17:11:32,ELA_Death,UADDR_19,CLASS1-G2-EY4,update node,8,"{""id"":8,""label"":""Plague Doctor"",""updatedBy"":""CLASS1-G2-EY4"",""type"":""Image of Death"",""notes"":""https://i.natgeofe.com/n/d2ed0170-7dc3-4ff9-bd04-83e72070dd0b/plague-doctors-reference-01_3x2.jpg"",""connotation"":""Neutral"",""provenance"":[]}",1,5
+2024/05/29,17:11:34,ELA_Death,UADDR_07,CLASS1-G1-82Y,cancel edit node,5,el Día de los Muertos,1,4
+2024/05/29,17:11:35,ELA_Death,UADDR_19,CLASS1-G2-EY4,select tab Nodes Table,,,1,5
+2024/05/29,17:11:36,ELA_Death,UADDR_16,CLASS1-G2-JZ5,select node,8,Plague Doctor,1,3
+2024/05/29,17:11:36,ELA_Death,UADDR_07,CLASS1-G1-82Y,select node,8,Plague Doctor,1,4
+2024/05/29,17:11:37,ELA_Death,UADDR_16,CLASS1-G2-JZ5,select tab Nodes Table,,,1,3
+2024/05/29,17:11:46,ELA_Death,UADDR_11,CLASS1-G2-J9Y,select node,8,Plague Doctor,3,5
+2024/05/29,17:11:49,ELA_Death,UADDR_07,CLASS1-G1-82Y,insert comment,1,"{""collection_ref"":""n8"",""comment_id"":1,""comment_id_parent"":"""",""comment_id_previous"":"""",""comment_type"":""cmt"",""comment_createtime"":1717002704293,""comment_modifytime"":1717002709039,""commenter_id"":""CLASS1-G1-82Y"",""commenter_text"":[""I bet this is Kalani!! ""]}",1,4
+2024/05/29,17:11:51,ELA_Death,UADDR_07,CLASS1-G1-82Y,insert readby,1,"{""comment_id"":1,""commenter_ids"":[""CLASS1-G1-82Y""]}",1,4
+2024/05/29,17:12:05,ELA_Death,UADDR_07,CLASS1-G1-82Y,select node,8,Plague Doctor,1,4
+2024/05/29,17:12:18,ELA_Death,UADDR_07,CLASS1-G1-82Y,select tab Nodes Table,,,1,4
+2024/05/29,17:12:19,ELA_Death,UADDR_19,CLASS1-G2-EY4,update node,8,"{""id"":8,""label"":""Plague Doctor"",""updatedBy"":""CLASS1-G2-EY4"",""type"":""Image of Death"",""notes"":""https://i.natgeofe.com/n/d2ed0170-7dc3-4ff9-bd04-83e72070dd0b/plague-doctors-reference-01_3x2.jpg"",""connotation"":""Neutral"",""provenance"":""Kalani"",""connection"":""I teach Black Death as a class""}",1,5
+2024/05/29,17:12:22,ELA_Death,UADDR_07,CLASS1-G1-82Y,sort node table,commentbtn,1,1,4
+2024/05/29,17:12:27,ELA_Death,UADDR_07,CLASS1-G1-82Y,sort node table,commentbtn,-1,1,4
+2024/05/29,17:12:29,ELA_Death,UADDR_07,CLASS1-G1-82Y,"deselect tab Nodes Table, reverting to Graph",,,1,4
+2024/05/29,17:12:50,ELA_Death,UADDR_15,CLASS1-G2-EP6,select node,6,Awesome!,3,1
+2024/05/29,17:12:54,ELA_Death,UADDR_19,CLASS1-G2-EY4,insert comment,2,"{""collection_ref"":""n8"",""comment_id"":2,""comment_id_parent"":1,""comment_id_previous"":"""",""comment_type"":""cmt"",""comment_createtime"":1717002743844,""comment_modifytime"":1717002774008,""commenter_id"":""CLASS1-G2-EY4"",""commenter_text"":[""It is Kalani! And I added provenance to note as such.""]}",1,5
+2024/05/29,17:12:55,ELA_Death,UADDR_19,CLASS1-G2-EY4,update readby,1,"{""comment_id"":1,""commenter_ids"":[""CLASS1-G2-EY4""]}",1,5
+2024/05/29,17:12:55,ELA_Death,UADDR_19,CLASS1-G2-EY4,insert readby,2,"{""comment_id"":2,""commenter_ids"":[""CLASS1-G2-EY4""]}",1,5
+2024/05/29,17:12:55,ELA_Death,UADDR_15,CLASS1-G2-EP6,select node,3,Comforting,3,1
+2024/05/29,17:13:04,ELA_Death,UADDR_07,CLASS1-G1-82Y,insert node,9,"{""id"":9,""label"":""Discworld Death"",""provenance"":[],""createdBy"":""CLASS1-G1-82Y"",""updatedBy"":""CLASS1-G1-82Y""}",1,4
+2024/05/29,17:13:04,ELA_Death,UADDR_07,CLASS1-G1-82Y,select node,9,Discworld Death,1,4
+2024/05/29,17:13:08,ELA_Death,UADDR_19,CLASS1-G2-EY4,select node,9,Discworld Death,1,5
+2024/05/29,17:13:12,ELA_Death,UADDR_12,CLASS1-G1-7PX,insert node,10,"{""id"":10,""label"":""Hades"",""provenance"":[],""createdBy"":""CLASS1-G1-7PX"",""updatedBy"":""CLASS1-G1-7PX""}",3,1
+2024/05/29,17:13:12,ELA_Death,UADDR_12,CLASS1-G1-7PX,select node,10,Hades,3,1
+2024/05/29,17:13:14,ELA_Death,UADDR_16,CLASS1-G2-JZ5,insert node,11,"{""id"":11,""label"":""Thanatos"",""provenance"":[],""createdBy"":""CLASS1-G2-JZ5"",""updatedBy"":""CLASS1-G2-JZ5""}",1,3
+2024/05/29,17:13:14,ELA_Death,UADDR_16,CLASS1-G2-JZ5,select node,11,Thanatos,1,3
+2024/05/29,17:13:21,ELA_Death,UADDR_20,CLASS1-G1-82Y,select node,8,Plague Doctor,3,5
+2024/05/29,17:13:26,ELA_Death,UADDR_16,CLASS1-G2-JZ5,update node,11,"{""id"":11,""label"":""Thanatos"",""updatedBy"":""CLASS1-G2-JZ5"",""type"":""Image of Death"",""notes"":""https://www.worldhistory.org/img/r/p/1000x1200/15753.png.webp?v=1651161409"",""connotation"":""Neutral"",""provenance"":[]}",1,3
+2024/05/29,17:13:37,ELA_Death,UADDR_07,CLASS1-G1-82Y,update node,9,"{""id"":9,""label"":""Discworld Death"",""updatedBy"":""CLASS1-G1-82Y"",""type"":""Image of Death"",""notes"":""I like the image of death in discworld: https://en.wikipedia.org/wiki/Death_(Discworld)\n\n![image](https://en.wikipedia.org/wiki/Death_(Discworld)#/media/File:Death_Discworld.png)"",""provenance"":[]}",1,4
+2024/05/29,17:13:43,ELA_Death,UADDR_19,CLASS1-G2-EY4,insert comment,3,"{""collection_ref"":""n9"",""comment_id"":3,""comment_id_parent"":"""",""comment_id_previous"":"""",""comment_type"":""tellmemore"",""comment_createtime"":1717002790871,""comment_modifytime"":1717002823354,""commenter_id"":""CLASS1-G2-EY4"",""commenter_text"":[""Why you needed to include \""Discworld\"" in the node name.""]}",1,5
+2024/05/29,17:13:44,ELA_Death,UADDR_19,CLASS1-G2-EY4,insert readby,3,"{""comment_id"":3,""commenter_ids"":[""CLASS1-G2-EY4""]}",1,5
+2024/05/29,17:13:58,ELA_Death,UADDR_15,CLASS1-G2-EP6,insert node,12,"{""id"":12,""label"":"" Grim Reaper"",""provenance"":[],""createdBy"":""CLASS1-G2-EP6"",""updatedBy"":""CLASS1-G2-EP6""}",3,1
+2024/05/29,17:13:58,ELA_Death,UADDR_15,CLASS1-G2-EP6,select node,12, Grim Reaper,3,1
+2024/05/29,17:13:59,ELA_Death,UADDR_07,CLASS1-G1-82Y,update node,9,"{""id"":9,""label"":""Discworld Death"",""updatedBy"":""CLASS1-G1-82Y"",""type"":""Image of Death"",""notes"":""I like the image of death in discworld: https://en.wikipedia.org/wiki/Death_(Discworld)\n\n![https://en.wikipedia.org/wiki/Death_(Discworld)#/media/File:Death_Discworld.png](https://en.wikipedia.org/wiki/Death_(Discworld)#/media/File:Death_Discworld.png)"",""provenance"":[]}",1,4
+2024/05/29,17:14:07,ELA_Death,UADDR_12,CLASS1-G1-7PX,update node,10,"{""id"":10,""label"":""Hades"",""updatedBy"":""CLASS1-G1-7PX"",""type"":""Image of Death"",""notes"":""![image](https://www.google.com/search?q=hades+god+once+upon+a+time&tbm=isch&ved=2ahUKEwjd_4XxrbOGAxWEGWIAHfEiAC4Q2-cCegQIABAA&oq=hades+god+once+upon+a+time&gs_lp=EgNpbWciGmhhZGVzIGdvZCBvbmNlIHVwb24gYSB0aW1lSI8cUNcCWL0TcAB4AJABAZgBVqABoAmqAQIxOLgBA8gBAPgBAYoCC2d3cy13aXotaW1nwgIEECMYJ8ICBRAAGIAEwgIIEAAYgAQYsQPCAgoQABiABBhDGIoFwgINEAAYgAQYsQMYQxiKBYgGAQ&sclient=img&ei=MmJXZt2eKISziLMP8cWA8AI&bih=788&biw=1437#imgrc=CrjCDcPnJdYvhM)"",""provenance"":[]}",3,1
+2024/05/29,17:14:12,ELA_Death,UADDR_19,CLASS1-G2-EY4,insert node,13,"{""id"":13,""label"":""early modern"",""provenance"":[],""createdBy"":""CLASS1-G2-EY4"",""updatedBy"":""CLASS1-G2-EY4""}",1,5
+2024/05/29,17:14:12,ELA_Death,UADDR_19,CLASS1-G2-EY4,select node,13,early modern,1,5
+2024/05/29,17:14:17,ELA_Death,UADDR_07,CLASS1-G1-82Y,update node,9,"{""id"":9,""label"":""Discworld Death"",""updatedBy"":""CLASS1-G1-82Y"",""type"":""Image of Death"",""notes"":""I like the image of death in discworld: https://en.wikipedia.org/wiki/Death_(Discworld)\n\n![https://en.wikipedia.org/wiki/Death_(Discworld)#/media/File:Death_Discworld.png](https://en.wikipedia.org/wiki/Death_(Discworld)#/media/File:Death_Discworld.png)"",""provenance"":[]}",1,4
+2024/05/29,17:14:19,ELA_Death,UADDR_19,CLASS1-G2-EY4,update node,13,"{""id"":13,""label"":""early modern"",""updatedBy"":""CLASS1-G2-EY4"",""type"":""Descriptive Words"",""connotation"":""Neutral"",""provenance"":[]}",1,5
+2024/05/29,17:14:21,ELA_Death,UADDR_19,CLASS1-G2-EY4,insert edge,1,"{""id"":1,""source"":13,""attributes"":{},""provenance"":[],""createdBy"":""CLASS1-G2-EY4"",""updatedBy"":""CLASS1-G2-EY4""}",1,5
+2024/05/29,17:14:25,ELA_Death,UADDR_20,CLASS1-G1-82Y,insert node,14,"{""id"":14,""label"":""Mummy"",""provenance"":[],""createdBy"":""CLASS1-G1-82Y"",""updatedBy"":""CLASS1-G1-82Y""}",3,5
+2024/05/29,17:14:25,ELA_Death,UADDR_20,CLASS1-G1-82Y,select node,14,Mummy,3,5
+2024/05/29,17:14:27,ELA_Death,UADDR_19,CLASS1-G2-EY4,select node,13,early modern,1,5
+2024/05/29,17:14:27,ELA_Death,UADDR_19,CLASS1-G2-EY4,select node,13,early modern,1,5
+2024/05/29,17:14:31,ELA_Death,UADDR_19,CLASS1-G2-EY4,update edge,1,"{""id"":1,""source"":13,""target"":8,""updatedBy"":""CLASS1-G2-EY4"",""type"":""describes"",""provenance"":[]}",1,5
+2024/05/29,17:14:31,ELA_Death,UADDR_19,CLASS1-G2-EY4,select node,13,early modern,1,5
+2024/05/29,17:14:46,ELA_Death,UADDR_15,CLASS1-G2-EP6,update node,12,"{""id"":12,""label"":"" Grim Reaper"",""updatedBy"":""CLASS1-G2-EP6"",""type"":""Image of Death"",""notes"":""https://cdn.britannica.com/73/191073-131-0D844C57/reaper-death.jpg"",""connotation"":""Neutral"",""provenance"":[]}",3,1
+2024/05/29,17:14:50,ELA_Death,UADDR_12,CLASS1-G1-7PX,update node,10,"{""id"":10,""label"":""Hades"",""updatedBy"":""CLASS1-G1-7PX"",""type"":""Image of Death"",""notes"":""![image](https://images.app.goo.gl/VUkdy9mBZcuGqpyE7)"",""provenance"":[]}",3,1
+2024/05/29,17:14:52,ELA_Death,UADDR_15,CLASS1-G2-EP6,select tab Nodes Table,,,3,1
+2024/05/29,17:14:55,ELA_Death,UADDR_16,CLASS1-G2-JZ5,insert node,15,"{""id"":15,""label"":""Thanatos"",""provenance"":[],""createdBy"":""CLASS1-G2-JZ5"",""updatedBy"":""CLASS1-G2-JZ5""}",1,3
+2024/05/29,17:14:55,ELA_Death,UADDR_16,CLASS1-G2-JZ5,select node,15,Thanatos,1,3
+2024/05/29,17:14:57,ELA_Death,UADDR_16,CLASS1-G2-JZ5,delete node,15,,1,3
+2024/05/29,17:15:02,ELA_Death,UADDR_16,CLASS1-G2-JZ5,insert node,16,"{""id"":16,""label"":""Hecate"",""provenance"":[],""createdBy"":""CLASS1-G2-JZ5"",""updatedBy"":""CLASS1-G2-JZ5""}",1,3
+2024/05/29,17:15:02,ELA_Death,UADDR_16,CLASS1-G2-JZ5,select node,16,Hecate,1,3
+2024/05/29,17:15:04,ELA_Death,UADDR_20,CLASS1-G1-82Y,update node,14,"{""id"":14,""label"":""Mummy"",""updatedBy"":""CLASS1-G1-82Y"",""type"":""Image of Death"",""notes"":""![image](https://www.marthastewart.com/thmb/3uSYXyY6tQxkgbq1IHJvKX-iFO4=/1040x1300/filters:no_upscale()/ft_halloween00mummy_xl-ae1f5e5d14894ff19087602782eacf0f.jpg)"",""connotation"":""Negative"",""provenance"":[]}",3,5
+2024/05/29,17:15:09,ELA_Death,UADDR_07,CLASS1-G1-82Y,update node,9,"{""id"":9,""label"":""Discworld Death"",""updatedBy"":""CLASS1-G1-82Y"",""type"":""Image of Death"",""notes"":""![image](https://en.wikipedia.org/wiki/Death_(Discworld)#/media/File:Death_Discworld.png)"",""provenance"":[]}",1,4
+2024/05/29,17:15:10,ELA_Death,UADDR_11,CLASS1-G2-J9Y,insert node,17,"{""id"":17,""label"":""Osiris"",""provenance"":[],""createdBy"":""CLASS1-G2-J9Y"",""updatedBy"":""CLASS1-G2-J9Y""}",3,5
+2024/05/29,17:15:10,ELA_Death,UADDR_11,CLASS1-G2-J9Y,select node,17,Osiris,3,5
+2024/05/29,17:15:12,ELA_Death,UADDR_15,CLASS1-G2-EP6,update node,12,"{""id"":12,""label"":"" Grim Reaper"",""updatedBy"":""CLASS1-G2-EP6"",""type"":""Image of Death"",""notes"":""![image](https://cdn.britannica.com/73/191073-131-0D844C57/reaper-death.jpg)https://cdn.britannica.com/73/191073-131-0D844C57/reaper-death.jpg"",""connotation"":""Neutral"",""provenance"":[]}",3,1
+2024/05/29,17:15:13,ELA_Death,UADDR_12,CLASS1-G1-7PX,select node,10,Hades,3,1
+2024/05/29,17:15:14,ELA_Death,UADDR_16,CLASS1-G2-JZ5,update node,16,"{""id"":16,""label"":""Hecate"",""updatedBy"":""CLASS1-G2-JZ5"",""type"":""Image of Death"",""notes"":""https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Hecate_Chiaramonti_Inv1922.jpg/150px-Hecate_Chiaramonti_Inv1922.jpg"",""connotation"":""Neutral"",""provenance"":[]}",1,3
+2024/05/29,17:15:16,ELA_Death,UADDR_11,CLASS1-G2-J9Y,update node,17,"{""id"":17,""label"":""Osiris"",""updatedBy"":""CLASS1-G2-J9Y"",""type"":""Image of Death"",""provenance"":[]}",3,5
+2024/05/29,17:15:17,ELA_Death,UADDR_07,CLASS1-G1-82Y,select node,14,Mummy,1,4
+2024/05/29,17:15:17,ELA_Death,UADDR_12,CLASS1-G1-7PX,select node,14,Mummy,3,1
+2024/05/29,17:15:25,ELA_Death,UADDR_12,CLASS1-G1-7PX,select node,14,Mummy,3,1
+2024/05/29,17:15:27,ELA_Death,UADDR_07,CLASS1-G1-82Y,cancel edit node,14,Mummy,1,4
+2024/05/29,17:15:27,ELA_Death,UADDR_11,CLASS1-G2-J9Y,insert node,18,"{""id"":18,""label"":""Hel"",""provenance"":[],""createdBy"":""CLASS1-G2-J9Y"",""updatedBy"":""CLASS1-G2-J9Y""}",3,5
+2024/05/29,17:15:27,ELA_Death,UADDR_11,CLASS1-G2-J9Y,select node,18,Hel,3,5
+2024/05/29,17:15:30,ELA_Death,UADDR_11,CLASS1-G2-J9Y,update node,18,"{""id"":18,""label"":""Hel"",""updatedBy"":""CLASS1-G2-J9Y"",""type"":""Image of Death"",""provenance"":[]}",3,5
+2024/05/29,17:15:33,ELA_Death,UADDR_19,CLASS1-G2-EY4,select node,12, Grim Reaper,1,5
+2024/05/29,17:15:36,ELA_Death,UADDR_12,CLASS1-G1-7PX,cancel edit node,14,Mummy,3,1
+2024/05/29,17:15:37,ELA_Death,UADDR_07,CLASS1-G1-82Y,select node,9,Discworld Death,1,4
+2024/05/29,17:15:39,ELA_Death,UADDR_19,CLASS1-G2-EY4,cancel edit node,12, Grim Reaper,1,5
+2024/05/29,17:15:44,ELA_Death,UADDR_19,CLASS1-G2-EY4,select node,8,Plague Doctor,1,5
+2024/05/29,17:15:58,ELA_Death,UADDR_20,CLASS1-G1-82Y,select node,14,Mummy,3,5
+2024/05/29,17:16:01,ELA_Death,UADDR_12,CLASS1-G1-7PX,select node,10,Hades,3,1
+2024/05/29,17:16:02,ELA_Death,UADDR_19,CLASS1-G2-EY4,update node,8,"{""id"":8,""label"":""Plague Doctor"",""updatedBy"":""CLASS1-G2-EY4"",""type"":""Image of Death"",""notes"":""![image](https://i.natgeofe.com/n/d2ed0170-7dc3-4ff9-bd04-83e72070dd0b/plague-doctors-reference-01_3x2.jpg)"",""connotation"":""Neutral"",""provenance"":""Kalani"",""connection"":""I teach Black Death as a class""}",1,5
+2024/05/29,17:16:03,ELA_Death,UADDR_20,CLASS1-G1-82Y,insert edge,2,"{""id"":2,""source"":14,""attributes"":{},""provenance"":[],""createdBy"":""CLASS1-G1-82Y"",""updatedBy"":""CLASS1-G1-82Y""}",3,5
+2024/05/29,17:16:05,ELA_Death,UADDR_07,CLASS1-G1-82Y,update node,9,"{""id"":9,""label"":""Discworld Death"",""updatedBy"":""CLASS1-G1-82Y"",""type"":""Image of Death"",""notes"":""![image](https://upload.wikimedia.org/wikipedia/en/b/b9/Death_Discworld.png)"",""provenance"":[]}",1,4
+2024/05/29,17:16:10,ELA_Death,UADDR_11,CLASS1-G2-J9Y,update node,18,"{""id"":18,""label"":""Hel"",""updatedBy"":""CLASS1-G2-J9Y"",""type"":""Image of Death"",""notes"":""![image](https://upload.wikimedia.org/wikipedia/commons/c/c5/Hel_%281889%29_by_Johannes_Gehrts.jpg)"",""provenance"":[]}",3,5
+2024/05/29,17:16:14,ELA_Death,UADDR_19,CLASS1-G2-EY4,select node,6,Awesome!,1,5
+2024/05/29,17:16:15,ELA_Death,UADDR_19,CLASS1-G2-EY4,insert edge,3,"{""id"":3,""source"":6,""attributes"":{},""provenance"":[],""createdBy"":""CLASS1-G2-EY4"",""updatedBy"":""CLASS1-G2-EY4""}",1,5
+2024/05/29,17:16:21,ELA_Death,UADDR_19,CLASS1-G2-EY4,select node,6,Awesome!,1,5
+2024/05/29,17:16:21,ELA_Death,UADDR_19,CLASS1-G2-EY4,select node,6,Awesome!,1,5
+2024/05/29,17:16:23,ELA_Death,UADDR_19,CLASS1-G2-EY4,update edge,3,"{""id"":3,""source"":6,""target"":9,""updatedBy"":""CLASS1-G2-EY4"",""type"":""describes"",""provenance"":[]}",1,5
+2024/05/29,17:16:23,ELA_Death,UADDR_19,CLASS1-G2-EY4,select node,6,Awesome!,1,5
+2024/05/29,17:16:41,ELA_Death,UADDR_11,CLASS1-G2-J9Y,select node,17,Osiris,3,5
+2024/05/29,17:16:42,ELA_Death,UADDR_19,CLASS1-G2-EY4,update edge,3,"{""id"":3,""source"":6,""target"":9,""updatedBy"":""CLASS1-G2-EY4"",""type"":""describes"",""provenance"":""Kalani thinks Discworld Death is awesome""}",1,5
+2024/05/29,17:16:42,ELA_Death,UADDR_19,CLASS1-G2-EY4,select node,6,Awesome!,1,5
+2024/05/29,17:16:43,ELA_Death,UADDR_12,CLASS1-G1-7PX,update node,10,"{""id"":10,""label"":""Hades"",""updatedBy"":""CLASS1-G1-7PX"",""type"":""Image of Death"",""notes"":""![image](![image](https://static.wikia.nocookie.net/villains/images/5/53/Hades_the_God_of_the_Underworld.jpg/revision/latest?cb=20170509160021)https://images.app.goo.gl/VUkdy9mBZcuGqpyE7)"",""provenance"":[]}",3,1
+2024/05/29,17:16:47,ELA_Death,UADDR_11,CLASS1-G2-J9Y,update node,17,"{""id"":17,""label"":""Osiris"",""updatedBy"":""CLASS1-G2-J9Y"",""type"":""Image of Death"",""notes"":""![image](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Standing_Osiris_edit1.svg/800px-Standing_Osiris_edit1.svg.png)"",""provenance"":[]}",3,5
+2024/05/29,17:16:48,ELA_Death,UADDR_19,CLASS1-G2-EY4,select node,16,Hecate,1,5
+2024/05/29,17:16:50,ELA_Death,UADDR_19,CLASS1-G2-EY4,select node,1,Angel of Death,1,5
+2024/05/29,17:16:55,ELA_Death,UADDR_20,CLASS1-G1-82Y,delete edge,2,,3,5
+2024/05/29,17:16:55,ELA_Death,UADDR_12,CLASS1-G1-7PX,select node,10,Hades,3,1
+2024/05/29,17:16:55,ELA_Death,UADDR_07,CLASS1-G1-82Y,select node,9,Discworld Death,1,4
+2024/05/29,17:16:55,ELA_Death,UADDR_11,CLASS1-G2-J9Y,select node,17,Osiris,3,5
+2024/05/29,17:16:55,ELA_Death,UADDR_19,CLASS1-G2-EY4,select node,1,Angel of Death,1,5
+2024/05/29,17:16:55,ELA_Death,UADDR_16,CLASS1-G2-JZ5,select node,16,Hecate,1,3
+2024/05/29,17:16:55,ELA_Death,UADDR_20,CLASS1-G1-82Y,select node,14,Mummy,3,5
+2024/05/29,17:16:55,ELA_Death,UADDR_20,CLASS1-G1-82Y,select node,14,Mummy,3,5
+2024/05/29,17:16:55,ELA_Death,UADDR_19,CLASS1-G2-EY4,select node,12, Grim Reaper,1,5
+2024/05/29,17:16:56,ELA_Death,UADDR_19,CLASS1-G2-EY4,insert edge,4,"{""id"":4,""source"":12,""attributes"":{},""provenance"":[],""createdBy"":""CLASS1-G2-EY4"",""updatedBy"":""CLASS1-G2-EY4""}",1,5
+2024/05/29,17:16:59,ELA_Death,UADDR_19,CLASS1-G2-EY4,delete edge,4,,1,5
+2024/05/29,17:16:59,ELA_Death,UADDR_19,CLASS1-G2-EY4,select node,12, Grim Reaper,1,5
+2024/05/29,17:16:59,ELA_Death,UADDR_07,CLASS1-G1-82Y,select node,9,Discworld Death,1,4
+2024/05/29,17:16:59,ELA_Death,UADDR_20,CLASS1-G1-82Y,select node,14,Mummy,3,5
+2024/05/29,17:16:59,ELA_Death,UADDR_11,CLASS1-G2-J9Y,select node,17,Osiris,3,5
+2024/05/29,17:16:59,ELA_Death,UADDR_12,CLASS1-G1-7PX,select node,10,Hades,3,1
+2024/05/29,17:16:59,ELA_Death,UADDR_16,CLASS1-G2-JZ5,select node,16,Hecate,1,3
+2024/05/29,17:16:59,ELA_Death,UADDR_19,CLASS1-G2-EY4,select node,12, Grim Reaper,1,5
+2024/05/29,17:17:00,ELA_Death,UADDR_07,CLASS1-G1-82Y,update node,9,"{""id"":9,""label"":""Discworld Death"",""updatedBy"":""CLASS1-G1-82Y"",""type"":""Image of Death"",""notes"":""I get a huge kick out of this character. He is sorta funny, but also doesn't have mercy. So I said neutral.\n\n![image](https://upload.wikimedia.org/wikipedia/en/b/b9/Death_Discworld.png)"",""connotation"":""Neutral"",""provenance"":[]}",1,4
+2024/05/29,17:17:06,ELA_Death,UADDR_12,CLASS1-G1-7PX,select node,10,Hades,3,1
+2024/05/29,17:17:08,ELA_Death,UADDR_19,CLASS1-G2-EY4,insert node,19,"{""id"":19,""label"":""harvest"",""provenance"":[],""createdBy"":""CLASS1-G2-EY4"",""updatedBy"":""CLASS1-G2-EY4""}",1,5
+2024/05/29,17:17:08,ELA_Death,UADDR_19,CLASS1-G2-EY4,select node,19,harvest,1,5
+2024/05/29,17:17:09,ELA_Death,UADDR_11,CLASS1-G2-J9Y,insert node,20,"{""id"":20,""label"":""Death the Gamer"",""provenance"":[],""createdBy"":""CLASS1-G2-J9Y"",""updatedBy"":""CLASS1-G2-J9Y""}",3,5
+2024/05/29,17:17:09,ELA_Death,UADDR_11,CLASS1-G2-J9Y,select node,20,Death the Gamer,3,5
+2024/05/29,17:17:12,ELA_Death,UADDR_20,CLASS1-G1-82Y,insert edge,5,"{""id"":5,""source"":14,""attributes"":{},""provenance"":[],""createdBy"":""CLASS1-G1-82Y"",""updatedBy"":""CLASS1-G1-82Y""}",3,5
+2024/05/29,17:17:13,ELA_Death,UADDR_19,CLASS1-G2-EY4,update node,19,"{""id"":19,""label"":""harvest"",""updatedBy"":""CLASS1-G2-EY4"",""type"":""Descriptive Words"",""connotation"":""Neutral"",""provenance"":[]}",1,5
+2024/05/29,17:17:15,ELA_Death,UADDR_15,CLASS1-G2-EP6,select node,9,Discworld Death,3,1
+2024/05/29,17:17:15,ELA_Death,UADDR_19,CLASS1-G2-EY4,insert edge,6,"{""id"":6,""source"":19,""attributes"":{},""provenance"":[],""createdBy"":""CLASS1-G2-EY4"",""updatedBy"":""CLASS1-G2-EY4""}",1,5
+2024/05/29,17:17:17,ELA_Death,UADDR_11,CLASS1-G2-J9Y,update node,20,"{""id"":20,""label"":""Death the Gamer"",""updatedBy"":""CLASS1-G2-J9Y"",""type"":""Image of Death"",""notes"":""![image](https://lwlies.com/wp-content/uploads/2017/08/the-seventh-seal-chess-scene-1108x0-c-default.jpg)"",""provenance"":[]}",3,5
+2024/05/29,17:17:17,ELA_Death,UADDR_12,CLASS1-G1-7PX,update node,10,"{""id"":10,""label"":""Hades"",""updatedBy"":""CLASS1-G1-7PX"",""type"":""Image of Death"",""notes"":""![image](![image](https://static.wikia.nocookie.net/villains/images/5/53/Hades_the_God_of_the_Underworld.jpg/revision/latest?cb=20170509160021)"",""provenance"":[]}",3,1
+2024/05/29,17:17:18,ELA_Death,UADDR_19,CLASS1-G2-EY4,select node,19,harvest,1,5
+2024/05/29,17:17:18,ELA_Death,UADDR_19,CLASS1-G2-EY4,select node,19,harvest,1,5
+2024/05/29,17:17:20,ELA_Death,UADDR_12,CLASS1-G1-7PX,select node,10,Hades,3,1
+2024/05/29,17:17:21,ELA_Death,UADDR_19,CLASS1-G2-EY4,update edge,6,"{""id"":6,""source"":19,""target"":9,""updatedBy"":""CLASS1-G2-EY4"",""type"":""describes"",""provenance"":[]}",1,5
+2024/05/29,17:17:21,ELA_Death,UADDR_19,CLASS1-G2-EY4,select node,19,harvest,1,5
+2024/05/29,17:17:23,ELA_Death,UADDR_19,CLASS1-G2-EY4,insert edge,7,"{""id"":7,""source"":19,""attributes"":{},""provenance"":[],""createdBy"":""CLASS1-G2-EY4"",""updatedBy"":""CLASS1-G2-EY4""}",1,5
+2024/05/29,17:17:26,ELA_Death,UADDR_11,CLASS1-G2-J9Y,select node,2,Frightening,3,5
+2024/05/29,17:17:30,ELA_Death,UADDR_12,CLASS1-G1-7PX,update node,10,"{""id"":10,""label"":""Hades"",""updatedBy"":""CLASS1-G1-7PX"",""type"":""Image of Death"",""notes"":""![image](https://static.wikia.nocookie.net/villains/images/5/53/Hades_the_God_of_the_Underworld.jpg/revision/latest?cb=20170509160021)"",""provenance"":[]}",3,1
+2024/05/29,17:17:30,ELA_Death,UADDR_11,CLASS1-G2-J9Y,insert edge,8,"{""id"":8,""source"":2,""attributes"":{},""provenance"":[],""createdBy"":""CLASS1-G2-J9Y"",""updatedBy"":""CLASS1-G2-J9Y""}",3,5
+2024/05/29,17:17:31,ELA_Death,UADDR_19,CLASS1-G2-EY4,select node,19,harvest,1,5
+2024/05/29,17:17:31,ELA_Death,UADDR_19,CLASS1-G2-EY4,select node,19,harvest,1,5
+2024/05/29,17:17:33,ELA_Death,UADDR_11,CLASS1-G2-J9Y,select node,2,Frightening,3,5
+2024/05/29,17:17:33,ELA_Death,UADDR_11,CLASS1-G2-J9Y,select node,2,Frightening,3,5
+2024/05/29,17:17:34,ELA_Death,UADDR_11,CLASS1-G2-J9Y,update edge,8,"{""id"":8,""source"":2,""target"":18,""updatedBy"":""CLASS1-G2-J9Y"",""provenance"":[]}",3,5
+2024/05/29,17:17:34,ELA_Death,UADDR_11,CLASS1-G2-J9Y,select node,2,Frightening,3,5
+2024/05/29,17:17:35,ELA_Death,UADDR_19,CLASS1-G2-EY4,update edge,7,"{""id"":7,""source"":19,""target"":12,""updatedBy"":""CLASS1-G2-EY4"",""type"":""describes"",""provenance"":[]}",1,5
+2024/05/29,17:17:35,ELA_Death,UADDR_19,CLASS1-G2-EY4,select node,19,harvest,1,5
+2024/05/29,17:17:37,ELA_Death,UADDR_11,CLASS1-G2-J9Y,select node,18,Hel,3,5
+2024/05/29,17:17:45,ELA_Death,UADDR_07,CLASS1-G1-82Y,update node,9,"{""id"":9,""label"":""Discworld Death"",""updatedBy"":""CLASS1-G1-82Y"",""type"":""Image of Death"",""notes"":""I get a huge kick out of this character. He is sorta funny, but also doesn't have mercy. So I said neutral.\n\n![image](https://upload.wikimedia.org/wikipedia/en/b/b9/Death_Discworld.png)"",""connotation"":""Neutral"",""provenance"":""Wikipedia, but I read a number of the Discworld books"",""connection"":""I think it's funny, and sarcastic, and ... sinister?""}",1,4
+2024/05/29,17:17:46,ELA_Death,UADDR_11,CLASS1-G2-J9Y,update node,18,"{""id"":18,""label"":""Hel"",""updatedBy"":""CLASS1-G2-J9Y"",""type"":""Image of Death"",""notes"":""![image](https://upload.wikimedia.org/wikipedia/commons/c/c5/Hel_%281889%29_by_Johannes_Gehrts.jpg)"",""connotation"":""Negative"",""provenance"":[]}",3,5
+2024/05/29,17:17:47,ELA_Death,UADDR_11,CLASS1-G2-J9Y,select node,17,Osiris,3,5
+2024/05/29,17:17:51,ELA_Death,UADDR_07,CLASS1-G1-82Y,select node,14,Mummy,1,4
+2024/05/29,17:17:51,ELA_Death,UADDR_19,CLASS1-G2-EY4,insert node,21,"{""id"":21,""label"":""Western European-ish"",""provenance"":[],""createdBy"":""CLASS1-G2-EY4"",""updatedBy"":""CLASS1-G2-EY4""}",1,5
+2024/05/29,17:17:51,ELA_Death,UADDR_19,CLASS1-G2-EY4,select node,21,Western European-ish,1,5
+2024/05/29,17:17:53,ELA_Death,UADDR_11,CLASS1-G2-J9Y,update node,17,"{""id"":17,""label"":""Osiris"",""updatedBy"":""CLASS1-G2-J9Y"",""type"":""Image of Death"",""notes"":""![image](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Standing_Osiris_edit1.svg/800px-Standing_Osiris_edit1.svg.png)"",""connotation"":""Neutral"",""provenance"":[]}",3,5
+2024/05/29,17:17:54,ELA_Death,UADDR_11,CLASS1-G2-J9Y,select node,20,Death the Gamer,3,5
+2024/05/29,17:17:58,ELA_Death,UADDR_11,CLASS1-G2-J9Y,update node,20,"{""id"":20,""label"":""Death the Gamer"",""updatedBy"":""CLASS1-G2-J9Y"",""type"":""Image of Death"",""notes"":""![image](https://lwlies.com/wp-content/uploads/2017/08/the-seventh-seal-chess-scene-1108x0-c-default.jpg)"",""connotation"":""Neutral"",""provenance"":[]}",3,5
+2024/05/29,17:17:59,ELA_Death,UADDR_19,CLASS1-G2-EY4,update node,21,"{""id"":21,""label"":""Western European-ish"",""updatedBy"":""CLASS1-G2-EY4"",""type"":""Descriptive Words"",""connotation"":""Neutral"",""provenance"":[]}",1,5
+2024/05/29,17:18:01,ELA_Death,UADDR_19,CLASS1-G2-EY4,insert edge,9,"{""id"":9,""source"":21,""attributes"":{},""provenance"":[],""createdBy"":""CLASS1-G2-EY4"",""updatedBy"":""CLASS1-G2-EY4""}",1,5
+2024/05/29,17:18:08,ELA_Death,UADDR_19,CLASS1-G2-EY4,select node,21,Western European-ish,1,5
+2024/05/29,17:18:10,ELA_Death,UADDR_19,CLASS1-G2-EY4,update edge,9,"{""id"":9,""source"":21,""target"":8,""updatedBy"":""CLASS1-G2-EY4"",""type"":""describes"",""provenance"":[]}",1,5
+2024/05/29,17:18:10,ELA_Death,UADDR_19,CLASS1-G2-EY4,select node,21,Western European-ish,1,5
+2024/05/29,17:18:12,ELA_Death,UADDR_19,CLASS1-G2-EY4,insert edge,10,"{""id"":10,""source"":21,""attributes"":{},""provenance"":[],""createdBy"":""CLASS1-G2-EY4"",""updatedBy"":""CLASS1-G2-EY4""}",1,5
+2024/05/29,17:18:12,ELA_Death,UADDR_15,CLASS1-G2-EP6,delete comment,4,,3,1
+2024/05/29,17:18:14,ELA_Death,UADDR_15,CLASS1-G2-EP6,update readby,3,"{""comment_id"":3,""commenter_ids"":[""CLASS1-G2-EP6""]}",3,1
+2024/05/29,17:18:16,ELA_Death,UADDR_19,CLASS1-G2-EY4,select node,21,Western European-ish,1,5
+2024/05/29,17:18:16,ELA_Death,UADDR_11,CLASS1-G2-J9Y,insert node,22,"{""id"":22,""label"":""Classical"",""provenance"":[],""createdBy"":""CLASS1-G2-J9Y"",""updatedBy"":""CLASS1-G2-J9Y""}",3,5
+2024/05/29,17:18:16,ELA_Death,UADDR_11,CLASS1-G2-J9Y,select node,22,Classical,3,5
+2024/05/29,17:18:18,ELA_Death,UADDR_07,CLASS1-G1-82Y,insert node,23,"{""id"":23,""label"":""Sarcastic"",""provenance"":[],""createdBy"":""CLASS1-G1-82Y"",""updatedBy"":""CLASS1-G1-82Y""}",1,4
+2024/05/29,17:18:18,ELA_Death,UADDR_07,CLASS1-G1-82Y,select node,23,Sarcastic,1,4
+2024/05/29,17:18:18,ELA_Death,UADDR_19,CLASS1-G2-EY4,update edge,10,"{""id"":10,""source"":21,""target"":12,""updatedBy"":""CLASS1-G2-EY4"",""type"":""describes"",""provenance"":[]}",1,5
+2024/05/29,17:18:19,ELA_Death,UADDR_19,CLASS1-G2-EY4,select node,21,Western European-ish,1,5
+2024/05/29,17:18:20,ELA_Death,UADDR_19,CLASS1-G2-EY4,insert edge,11,"{""id"":11,""source"":21,""attributes"":{},""provenance"":[],""createdBy"":""CLASS1-G2-EY4"",""updatedBy"":""CLASS1-G2-EY4""}",1,5
+2024/05/29,17:18:20,ELA_Death,UADDR_11,CLASS1-G2-J9Y,update node,22,"{""id"":22,""label"":""Classical"",""updatedBy"":""CLASS1-G2-J9Y"",""type"":""Descriptive Words"",""provenance"":[]}",3,5
+2024/05/29,17:18:22,ELA_Death,UADDR_15,CLASS1-G2-EP6,select node,8,Plague Doctor,3,1
+2024/05/29,17:18:24,ELA_Death,UADDR_19,CLASS1-G2-EY4,select node,21,Western European-ish,1,5
+2024/05/29,17:18:24,ELA_Death,UADDR_11,CLASS1-G2-J9Y,insert edge,12,"{""id"":12,""source"":22,""attributes"":{},""provenance"":[],""createdBy"":""CLASS1-G2-J9Y"",""updatedBy"":""CLASS1-G2-J9Y""}",3,5
+2024/05/29,17:18:26,ELA_Death,UADDR_19,CLASS1-G2-EY4,update edge,11,"{""id"":11,""source"":21,""target"":18,""updatedBy"":""CLASS1-G2-EY4"",""type"":""describes"",""provenance"":[]}",1,5
+2024/05/29,17:18:26,ELA_Death,UADDR_19,CLASS1-G2-EY4,select node,21,Western European-ish,1,5
+2024/05/29,17:18:29,ELA_Death,UADDR_19,CLASS1-G2-EY4,insert edge,13,"{""id"":13,""source"":21,""attributes"":{},""provenance"":[],""createdBy"":""CLASS1-G2-EY4"",""updatedBy"":""CLASS1-G2-EY4""}",1,5
+2024/05/29,17:18:31,ELA_Death,UADDR_11,CLASS1-G2-J9Y,select node,22,Classical,3,5
+2024/05/29,17:18:31,ELA_Death,UADDR_11,CLASS1-G2-J9Y,select node,22,Classical,3,5
+2024/05/29,17:18:32,ELA_Death,UADDR_11,CLASS1-G2-J9Y,update edge,12,"{""id"":12,""source"":22,""target"":18,""updatedBy"":""CLASS1-G2-J9Y"",""provenance"":[]}",3,5
+2024/05/29,17:18:32,ELA_Death,UADDR_11,CLASS1-G2-J9Y,select node,22,Classical,3,5
+2024/05/29,17:18:32,ELA_Death,UADDR_15,CLASS1-G2-EP6,select node,20,Death the Gamer,3,1
+2024/05/29,17:18:33,ELA_Death,UADDR_07,CLASS1-G1-82Y,update node,23,"{""id"":23,""label"":""Sarcastic"",""updatedBy"":""CLASS1-G1-82Y"",""type"":""Descriptive Words"",""provenance"":[]}",1,4
+2024/05/29,17:18:33,ELA_Death,UADDR_11,CLASS1-G2-J9Y,insert edge,14,"{""id"":14,""source"":22,""attributes"":{},""provenance"":[],""createdBy"":""CLASS1-G2-J9Y"",""updatedBy"":""CLASS1-G2-J9Y""}",3,5
+2024/05/29,17:18:36,ELA_Death,UADDR_11,CLASS1-G2-J9Y,select node,22,Classical,3,5
+2024/05/29,17:18:36,ELA_Death,UADDR_11,CLASS1-G2-J9Y,select node,22,Classical,3,5
+2024/05/29,17:18:37,ELA_Death,UADDR_11,CLASS1-G2-J9Y,update edge,14,"{""id"":14,""source"":22,""target"":10,""updatedBy"":""CLASS1-G2-J9Y"",""provenance"":[]}",3,5
+2024/05/29,17:18:37,ELA_Death,UADDR_11,CLASS1-G2-J9Y,select node,22,Classical,3,5
+2024/05/29,17:18:38,ELA_Death,UADDR_15,CLASS1-G2-EP6,select node,12, Grim Reaper,3,1
+2024/05/29,17:18:39,ELA_Death,UADDR_11,CLASS1-G2-J9Y,insert edge,15,"{""id"":15,""source"":22,""attributes"":{},""provenance"":[],""createdBy"":""CLASS1-G2-J9Y"",""updatedBy"":""CLASS1-G2-J9Y""}",3,5
+2024/05/29,17:18:39,ELA_Death,UADDR_19,CLASS1-G2-EY4,select node,21,Western European-ish,1,5
+2024/05/29,17:18:41,ELA_Death,UADDR_07,CLASS1-G1-82Y,select node,23,Sarcastic,1,4
+2024/05/29,17:18:41,ELA_Death,UADDR_19,CLASS1-G2-EY4,update edge,13,"{""id"":13,""source"":21,""target"":11,""updatedBy"":""CLASS1-G2-EY4"",""type"":""describes"",""provenance"":[]}",1,5
+2024/05/29,17:18:41,ELA_Death,UADDR_19,CLASS1-G2-EY4,select node,21,Western European-ish,1,5
+2024/05/29,17:18:42,ELA_Death,UADDR_11,CLASS1-G2-J9Y,select node,22,Classical,3,5
+2024/05/29,17:18:42,ELA_Death,UADDR_11,CLASS1-G2-J9Y,select node,22,Classical,3,5
+2024/05/29,17:18:42,ELA_Death,UADDR_07,CLASS1-G1-82Y,insert node,24,"{""id"":24,""label"":""Sarcastic"",""provenance"":[],""createdBy"":""CLASS1-G1-82Y"",""updatedBy"":""CLASS1-G1-82Y""}",1,4
+2024/05/29,17:18:42,ELA_Death,UADDR_07,CLASS1-G1-82Y,select node,24,Sarcastic,1,4
+2024/05/29,17:18:42,ELA_Death,UADDR_19,CLASS1-G2-EY4,insert edge,16,"{""id"":16,""source"":21,""attributes"":{},""provenance"":[],""createdBy"":""CLASS1-G2-EY4"",""updatedBy"":""CLASS1-G2-EY4""}",1,5
+2024/05/29,17:18:45,ELA_Death,UADDR_11,CLASS1-G2-J9Y,update edge,15,"{""id"":15,""source"":22,""target"":17,""updatedBy"":""CLASS1-G2-J9Y"",""provenance"":[]}",3,5
+2024/05/29,17:18:45,ELA_Death,UADDR_11,CLASS1-G2-J9Y,select node,22,Classical,3,5
+2024/05/29,17:18:46,ELA_Death,UADDR_11,CLASS1-G2-J9Y,insert edge,17,"{""id"":17,""source"":22,""attributes"":{},""provenance"":[],""createdBy"":""CLASS1-G2-J9Y"",""updatedBy"":""CLASS1-G2-J9Y""}",3,5
+2024/05/29,17:18:51,ELA_Death,UADDR_07,CLASS1-G1-82Y,delete node,24,,1,4
+2024/05/29,17:18:52,ELA_Death,UADDR_16,CLASS1-G2-JZ5,select node,22,Classical,1,3
+2024/05/29,17:18:54,ELA_Death,UADDR_07,CLASS1-G1-82Y,select node,23,Sarcastic,1,4
+2024/05/29,17:18:58,ELA_Death,UADDR_19,CLASS1-G2-EY4,update edge,16,"{""id"":16,""source"":21,""target"":16,""updatedBy"":""CLASS1-G2-EY4"",""type"":""describes"",""provenance"":[]}",1,5
+2024/05/29,17:19:00,ELA_Death,UADDR_07,CLASS1-G1-82Y,cancel edit node,23,Sarcastic,1,4
+2024/05/29,17:19:01,ELA_Death,UADDR_11,CLASS1-G2-J9Y,update edge,17,"{""id"":17,""source"":22,""target"":11,""updatedBy"":""CLASS1-G2-J9Y"",""provenance"":[]}",3,5
+2024/05/29,17:19:02,ELA_Death,UADDR_07,CLASS1-G1-82Y,insert edge,18,"{""id"":18,""source"":23,""attributes"":{},""provenance"":[],""createdBy"":""CLASS1-G1-82Y"",""updatedBy"":""CLASS1-G1-82Y""}",1,4
+2024/05/29,17:19:02,ELA_Death,UADDR_11,CLASS1-G2-J9Y,insert edge,19,"{""id"":19,""source"":22,""attributes"":{},""provenance"":[],""createdBy"":""CLASS1-G2-J9Y"",""updatedBy"":""CLASS1-G2-J9Y""}",3,5
+2024/05/29,17:19:02,ELA_Death,UADDR_19,CLASS1-G2-EY4,select node,21,Western European-ish,1,5
+2024/05/29,17:19:06,ELA_Death,UADDR_07,CLASS1-G1-82Y,delete edge,18,,1,4
+2024/05/29,17:19:06,ELA_Death,UADDR_07,CLASS1-G1-82Y,select node,23,Sarcastic,1,4
+2024/05/29,17:19:06,ELA_Death,UADDR_19,CLASS1-G2-EY4,select node,21,Western European-ish,1,5
+2024/05/29,17:19:06,ELA_Death,UADDR_07,CLASS1-G1-82Y,select node,23,Sarcastic,1,4
+2024/05/29,17:19:07,ELA_Death,UADDR_12,CLASS1-G1-7PX,select node,10,Hades,3,1
+2024/05/29,17:19:08,ELA_Death,UADDR_11,CLASS1-G2-J9Y,update edge,19,"{""id"":19,""source"":22,""target"":16,""updatedBy"":""CLASS1-G2-J9Y"",""provenance"":[]}",3,5
+2024/05/29,17:19:10,ELA_Death,UADDR_11,CLASS1-G2-J9Y,select node,22,Classical,3,5
+2024/05/29,17:19:11,ELA_Death,UADDR_07,CLASS1-G1-82Y,select node,20,Death the Gamer,1,4
+2024/05/29,17:19:21,ELA_Death,UADDR_07,CLASS1-G1-82Y,insert node,25,"{""id"":25,""label"":""Sarcastic"",""provenance"":[],""createdBy"":""CLASS1-G1-82Y"",""updatedBy"":""CLASS1-G1-82Y""}",1,4
+2024/05/29,17:19:21,ELA_Death,UADDR_07,CLASS1-G1-82Y,select node,25,Sarcastic,1,4
+2024/05/29,17:19:22,ELA_Death,UADDR_19,CLASS1-G2-EY4,select node,22,Classical,1,5
+2024/05/29,17:19:29,ELA_Death,UADDR_11,CLASS1-G2-J9Y,update node,22,"{""id"":22,""label"":""Classical"",""updatedBy"":""CLASS1-G2-J9Y"",""type"":""Descriptive Words"",""notes"":""As in, the Classical Era"",""provenance"":[]}",3,5
+2024/05/29,17:19:34,ELA_Death,UADDR_11,CLASS1-G2-J9Y,select node,22,Classical,3,5
+2024/05/29,17:19:37,ELA_Death,UADDR_07,CLASS1-G1-82Y,delete node,25,,1,4
+2024/05/29,17:19:41,ELA_Death,UADDR_07,CLASS1-G1-82Y,select node,23,Sarcastic,1,4
+2024/05/29,17:19:45,ELA_Death,UADDR_12,CLASS1-G1-7PX,select node,9,Discworld Death,3,1
+2024/05/29,17:19:49,ELA_Death,UADDR_07,CLASS1-G1-82Y,cancel edit node,23,Sarcastic,1,4
+2024/05/29,17:19:50,ELA_Death,UADDR_15,CLASS1-G2-EP6,insert node,26,"{""id"":26,""label"":""Light Yagami"",""provenance"":[],""createdBy"":""CLASS1-G2-EP6"",""updatedBy"":""CLASS1-G2-EP6""}",3,1
+2024/05/29,17:19:50,ELA_Death,UADDR_15,CLASS1-G2-EP6,select node,26,Light Yagami,3,1
+2024/05/29,17:19:53,ELA_Death,UADDR_12,CLASS1-G1-7PX,select node,12, Grim Reaper,3,1
+2024/05/29,17:19:56,ELA_Death,UADDR_12,CLASS1-G1-7PX,select node,8,Plague Doctor,3,1
+2024/05/29,17:19:59,ELA_Death,UADDR_07,CLASS1-G1-82Y,cancel edit node,23,Sarcastic,1,4
+2024/05/29,17:19:59,ELA_Death,UADDR_12,CLASS1-G1-7PX,select node,18,Hel,3,1
+2024/05/29,17:20:02,ELA_Death,UADDR_12,CLASS1-G1-7PX,select node,11,Thanatos,3,1
+2024/05/29,17:20:02,ELA_Death,UADDR_16,CLASS1-G2-JZ5,select node,5,el Día de los Muertos,1,3
+2024/05/29,17:20:03,ELA_Death,UADDR_07,CLASS1-G1-82Y,insert edge,20,"{""id"":20,""source"":23,""attributes"":{},""provenance"":[],""createdBy"":""CLASS1-G1-82Y"",""updatedBy"":""CLASS1-G1-82Y""}",1,4
+2024/05/29,17:20:03,ELA_Death,UADDR_19,CLASS1-G2-EY4,update readby,1,"{""comment_id"":1,""commenter_ids"":[""CLASS1-G2-EY4""]}",1,5
+2024/05/29,17:20:03,ELA_Death,UADDR_19,CLASS1-G2-EY4,update readby,2,"{""comment_id"":2,""commenter_ids"":[""CLASS1-G2-EY4""]}",1,5
+2024/05/29,17:20:03,ELA_Death,UADDR_19,CLASS1-G2-EY4,update readby,3,"{""comment_id"":3,""commenter_ids"":[""CLASS1-G2-EY4""]}",1,5
+2024/05/29,17:20:03,ELA_Death,UADDR_19,CLASS1-G2-EY4,insert readby,5,"{""comment_id"":5,""commenter_ids"":[""CLASS1-G2-EY4""]}",1,5
+2024/05/29,17:20:06,ELA_Death,UADDR_15,-,left network,,,3,1
+2024/05/29,17:20:06,ELA_Death,UADDR_21,-,joined network,,,2,1
+2024/05/29,17:20:07,ELA_Death,UADDR_21,-,getdatabase,,,2,1
+2024/05/29,17:20:07,ELA_Death,UADDR_12,CLASS1-G1-7PX,select node,16,Hecate,3,1
+2024/05/29,17:20:07,ELA_Death,UADDR_11,CLASS1-G2-J9Y,update node,22,"{""id"":22,""label"":""Classical / Ancient Era"",""updatedBy"":""CLASS1-G2-J9Y"",""type"":""Descriptive Words"",""notes"":"""",""provenance"":[]}",3,5
+2024/05/29,17:20:07,ELA_Death,UADDR_12,CLASS1-G1-7PX,select node,10,Hades,3,1
+2024/05/29,17:20:10,ELA_Death,UADDR_21,CLASS1-G2-EP6,select node,9,Discworld Death,2,1
+2024/05/29,17:20:12,ELA_Death,UADDR_16,CLASS1-G2-JZ5,insert node,27,"{""id"":27,""label"":""Meso-American"",""provenance"":[],""createdBy"":""CLASS1-G2-JZ5"",""updatedBy"":""CLASS1-G2-JZ5""}",1,3
+2024/05/29,17:20:12,ELA_Death,UADDR_16,CLASS1-G2-JZ5,select node,27,Meso-American,1,3
+2024/05/29,17:20:13,ELA_Death,UADDR_15,-,SRV_NET  -,pong not received before time ran out -- CLIENT CONNECTION DEAD!,,3,1
+2024/05/29,17:20:14,ELA_Death,UADDR_21,CLASS1-G2-EP6,select node,1,Angel of Death,2,1
+2024/05/29,17:20:17,ELA_Death,UADDR_07,CLASS1-G1-82Y,select node,23,Sarcastic,1,4
+2024/05/29,17:20:17,ELA_Death,UADDR_19,CLASS1-G2-EY4,"deselect tab Nodes Table, reverting to Graph",,,1,5
+2024/05/29,17:20:19,ELA_Death,UADDR_19,CLASS1-G2-EY4,select tab Nodes Table,,,1,5
+2024/05/29,17:20:20,ELA_Death,UADDR_21,CLASS1-G2-EP6,select tab Nodes Table,,,2,1
+2024/05/29,17:20:22,ELA_Death,UADDR_07,CLASS1-G1-82Y,update edge,20,"{""id"":20,""source"":23,""target"":9,""updatedBy"":""CLASS1-G1-82Y"",""type"":""describes"",""provenance"":[]}",1,4
+2024/05/29,17:20:22,ELA_Death,UADDR_07,CLASS1-G1-82Y,select node,23,Sarcastic,1,4
+2024/05/29,17:20:25,ELA_Death,UADDR_12,CLASS1-G1-7PX,select tab Edges Table,,,3,1
+2024/05/29,17:20:26,ELA_Death,UADDR_19,CLASS1-G2-EY4,select tab Edges Table,,,1,5
+2024/05/29,17:20:28,ELA_Death,UADDR_20,CLASS1-G1-82Y,insert node,28,"{""id"":28,""label"":""Scooby Doo!"",""provenance"":[],""createdBy"":""CLASS1-G1-82Y"",""updatedBy"":""CLASS1-G1-82Y""}",3,5
+2024/05/29,17:20:31,ELA_Death,UADDR_16,CLASS1-G2-JZ5,update node,27,"{""id"":27,""label"":""Meso-American"",""updatedBy"":""CLASS1-G2-JZ5"",""type"":""Descriptive Words"",""provenance"":[]}",1,3
+2024/05/29,17:20:33,ELA_Death,UADDR_20,CLASS1-G1-82Y,update edge,5,"{""id"":5,""source"":14,""target"":28,""updatedBy"":""CLASS1-G1-82Y"",""provenance"":[]}",3,5
+2024/05/29,17:20:34,ELA_Death,UADDR_16,CLASS1-G2-JZ5,insert edge,21,"{""id"":21,""source"":27,""attributes"":{},""provenance"":[],""createdBy"":""CLASS1-G2-JZ5"",""updatedBy"":""CLASS1-G2-JZ5""}",1,3
+2024/05/29,17:20:34,ELA_Death,UADDR_19,-,left network,,,1,5
+2024/05/29,17:20:35,ELA_Death,UADDR_22,-,joined network,,,2,1
+2024/05/29,17:20:35,ELA_Death,UADDR_22,-,getdatabase,,,2,1
+2024/05/29,17:20:35,ELA_Death,UADDR_07,CLASS1-G1-82Y,select node,8,Plague Doctor,1,4
+2024/05/29,17:20:37,ELA_Death,UADDR_22,CLASS1-G2-EY4,select tab Nodes Table,,,2,1
+2024/05/29,17:20:38,ELA_Death,UADDR_16,CLASS1-G2-JZ5,select node,27,Meso-American,1,3
+2024/05/29,17:20:38,ELA_Death,UADDR_19,-,SRV_NET  -,pong not received before time ran out -- CLIENT CONNECTION DEAD!,,1,5
+2024/05/29,17:20:39,ELA_Death,UADDR_22,CLASS1-G2-EY4,select tab Edges Table,,,2,1
+2024/05/29,17:20:42,ELA_Death,UADDR_16,CLASS1-G2-JZ5,update edge,21,"{""id"":21,""source"":27,""target"":5,""updatedBy"":""CLASS1-G2-JZ5"",""type"":""describes"",""provenance"":[]}",1,3
+2024/05/29,17:20:42,ELA_Death,UADDR_16,CLASS1-G2-JZ5,select node,27,Meso-American,1,3
+2024/05/29,17:20:42,ELA_Death,UADDR_20,CLASS1-G1-82Y,cancel edit edge,5,Mummy➔Scooby Doo!,3,5
+2024/05/29,17:20:45,ELA_Death,UADDR_20,CLASS1-G1-82Y,select node,5,el Día de los Muertos,3,5
+2024/05/29,17:20:46,ELA_Death,UADDR_20,CLASS1-G1-82Y,select node,28,Scooby Doo!,3,5
+2024/05/29,17:20:47,ELA_Death,UADDR_20,CLASS1-G1-82Y,select tab Nodes Table,,,3,5
+2024/05/29,17:20:50,ELA_Death,UADDR_21,CLASS1-G2-EP6,update readby,3,"{""comment_id"":3,""commenter_ids"":[""CLASS1-G2-EY4"",""CLASS1-G2-EP6""]}",2,1
+2024/05/29,17:20:55,ELA_Death,UADDR_07,CLASS1-G1-82Y,insert comment,6,"{""collection_ref"":""n8"",""comment_id"":6,""comment_id_parent"":1,""comment_id_previous"":2,""comment_type"":""cmt"",""comment_createtime"":1717003240494,""comment_modifytime"":1717003255490,""commenter_id"":""CLASS1-G1-82Y"",""commenter_text"":[""This didn't appear as a reply even though it was... ""]}",1,4
+2024/05/29,17:21:00,ELA_Death,UADDR_21,CLASS1-G2-EP6,select node,8,Plague Doctor,2,1
+2024/05/29,17:21:01,ELA_Death,UADDR_11,CLASS1-G2-J9Y,select node,21,Western European-ish,3,5
+2024/05/29,17:21:03,ELA_Death,UADDR_16,CLASS1-G2-JZ5,insert node,29,"{""id"":29,""label"":""Mictlantecuhtli"",""provenance"":[],""createdBy"":""CLASS1-G2-JZ5"",""updatedBy"":""CLASS1-G2-JZ5""}",1,3
+2024/05/29,17:21:03,ELA_Death,UADDR_16,CLASS1-G2-JZ5,select node,29,Mictlantecuhtli,1,3
+2024/05/29,17:21:04,ELA_Death,UADDR_11,CLASS1-G2-J9Y,insert edge,22,"{""id"":22,""source"":21,""attributes"":{},""provenance"":[],""createdBy"":""CLASS1-G2-J9Y"",""updatedBy"":""CLASS1-G2-J9Y""}",3,5
+2024/05/29,17:21:07,ELA_Death,UADDR_07,CLASS1-G1-82Y,update readby,1,"{""comment_id"":1,""commenter_ids"":[""CLASS1-G1-82Y""]}",1,4
+2024/05/29,17:21:07,ELA_Death,UADDR_07,CLASS1-G1-82Y,update readby,2,"{""comment_id"":2,""commenter_ids"":[""CLASS1-G1-82Y""]}",1,4
+2024/05/29,17:21:07,ELA_Death,UADDR_07,CLASS1-G1-82Y,insert readby,6,"{""comment_id"":6,""commenter_ids"":[""CLASS1-G1-82Y""]}",1,4
+2024/05/29,17:21:09,ELA_Death,UADDR_11,CLASS1-G2-J9Y,select node,21,Western European-ish,3,5
+2024/05/29,17:21:09,ELA_Death,UADDR_11,CLASS1-G2-J9Y,select node,21,Western European-ish,3,5
+2024/05/29,17:21:11,ELA_Death,UADDR_07,CLASS1-G1-82Y,select node,9,Discworld Death,1,4
+2024/05/29,17:21:14,ELA_Death,UADDR_16,CLASS1-G2-JZ5,update node,29,"{""id"":29,""label"":""Mictlantecuhtli"",""updatedBy"":""CLASS1-G2-JZ5"",""type"":""Image of Death"",""notes"":""https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Mictlantecuhtli.svg/800px-Mictlantecuhtli.svg.png"",""connotation"":""Neutral"",""provenance"":[]}",1,3
+2024/05/29,17:21:16,ELA_Death,UADDR_11,CLASS1-G2-J9Y,update edge,22,"{""id"":22,""source"":21,""target"":4,""updatedBy"":""CLASS1-G2-J9Y"",""type"":""describes"",""provenance"":[]}",3,5
+2024/05/29,17:21:16,ELA_Death,UADDR_21,CLASS1-G2-EP6,select node,12, Grim Reaper,2,1
+2024/05/29,17:21:16,ELA_Death,UADDR_11,CLASS1-G2-J9Y,select node,21,Western European-ish,3,5
+2024/05/29,17:21:16,ELA_Death,UADDR_16,CLASS1-G2-JZ5,insert edge,23,"{""id"":23,""source"":29,""attributes"":{},""provenance"":[],""createdBy"":""CLASS1-G2-JZ5"",""updatedBy"":""CLASS1-G2-JZ5""}",1,3
+2024/05/29,17:21:20,ELA_Death,UADDR_16,CLASS1-G2-JZ5,select node,29,Mictlantecuhtli,1,3
+2024/05/29,17:21:22,ELA_Death,UADDR_16,CLASS1-G2-JZ5,update edge,23,"{""id"":23,""source"":27,""target"":29,""updatedBy"":""CLASS1-G2-JZ5"",""type"":""describes"",""provenance"":[]}",1,3
+2024/05/29,17:21:23,ELA_Death,UADDR_16,CLASS1-G2-JZ5,select node,29,Mictlantecuhtli,1,3
+2024/05/29,17:21:28,ELA_Death,UADDR_22,-,left network,,,2,1
+2024/05/29,17:21:28,ELA_Death,UADDR_23,-,joined network,,,2,1
+2024/05/29,17:21:28,ELA_Death,UADDR_23,-,getdatabase,,,2,1
+2024/05/29,17:21:30,ELA_Death,UADDR_21,CLASS1-G2-EP6,cancel edit node,12, Grim Reaper,2,1
+2024/05/29,17:21:32,ELA_Death,UADDR_23,CLASS1-G2-EY4,select tab Edges Table,,,2,1
+2024/05/29,17:21:33,ELA_Death,UADDR_22,-,SRV_NET  -,pong not received before time ran out -- CLIENT CONNECTION DEAD!,,2,1
+2024/05/29,17:21:35,ELA_Death,UADDR_21,CLASS1-G2-EP6,select node,1,Angel of Death,2,1
+2024/05/29,17:21:47,ELA_Death,UADDR_21,CLASS1-G2-EP6,select node,12, Grim Reaper,2,1
+2024/05/29,17:21:51,ELA_Death,UADDR_07,CLASS1-G1-82Y,insert comment,9,"{""collection_ref"":""n9"",""comment_id"":9,""comment_id_parent"":3,""comment_id_previous"":"""",""comment_type"":""cmt"",""comment_createtime"":1717003274551,""comment_modifytime"":1717003311624,""commenter_id"":""CLASS1-G1-82Y"",""commenter_text"":[""Cause people have no culture. And it's not quite like the other kinds.""]}",1,4
+2024/05/29,17:21:53,ELA_Death,UADDR_21,CLASS1-G2-EP6,update node,12,"{""id"":12,""label"":"" Grim Reaper"",""updatedBy"":""CLASS1-G2-EP6"",""type"":""Image of Death"",""notes"":""![image](https://cdn.britannica.com/73/191073-131-0D844C57/reaper-death.jpg)https://cdn.britannica.com/73/191073-131-0D844C57/reaper-death.jpg"",""connotation"":""Neutral"",""provenance"":""Wikipedia""}",2,1
+2024/05/29,17:21:54,ELA_Death,UADDR_07,CLASS1-G1-82Y,update readby,3,"{""comment_id"":3,""commenter_ids"":[""CLASS1-G1-82Y""]}",1,4
+2024/05/29,17:21:54,ELA_Death,UADDR_07,CLASS1-G1-82Y,insert readby,9,"{""comment_id"":9,""commenter_ids"":[""CLASS1-G1-82Y""]}",1,4
+2024/05/29,17:21:55,ELA_Death,UADDR_23,CLASS1-G2-EY4,select node,18,Hel,2,1
+2024/05/29,17:22:01,ELA_Death,UADDR_20,CLASS1-G1-82Y,select tab Graph,,,3,5
+2024/05/29,17:22:07,ELA_Death,UADDR_16,CLASS1-G2-JZ5,insert node,30,"{""id"":30,""label"":""Ereshkigal"",""provenance"":[],""createdBy"":""CLASS1-G2-JZ5"",""updatedBy"":""CLASS1-G2-JZ5""}",1,3
+2024/05/29,17:22:07,ELA_Death,UADDR_16,CLASS1-G2-JZ5,select node,30,Ereshkigal,1,3
+2024/05/29,17:22:08,ELA_Death,UADDR_20,CLASS1-G1-82Y,select node,29,Mictlantecuhtli,3,5
+2024/05/29,17:22:12,ELA_Death,UADDR_11,CLASS1-G2-J9Y,insert node,31,"{""id"":31,""label"":""Ego Death"",""provenance"":[],""createdBy"":""CLASS1-G2-J9Y"",""updatedBy"":""CLASS1-G2-J9Y""}",3,5
+2024/05/29,17:22:12,ELA_Death,UADDR_11,CLASS1-G2-J9Y,select node,31,Ego Death,3,5
+2024/05/29,17:22:14,ELA_Death,UADDR_16,CLASS1-G2-JZ5,delete node,30,,1,3
+2024/05/29,17:22:19,ELA_Death,UADDR_23,-,left network,,,2,1
+2024/05/29,17:22:19,ELA_Death,UADDR_24,-,joined network,,,2,1
+2024/05/29,17:22:19,ELA_Death,UADDR_24,-,getdatabase,,,2,1
+2024/05/29,17:22:21,ELA_Death,UADDR_24,CLASS1-G2-EY4,select tab Edges Table,,,2,1
+2024/05/29,17:22:22,ELA_Death,UADDR_16,CLASS1-G2-JZ5,insert node,32,"{""id"":32,""label"":""Mesopotamian"",""provenance"":[],""createdBy"":""CLASS1-G2-JZ5"",""updatedBy"":""CLASS1-G2-JZ5""}",1,3
+2024/05/29,17:22:22,ELA_Death,UADDR_16,CLASS1-G2-JZ5,select node,32,Mesopotamian,1,3
+2024/05/29,17:22:27,ELA_Death,UADDR_20,CLASS1-G1-82Y,select node,14,Mummy,3,5
+2024/05/29,17:22:28,ELA_Death,UADDR_23,-,SRV_NET  -,pong not received before time ran out -- CLIENT CONNECTION DEAD!,,2,1
+2024/05/29,17:22:29,ELA_Death,UADDR_16,CLASS1-G2-JZ5,update node,32,"{""id"":32,""label"":""Mesopotamian"",""updatedBy"":""CLASS1-G2-JZ5"",""type"":""Descriptive Words"",""provenance"":[]}",1,3
+2024/05/29,17:22:33,ELA_Death,UADDR_20,CLASS1-G1-82Y,update edge,5,"{""id"":5,""source"":14,""target"":28,""updatedBy"":""CLASS1-G1-82Y"",""type"":""describes"",""provenance"":[]}",3,5
+2024/05/29,17:22:33,ELA_Death,UADDR_20,CLASS1-G1-82Y,select node,14,Mummy,3,5
+2024/05/29,17:22:37,ELA_Death,UADDR_24,CLASS1-G2-EY4,update readby,1,"{""comment_id"":1,""commenter_ids"":[""CLASS1-G1-82Y"",""CLASS1-G2-EY4""]}",2,1
+2024/05/29,17:22:37,ELA_Death,UADDR_24,CLASS1-G2-EY4,update readby,2,"{""comment_id"":2,""commenter_ids"":[""CLASS1-G1-82Y"",""CLASS1-G2-EY4""]}",2,1
+2024/05/29,17:22:37,ELA_Death,UADDR_24,CLASS1-G2-EY4,update readby,6,"{""comment_id"":6,""commenter_ids"":[""CLASS1-G1-82Y"",""CLASS1-G2-EY4""]}",2,1
+2024/05/29,17:22:37,ELA_Death,UADDR_24,CLASS1-G2-EY4,update readby,3,"{""comment_id"":3,""commenter_ids"":[""CLASS1-G1-82Y"",""CLASS1-G2-EY4""]}",2,1
+2024/05/29,17:22:37,ELA_Death,UADDR_24,CLASS1-G2-EY4,update readby,9,"{""comment_id"":9,""commenter_ids"":[""CLASS1-G1-82Y"",""CLASS1-G2-EY4""]}",2,1
+2024/05/29,17:22:38,ELA_Death,UADDR_11,CLASS1-G2-J9Y,update node,31,"{""id"":31,""label"":""Ego Death"",""updatedBy"":""CLASS1-G2-J9Y"",""type"":""Image of Death"",""provenance"":[]}",3,5
+2024/05/29,17:22:39,ELA_Death,UADDR_20,CLASS1-G1-82Y,select node,28,Scooby Doo!,3,5
+2024/05/29,17:22:41,ELA_Death,UADDR_24,CLASS1-G2-EY4,select node,9,Discworld Death,2,1
+2024/05/29,17:22:47,ELA_Death,UADDR_20,CLASS1-G1-82Y,update node,28,"{""id"":28,""label"":""Scooby Doo!"",""updatedBy"":""CLASS1-G1-82Y"",""type"":""Descriptive Words"",""provenance"":[]}",3,5
+2024/05/29,17:22:51,ELA_Death,UADDR_16,CLASS1-G2-JZ5,insert node,33,"{""id"":33,""label"":""Ereshkigal"",""provenance"":[],""createdBy"":""CLASS1-G2-JZ5"",""updatedBy"":""CLASS1-G2-JZ5""}",1,3
+2024/05/29,17:22:51,ELA_Death,UADDR_16,CLASS1-G2-JZ5,select node,33,Ereshkigal,1,3
+2024/05/29,17:22:53,ELA_Death,UADDR_12,CLASS1-G1-7PX,select node,10,Hades,3,1
+2024/05/29,17:22:57,ELA_Death,UADDR_12,CLASS1-G1-7PX,cancel edit node,10,Hades,3,1
+2024/05/29,17:22:58,ELA_Death,UADDR_24,CLASS1-G2-EY4,delete comment,11,,2,1
+2024/05/29,17:22:59,ELA_Death,UADDR_16,CLASS1-G2-JZ5,update node,33,"{""id"":33,""label"":""Ereshkigal"",""updatedBy"":""CLASS1-G2-JZ5"",""type"":""Image of Death"",""notes"":""https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Relieve_Reina_de_la_Noche_%28ca._1800_a.C%29.jpg/800px-Relieve_Reina_de_la_Noche_%28ca._1800_a.C%29.jpg"",""connotation"":""Positive"",""provenance"":[]}",1,3
+2024/05/29,17:23:02,ELA_Death,UADDR_16,CLASS1-G2-JZ5,insert edge,24,"{""id"":24,""source"":33,""attributes"":{},""provenance"":[],""createdBy"":""CLASS1-G2-JZ5"",""updatedBy"":""CLASS1-G2-JZ5""}",1,3
+2024/05/29,17:23:08,ELA_Death,UADDR_16,CLASS1-G2-JZ5,select node,33,Ereshkigal,1,3
+2024/05/29,17:23:10,ELA_Death,UADDR_16,CLASS1-G2-JZ5,update edge,24,"{""id"":24,""source"":32,""target"":33,""updatedBy"":""CLASS1-G2-JZ5"",""type"":""describes"",""provenance"":[]}",1,3
+2024/05/29,17:23:10,ELA_Death,UADDR_16,CLASS1-G2-JZ5,select node,33,Ereshkigal,1,3
+2024/05/29,17:23:12,ELA_Death,UADDR_24,CLASS1-G2-EY4,delete comment,12,,2,1
+2024/05/29,17:23:15,ELA_Death,UADDR_11,CLASS1-G2-J9Y,select node,20,Death the Gamer,3,5
+2024/05/29,17:23:23,ELA_Death,UADDR_12,CLASS1-G1-7PX,update node,10,"{""id"":10,""label"":""Hades"",""updatedBy"":""CLASS1-G1-7PX"",""type"":""Image of Death"",""notes"":""![image](https://static.wikia.nocookie.net/villains/images/5/53/Hades_the_God_of_the_Underworld.jpg/revision/latest?cb=20170509160021)"",""provenance"":""there are tons of versions, but this one is from Once Upon a Time"",""connection"":""I love that show!""}",3,1
+2024/05/29,17:23:25,ELA_Death,UADDR_21,CLASS1-G2-EP6,select node,8,Plague Doctor,2,1
+2024/05/29,17:23:36,ELA_Death,UADDR_07,CLASS1-G1-82Y,select node,9,Discworld Death,1,4
+2024/05/29,17:23:36,ELA_Death,UADDR_11,CLASS1-G2-J9Y,update node,20,"{""id"":20,""label"":""Death the Gamer"",""updatedBy"":""CLASS1-G2-J9Y"",""type"":""Image of Death"",""notes"":""![image](https://lwlies.com/wp-content/uploads/2017/08/the-seventh-seal-chess-scene-1108x0-c-default.jpg) The notion that Death is being that can be played or bargained with"",""connotation"":""Neutral"",""provenance"":[]}",3,5
+2024/05/29,17:23:36,ELA_Death,UADDR_20,CLASS1-G1-82Y,update node,28,"{""id"":28,""label"":""Scooby Doo!"",""updatedBy"":""CLASS1-G1-82Y"",""type"":""Descriptive Words"",""notes"":"""",""provenance"":[]}",3,5
+2024/05/29,17:23:38,ELA_Death,UADDR_12,CLASS1-G1-7PX,select node,9,Discworld Death,3,1
+2024/05/29,17:23:39,ELA_Death,UADDR_11,CLASS1-G2-J9Y,select node,12, Grim Reaper,3,5
+2024/05/29,17:23:48,ELA_Death,UADDR_07,CLASS1-G1-82Y,update readby,3,"{""comment_id"":3,""commenter_ids"":[""CLASS1-G1-82Y""]}",1,4
+2024/05/29,17:23:48,ELA_Death,UADDR_07,CLASS1-G1-82Y,update readby,9,"{""comment_id"":9,""commenter_ids"":[""CLASS1-G1-82Y""]}",1,4
+2024/05/29,17:23:56,ELA_Death,UADDR_12,CLASS1-G1-7PX,delete comment,15,,3,1
+2024/05/29,17:24:00,ELA_Death,UADDR_24,-,left network,,,2,1
+2024/05/29,17:24:00,ELA_Death,UADDR_25,-,joined network,,,3,1
+2024/05/29,17:24:00,ELA_Death,UADDR_25,-,getdatabase,,,3,1
+2024/05/29,17:24:05,ELA_Death,UADDR_21,CLASS1-G2-EP6,select node,8,Plague Doctor,2,1
+2024/05/29,17:24:05,ELA_Death,UADDR_25,CLASS1-G2-EY4,select node,9,Discworld Death,3,1
+2024/05/29,17:24:06,ELA_Death,UADDR_21,CLASS1-G2-EP6,select node,8,Plague Doctor,2,1
+2024/05/29,17:24:08,ELA_Death,UADDR_24,-,SRV_NET  -,pong not received before time ran out -- CLIENT CONNECTION DEAD!,,2,1
+2024/05/29,17:24:09,ELA_Death,UADDR_21,CLASS1-G2-EP6,select node,8,Plague Doctor,2,1
+2024/05/29,17:24:11,ELA_Death,UADDR_21,-,left network,,,2,1
+2024/05/29,17:24:12,ELA_Death,UADDR_26,-,joined network,,,2,1
+2024/05/29,17:24:12,ELA_Death,UADDR_26,-,getdatabase,,,2,1
+2024/05/29,17:24:16,ELA_Death,UADDR_26,CLASS1-G2-EP6,select node,8,Plague Doctor,2,1
+2024/05/29,17:24:17,ELA_Death,UADDR_25,CLASS1-G2-EY4,insert comment,18,"{""collection_ref"":""n9"",""comment_id"":18,""comment_id_parent"":"""",""comment_id_previous"":3,""comment_type"":""source"",""comment_createtime"":1717003447438,""comment_modifytime"":1717003456870,""commenter_id"":""CLASS1-G2-EY4"",""commenter_text"":[""No"",""Who added this?""]}",3,1
+2024/05/29,17:24:18,ELA_Death,UADDR_21,-,SRV_NET  -,pong not received before time ran out -- CLIENT CONNECTION DEAD!,,2,1
+2024/05/29,17:24:19,ELA_Death,UADDR_16,CLASS1-G2-JZ5,insert node,34,"{""id"":34,""label"":""Gilgamesh"",""provenance"":[],""createdBy"":""CLASS1-G2-JZ5"",""updatedBy"":""CLASS1-G2-JZ5""}",1,3
+2024/05/29,17:24:19,ELA_Death,UADDR_16,CLASS1-G2-JZ5,select node,34,Gilgamesh,1,3
+2024/05/29,17:24:22,ELA_Death,UADDR_25,CLASS1-G2-EY4,update comment,18,"{""collection_ref"":""n9"",""comment_id"":18,""comment_id_parent"":"""",""comment_id_previous"":3,""comment_type"":""source"",""comment_createtime"":1717003447438,""comment_modifytime"":1717003462073,""commenter_id"":""CLASS1-G2-EY4"",""commenter_text"":[""No"",""Who added this? Who wrote the book?""]}",3,1
+2024/05/29,17:24:23,ELA_Death,UADDR_07,CLASS1-G1-82Y,select node,9,Discworld Death,1,4
+2024/05/29,17:24:29,ELA_Death,UADDR_26,CLASS1-G2-EP6,select node,8,Plague Doctor,2,1
+2024/05/29,17:24:30,ELA_Death,UADDR_07,CLASS1-G1-82Y,update readby,3,"{""comment_id"":3,""commenter_ids"":[""CLASS1-G1-82Y""]}",1,4
+2024/05/29,17:24:30,ELA_Death,UADDR_07,CLASS1-G1-82Y,update readby,9,"{""comment_id"":9,""commenter_ids"":[""CLASS1-G1-82Y""]}",1,4
+2024/05/29,17:24:30,ELA_Death,UADDR_07,CLASS1-G1-82Y,insert readby,18,"{""comment_id"":18,""commenter_ids"":[""CLASS1-G1-82Y""]}",1,4
+2024/05/29,17:24:31,ELA_Death,UADDR_26,CLASS1-G2-EP6,select node,8,Plague Doctor,2,1
+2024/05/29,17:24:33,ELA_Death,UADDR_26,-,left network,,,2,1
+2024/05/29,17:24:33,ELA_Death,UADDR_27,-,joined network,,,2,1
+2024/05/29,17:24:33,ELA_Death,UADDR_27,-,getdatabase,,,2,1
+2024/05/29,17:24:38,ELA_Death,UADDR_26,-,SRV_NET  -,pong not received before time ran out -- CLIENT CONNECTION DEAD!,,2,1
+2024/05/29,17:24:39,ELA_Death,UADDR_27,CLASS1-G2-EP6,select node,8,Plague Doctor,2,1
+2024/05/29,17:24:42,ELA_Death,UADDR_07,CLASS1-G1-82Y,update readby,3,"{""comment_id"":3,""commenter_ids"":[""CLASS1-G1-82Y""]}",1,4
+2024/05/29,17:24:42,ELA_Death,UADDR_07,CLASS1-G1-82Y,update readby,9,"{""comment_id"":9,""commenter_ids"":[""CLASS1-G1-82Y""]}",1,4
+2024/05/29,17:24:42,ELA_Death,UADDR_07,CLASS1-G1-82Y,update readby,18,"{""comment_id"":18,""commenter_ids"":[""CLASS1-G1-82Y""]}",1,4
+2024/05/29,17:24:49,ELA_Death,UADDR_16,CLASS1-G2-JZ5,update node,34,"{""id"":34,""label"":""Gilgamesh"",""updatedBy"":""CLASS1-G2-JZ5"",""type"":""Image of Death"",""notes"":""![image](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Hero_lion_Dur-Sharrukin_Louvre_AO19862.jpg/320px-Hero_lion_Dur-Sharrukin_Louvre_AO19862.jpg)"",""connotation"":""Positive"",""provenance"":[]}",1,3
+2024/05/29,17:24:52,ELA_Death,UADDR_16,CLASS1-G2-JZ5,insert edge,25,"{""id"":25,""source"":34,""attributes"":{},""provenance"":[],""createdBy"":""CLASS1-G2-JZ5"",""updatedBy"":""CLASS1-G2-JZ5""}",1,3
+2024/05/29,17:24:58,ELA_Death,UADDR_07,CLASS1-G1-82Y,update readby,3,"{""comment_id"":3,""commenter_ids"":[""CLASS1-G1-82Y""]}",1,4
+2024/05/29,17:24:58,ELA_Death,UADDR_07,CLASS1-G1-82Y,update readby,9,"{""comment_id"":9,""commenter_ids"":[""CLASS1-G1-82Y""]}",1,4
+2024/05/29,17:24:58,ELA_Death,UADDR_07,CLASS1-G1-82Y,update readby,18,"{""comment_id"":18,""commenter_ids"":[""CLASS1-G1-82Y""]}",1,4
+2024/05/29,17:24:58,ELA_Death,UADDR_16,CLASS1-G2-JZ5,select node,34,Gilgamesh,1,3
+2024/05/29,17:24:59,ELA_Death,UADDR_07,CLASS1-G1-82Y,select tab Nodes Table,,,1,4
+2024/05/29,17:25:00,ELA_Death,UADDR_20,CLASS1-G1-82Y,select node,29,Mictlantecuhtli,3,5
+2024/05/29,17:25:01,ELA_Death,UADDR_16,CLASS1-G2-JZ5,update edge,25,"{""id"":25,""source"":32,""target"":34,""updatedBy"":""CLASS1-G2-JZ5"",""type"":""describes"",""provenance"":[]}",1,3
+2024/05/29,17:25:01,ELA_Death,UADDR_16,CLASS1-G2-JZ5,select node,34,Gilgamesh,1,3
+2024/05/29,17:25:02,ELA_Death,UADDR_07,CLASS1-G1-82Y,sort node table,commentbtn,1,1,4
+2024/05/29,17:25:02,ELA_Death,UADDR_20,CLASS1-G1-82Y,select node,1,Angel of Death,3,5
+2024/05/29,17:25:09,ELA_Death,UADDR_11,-,left network,,,3,5
+2024/05/29,17:25:09,ELA_Death,UADDR_28,-,joined network,,,2,1
+2024/05/29,17:25:09,ELA_Death,UADDR_28,-,getdatabase,,,2,1
+2024/05/29,17:25:12,ELA_Death,UADDR_16,CLASS1-G2-JZ5,select node,11,Thanatos,1,3
+2024/05/29,17:25:14,ELA_Death,UADDR_25,CLASS1-G2-EY4,update readby,1,"{""comment_id"":1,""commenter_ids"":[""CLASS1-G1-82Y"",""CLASS1-G2-EY4""]}",3,1
+2024/05/29,17:25:14,ELA_Death,UADDR_25,CLASS1-G2-EY4,update readby,2,"{""comment_id"":2,""commenter_ids"":[""CLASS1-G1-82Y"",""CLASS1-G2-EY4""]}",3,1
+2024/05/29,17:25:14,ELA_Death,UADDR_25,CLASS1-G2-EY4,update readby,6,"{""comment_id"":6,""commenter_ids"":[""CLASS1-G1-82Y"",""CLASS1-G2-EY4""]}",3,1
+2024/05/29,17:25:14,ELA_Death,UADDR_25,CLASS1-G2-EY4,update readby,3,"{""comment_id"":3,""commenter_ids"":[""CLASS1-G1-82Y"",""CLASS1-G2-EY4""]}",3,1
+2024/05/29,17:25:14,ELA_Death,UADDR_25,CLASS1-G2-EY4,update readby,9,"{""comment_id"":9,""commenter_ids"":[""CLASS1-G1-82Y"",""CLASS1-G2-EY4""]}",3,1
+2024/05/29,17:25:14,ELA_Death,UADDR_25,CLASS1-G2-EY4,update readby,18,"{""comment_id"":18,""commenter_ids"":[""CLASS1-G2-EY4""]}",3,1
+2024/05/29,17:25:18,ELA_Death,UADDR_11,-,SRV_NET  -,pong not received before time ran out -- CLIENT CONNECTION DEAD!,,3,5
+2024/05/29,17:25:19,ELA_Death,UADDR_07,CLASS1-G1-82Y,update readby,3,"{""comment_id"":3,""commenter_ids"":[""CLASS1-G1-82Y""]}",1,4
+2024/05/29,17:25:19,ELA_Death,UADDR_07,CLASS1-G1-82Y,update readby,9,"{""comment_id"":9,""commenter_ids"":[""CLASS1-G1-82Y""]}",1,4
+2024/05/29,17:25:19,ELA_Death,UADDR_07,CLASS1-G1-82Y,update readby,18,"{""comment_id"":18,""commenter_ids"":[""CLASS1-G1-82Y""]}",1,4
+2024/05/29,17:25:22,ELA_Death,UADDR_07,-,left network,,,1,4
+2024/05/29,17:25:22,ELA_Death,UADDR_29,-,joined network,,,2,1
+2024/05/29,17:25:22,ELA_Death,UADDR_16,CLASS1-G2-JZ5,update node,11,"{""id"":11,""label"":""Thanatos"",""updatedBy"":""CLASS1-G2-JZ5"",""type"":""Image of Death"",""notes"":""![image](https://www.worldhistory.org/img/r/p/1000x1200/15753.png.webp?v=1651161409)https://www.worldhistory.org/img/r/p/1000x1200/15753.png.webp?v=1651161409"",""connotation"":""Neutral"",""provenance"":[]}",1,3
+2024/05/29,17:25:22,ELA_Death,UADDR_29,-,getdatabase,,,2,1
+2024/05/29,17:25:23,ELA_Death,UADDR_20,CLASS1-G1-82Y,select node,9,Discworld Death,3,5
+2024/05/29,17:25:26,ELA_Death,UADDR_28,CLASS1-G2-J9Y,select node,5,el Día de los Muertos,2,1
+2024/05/29,17:25:28,ELA_Death,UADDR_07,-,SRV_NET  -,pong not received before time ran out -- CLIENT CONNECTION DEAD!,,1,4
+2024/05/29,17:25:30,ELA_Death,UADDR_16,CLASS1-G2-JZ5,select node,29,Mictlantecuhtli,1,3
+2024/05/29,17:25:31,ELA_Death,UADDR_29,CLASS1-G1-82Y,select node,9,Discworld Death,2,1
+2024/05/29,17:25:37,ELA_Death,UADDR_16,CLASS1-G2-JZ5,update node,29,"{""id"":29,""label"":""Mictlantecuhtli"",""updatedBy"":""CLASS1-G2-JZ5"",""type"":""Image of Death"",""notes"":""![image](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Mictlantecuhtli.svg/800px-Mictlantecuhtli.svg.png)https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Mictlantecuhtli.svg/800px-Mictlantecuhtli.svg.png"",""connotation"":""Neutral"",""provenance"":[]}",1,3
+2024/05/29,17:25:41,ELA_Death,UADDR_12,-,left network,,,3,1
+2024/05/29,17:25:42,ELA_Death,UADDR_30,-,joined network,,,2,1
+2024/05/29,17:25:42,ELA_Death,UADDR_30,-,getdatabase,,,2,1
+2024/05/29,17:25:42,ELA_Death,UADDR_29,CLASS1-G1-82Y,update readby,3,"{""comment_id"":3,""commenter_ids"":[""CLASS1-G1-82Y""]}",2,1
+2024/05/29,17:25:42,ELA_Death,UADDR_29,CLASS1-G1-82Y,update readby,9,"{""comment_id"":9,""commenter_ids"":[""CLASS1-G1-82Y""]}",2,1
+2024/05/29,17:25:42,ELA_Death,UADDR_29,CLASS1-G1-82Y,update readby,18,"{""comment_id"":18,""commenter_ids"":[""CLASS1-G1-82Y""]}",2,1
+2024/05/29,17:25:44,ELA_Death,UADDR_30,CLASS1-G1-7PX,select node,9,Discworld Death,2,1
+2024/05/29,17:25:44,ELA_Death,UADDR_16,CLASS1-G2-JZ5,select node,16,Hecate,1,3
+2024/05/29,17:25:48,ELA_Death,UADDR_12,-,SRV_NET  -,pong not received before time ran out -- CLIENT CONNECTION DEAD!,,3,1
+2024/05/29,17:25:51,ELA_Death,UADDR_16,CLASS1-G2-JZ5,update node,16,"{""id"":16,""label"":""Hecate"",""updatedBy"":""CLASS1-G2-JZ5"",""type"":""Image of Death"",""notes"":""![image](https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Hecate_Chiaramonti_Inv1922.jpg/150px-Hecate_Chiaramonti_Inv1922.jpg)https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Hecate_Chiaramonti_Inv1922.jpg/150px-Hecate_Chiaramonti_Inv1922.jpg"",""connotation"":""Neutral"",""provenance"":[]}",1,3
+2024/05/29,17:25:52,ELA_Death,UADDR_28,CLASS1-G2-J9Y,insert comment,21,"{""collection_ref"":""n5"",""comment_id"":21,""comment_id_parent"":"""",""comment_id_previous"":"""",""comment_type"":""cmt"",""comment_createtime"":1717003533197,""comment_modifytime"":1717003552694,""commenter_id"":""CLASS1-G2-J9Y"",""commenter_text"":[""Should this be connected to Western Europe as well, since it was taken up the Spanish?""]}",2,1
+2024/05/29,17:25:54,ELA_Death,UADDR_28,CLASS1-G2-J9Y,insert readby,21,"{""comment_id"":21,""commenter_ids"":[""CLASS1-G2-J9Y""]}",2,1
+2024/05/29,17:26:01,ELA_Death,UADDR_16,CLASS1-G2-JZ5,select node,33,Ereshkigal,1,3
+2024/05/29,17:26:05,ELA_Death,UADDR_30,-,left network,,,2,1
+2024/05/29,17:26:05,ELA_Death,UADDR_31,-,joined network,,,2,1
+2024/05/29,17:26:05,ELA_Death,UADDR_31,-,getdatabase,,,2,1
+2024/05/29,17:26:07,ELA_Death,UADDR_31,CLASS1-G1-7PX,select node,9,Discworld Death,2,1
+2024/05/29,17:26:12,ELA_Death,UADDR_16,CLASS1-G2-JZ5,update node,33,"{""id"":33,""label"":""Ereshkigal"",""updatedBy"":""CLASS1-G2-JZ5"",""type"":""Image of Death"",""notes"":""![image](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Relieve_Reina_de_la_Noche_%28ca.1800_a.C%29.jpg/800px-Relieve_Reina_de_la_Noche%28ca._1800_a.C%29.jpg)https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Relieve_Reina_de_la_Noche_%28ca._1800_a.C%29.jpg/800px-Relieve_Reina_de_la_Noche_%28ca._1800_a.C%29.jpg"",""connotation"":""Positive"",""provenance"":[]}",1,3
+2024/05/29,17:26:13,ELA_Death,UADDR_30,-,SRV_NET  -,pong not received before time ran out -- CLIENT CONNECTION DEAD!,,2,1
+2024/05/29,17:26:25,ELA_Death,UADDR_28,CLASS1-G2-J9Y,select node,34,Gilgamesh,2,1
+2024/05/29,17:26:26,ELA_Death,UADDR_27,-,left network,,,2,1
+2024/05/29,17:26:26,ELA_Death,UADDR_32,-,joined network,,,2,1
+2024/05/29,17:26:26,ELA_Death,UADDR_32,-,getdatabase,,,2,1
+2024/05/29,17:26:32,ELA_Death,UADDR_32,CLASS1-G2-EP6,select node,12, Grim Reaper,2,1
+2024/05/29,17:26:34,ELA_Death,UADDR_27,-,SRV_NET  -,pong not received before time ran out -- CLIENT CONNECTION DEAD!,,2,1
+2024/05/29,17:26:36,ELA_Death,UADDR_31,CLASS1-G1-7PX,insert comment,23,"{""collection_ref"":""n9"",""comment_id"":23,""comment_id_parent"":3,""comment_id_previous"":9,""comment_type"":""cmt"",""comment_createtime"":1717003571493,""comment_modifytime"":1717003596868,""commenter_id"":""CLASS1-G1-7PX"",""commenter_text"":[""What are the other kinds??""]}",2,1
+2024/05/29,17:26:37,ELA_Death,UADDR_32,CLASS1-G2-EP6,select node,19,harvest,2,1
+2024/05/29,17:26:38,ELA_Death,UADDR_31,CLASS1-G1-7PX,update readby,3,"{""comment_id"":3,""commenter_ids"":[""CLASS1-G1-82Y"",""CLASS1-G1-7PX""]}",2,1
+2024/05/29,17:26:38,ELA_Death,UADDR_31,CLASS1-G1-7PX,update readby,9,"{""comment_id"":9,""commenter_ids"":[""CLASS1-G1-82Y"",""CLASS1-G1-7PX""]}",2,1
+2024/05/29,17:26:38,ELA_Death,UADDR_31,CLASS1-G1-7PX,insert readby,23,"{""comment_id"":23,""commenter_ids"":[""CLASS1-G1-7PX""]}",2,1
+2024/05/29,17:26:38,ELA_Death,UADDR_31,CLASS1-G1-7PX,update readby,18,"{""comment_id"":18,""commenter_ids"":[""CLASS1-G1-82Y"",""CLASS1-G1-7PX""]}",2,1
+2024/05/29,17:26:40,ELA_Death,UADDR_32,CLASS1-G2-EP6,select node,9,Discworld Death,2,1
+2024/05/29,17:26:43,ELA_Death,UADDR_28,-,left network,,,2,1
+2024/05/29,17:26:44,ELA_Death,UADDR_33,-,joined network,,,2,1
+2024/05/29,17:26:44,ELA_Death,UADDR_33,-,getdatabase,,,2,1
+2024/05/29,17:26:48,ELA_Death,UADDR_33,CLASS1-G2-J9Y,select node,34,Gilgamesh,2,1
+2024/05/29,17:26:48,ELA_Death,UADDR_20,CLASS1-G1-82Y,update readby,3,"{""comment_id"":3,""commenter_ids"":[""CLASS1-G1-82Y""]}",3,5
+2024/05/29,17:26:48,ELA_Death,UADDR_20,CLASS1-G1-82Y,update readby,9,"{""comment_id"":9,""commenter_ids"":[""CLASS1-G1-82Y""]}",3,5
+2024/05/29,17:26:48,ELA_Death,UADDR_20,CLASS1-G1-82Y,update readby,23,"{""comment_id"":23,""commenter_ids"":[""CLASS1-G1-82Y""]}",3,5
+2024/05/29,17:26:48,ELA_Death,UADDR_20,CLASS1-G1-82Y,update readby,18,"{""comment_id"":18,""commenter_ids"":[""CLASS1-G1-82Y""]}",3,5
+2024/05/29,17:26:53,ELA_Death,UADDR_28,-,SRV_NET  -,pong not received before time ran out -- CLIENT CONNECTION DEAD!,,2,1
+2024/05/29,17:26:55,ELA_Death,UADDR_32,CLASS1-G2-EP6,delete comment,25,,2,1
+2024/05/29,17:26:57,ELA_Death,UADDR_25,CLASS1-G2-EY4,select node,5,el Día de los Muertos,3,1
+2024/05/29,17:26:58,ELA_Death,UADDR_29,CLASS1-G1-82Y,update readby,3,"{""comment_id"":3,""commenter_ids"":[""CLASS1-G1-82Y""]}",2,1
+2024/05/29,17:26:58,ELA_Death,UADDR_29,CLASS1-G1-82Y,update readby,9,"{""comment_id"":9,""commenter_ids"":[""CLASS1-G1-82Y""]}",2,1
+2024/05/29,17:26:58,ELA_Death,UADDR_29,CLASS1-G1-82Y,update readby,23,"{""comment_id"":23,""commenter_ids"":[""CLASS1-G1-82Y""]}",2,1
+2024/05/29,17:26:58,ELA_Death,UADDR_29,CLASS1-G1-82Y,update readby,18,"{""comment_id"":18,""commenter_ids"":[""CLASS1-G1-82Y""]}",2,1
+2024/05/29,17:27:00,ELA_Death,UADDR_33,-,left network,,,2,1
+2024/05/29,17:27:00,ELA_Death,UADDR_34,-,joined network,,,2,1
+2024/05/29,17:27:00,ELA_Death,UADDR_34,-,getdatabase,,,2,1
+2024/05/29,17:27:02,ELA_Death,UADDR_29,CLASS1-G1-82Y,update readby,1,"{""comment_id"":1,""commenter_ids"":[""CLASS1-G1-82Y"",""CLASS1-G2-EY4""]}",2,1
+2024/05/29,17:27:02,ELA_Death,UADDR_29,CLASS1-G1-82Y,update readby,2,"{""comment_id"":2,""commenter_ids"":[""CLASS1-G1-82Y"",""CLASS1-G2-EY4""]}",2,1
+2024/05/29,17:27:02,ELA_Death,UADDR_29,CLASS1-G1-82Y,update readby,6,"{""comment_id"":6,""commenter_ids"":[""CLASS1-G1-82Y"",""CLASS1-G2-EY4""]}",2,1
+2024/05/29,17:27:02,ELA_Death,UADDR_29,CLASS1-G1-82Y,update readby,3,"{""comment_id"":3,""commenter_ids"":[""CLASS1-G1-82Y""]}",2,1
+2024/05/29,17:27:02,ELA_Death,UADDR_29,CLASS1-G1-82Y,update readby,9,"{""comment_id"":9,""commenter_ids"":[""CLASS1-G1-82Y""]}",2,1
+2024/05/29,17:27:02,ELA_Death,UADDR_29,CLASS1-G1-82Y,update readby,23,"{""comment_id"":23,""commenter_ids"":[""CLASS1-G1-82Y""]}",2,1
+2024/05/29,17:27:02,ELA_Death,UADDR_29,CLASS1-G1-82Y,update readby,18,"{""comment_id"":18,""commenter_ids"":[""CLASS1-G1-82Y""]}",2,1
+2024/05/29,17:27:02,ELA_Death,UADDR_29,CLASS1-G1-82Y,update readby,21,"{""comment_id"":21,""commenter_ids"":[""CLASS1-G1-82Y""]}",2,1
+2024/05/29,17:27:04,ELA_Death,UADDR_34,CLASS1-G2-J9Y,select node,34,Gilgamesh,2,1
+2024/05/29,17:27:06,ELA_Death,UADDR_34,CLASS1-G2-J9Y,select node,33,Ereshkigal,2,1
+2024/05/29,17:27:08,ELA_Death,UADDR_34,CLASS1-G2-J9Y,select node,34,Gilgamesh,2,1
+2024/05/29,17:27:08,ELA_Death,UADDR_33,-,SRV_NET  -,pong not received before time ran out -- CLIENT CONNECTION DEAD!,,2,1
+2024/05/29,17:27:12,ELA_Death,UADDR_20,-,left network,,,3,5
+2024/05/29,17:27:13,ELA_Death,UADDR_35,-,joined network,,,0,0
+2024/05/29,17:27:13,ELA_Death,UADDR_35,-,getdatabase,,,0,0
+2024/05/29,17:27:13,ELA_Death,UADDR_31,CLASS1-G1-7PX,select node,28,Scooby Doo!,2,1
+2024/05/29,17:27:16,ELA_Death,UADDR_25,CLASS1-G2-EY4,insert comment,28,"{""collection_ref"":""n5"",""comment_id"":28,""comment_id_parent"":21,""comment_id_previous"":"""",""comment_type"":""cmt"",""comment_createtime"":1717003621100,""comment_modifytime"":1717003636277,""commenter_id"":""CLASS1-G2-EY4"",""commenter_text"":[""Yes, very probably. I'll do that now.""]}",3,1
+2024/05/29,17:27:16,ELA_Death,UADDR_31,CLASS1-G1-7PX,select node,10,Hades,2,1
+2024/05/29,17:27:18,ELA_Death,UADDR_20,-,SRV_NET  -,pong not received before time ran out -- CLIENT CONNECTION DEAD!,,3,5
+2024/05/29,17:27:18,ELA_Death,UADDR_25,CLASS1-G2-EY4,insert edge,26,"{""id"":26,""source"":5,""attributes"":{},""provenance"":[],""createdBy"":""CLASS1-G2-EY4"",""updatedBy"":""CLASS1-G2-EY4""}",3,1
+2024/05/29,17:27:19,ELA_Death,UADDR_34,-,left network,,,2,1
+2024/05/29,17:27:19,ELA_Death,UADDR_36,-,joined network,,,2,1
+2024/05/29,17:27:19,ELA_Death,UADDR_36,-,getdatabase,,,2,1
+2024/05/29,17:27:23,ELA_Death,UADDR_25,CLASS1-G2-EY4,select node,5,el Día de los Muertos,3,1
+2024/05/29,17:27:23,ELA_Death,UADDR_25,CLASS1-G2-EY4,select node,5,el Día de los Muertos,3,1
+2024/05/29,17:27:24,ELA_Death,UADDR_29,CLASS1-G1-82Y,select node,5,el Día de los Muertos,2,1
+2024/05/29,17:27:26,ELA_Death,UADDR_25,CLASS1-G2-EY4,update edge,26,"{""id"":26,""source"":5,""target"":21,""updatedBy"":""CLASS1-G2-EY4"",""type"":""describes"",""provenance"":[]}",3,1
+2024/05/29,17:27:26,ELA_Death,UADDR_25,CLASS1-G2-EY4,select node,5,el Día de los Muertos,3,1
+2024/05/29,17:27:28,ELA_Death,UADDR_34,-,SRV_NET  -,pong not received before time ran out -- CLIENT CONNECTION DEAD!,,2,1
+2024/05/29,17:27:33,ELA_Death,UADDR_31,CLASS1-G1-7PX,select node,29,Mictlantecuhtli,2,1
+2024/05/29,17:27:33,ELA_Death,UADDR_36,CLASS1-G2-J9Y,select node,34,Gilgamesh,2,1
+2024/05/29,17:27:36,ELA_Death,UADDR_29,CLASS1-G1-82Y,insert comment,30,"{""collection_ref"":""n5"",""comment_id"":30,""comment_id_parent"":21,""comment_id_previous"":28,""comment_type"":""cmt"",""comment_createtime"":1717003652396,""comment_modifytime"":1717003656540,""commenter_id"":""CLASS1-G1-82Y"",""commenter_text"":[""Is this Christina?""]}",2,1
+2024/05/29,17:27:39,ELA_Death,UADDR_29,CLASS1-G1-82Y,update readby,21,"{""comment_id"":21,""commenter_ids"":[""CLASS1-G1-82Y""]}",2,1
+2024/05/29,17:27:39,ELA_Death,UADDR_29,CLASS1-G1-82Y,insert readby,28,"{""comment_id"":28,""commenter_ids"":[""CLASS1-G1-82Y""]}",2,1
+2024/05/29,17:27:39,ELA_Death,UADDR_29,CLASS1-G1-82Y,insert readby,30,"{""comment_id"":30,""commenter_ids"":[""CLASS1-G1-82Y""]}",2,1
+2024/05/29,17:27:40,ELA_Death,UADDR_35,-,left network,,,0,0
+2024/05/29,17:27:40,ELA_Death,UADDR_37,-,joined network,,,2,1
+2024/05/29,17:27:40,ELA_Death,UADDR_37,-,getdatabase,,,2,1
+2024/05/29,17:27:41,ELA_Death,UADDR_32,CLASS1-G2-EP6,select node,9,Discworld Death,2,1
+2024/05/29,17:27:42,ELA_Death,UADDR_32,CLASS1-G2-EP6,select node,9,Discworld Death,2,1
+2024/05/29,17:27:43,ELA_Death,UADDR_36,-,left network,,,2,1
+2024/05/29,17:27:44,ELA_Death,UADDR_32,CLASS1-G2-EP6,select node,9,Discworld Death,2,1
+2024/05/29,17:27:44,ELA_Death,UADDR_38,-,joined network,,,2,1
+2024/05/29,17:27:44,ELA_Death,UADDR_38,-,getdatabase,,,2,1
+2024/05/29,17:27:46,ELA_Death,UADDR_32,-,left network,,,2,1
+2024/05/29,17:27:46,ELA_Death,UADDR_39,-,joined network,,,2,1
+2024/05/29,17:27:46,ELA_Death,UADDR_39,-,getdatabase,,,2,1
+2024/05/29,17:27:47,ELA_Death,UADDR_25,CLASS1-G2-EY4,update edge,26,"{""id"":26,""source"":5,""target"":21,""updatedBy"":""CLASS1-G2-EY4"",""type"":""describes"",""provenance"":""Kalani added based on a comment prompt""}",3,1
+2024/05/29,17:27:47,ELA_Death,UADDR_25,CLASS1-G2-EY4,select node,5,el Día de los Muertos,3,1
+2024/05/29,17:27:48,ELA_Death,UADDR_37,CLASS1-G1-8VR,select node,26,Light Yagami,2,1
+2024/05/29,17:27:48,ELA_Death,UADDR_35,-,SRV_NET  -,pong not received before time ran out -- CLIENT CONNECTION DEAD!,,0,0
+2024/05/29,17:27:53,ELA_Death,UADDR_38,CLASS1-G2-J9Y,select node,3,Comforting,2,1
+2024/05/29,17:27:53,ELA_Death,UADDR_36,-,SRV_NET  -,pong not received before time ran out -- CLIENT CONNECTION DEAD!,,2,1
+2024/05/29,17:27:53,ELA_Death,UADDR_32,-,SRV_NET  -,pong not received before time ran out -- CLIENT CONNECTION DEAD!,,2,1
+2024/05/29,17:27:55,ELA_Death,UADDR_25,CLASS1-G2-EY4,insert comment,32,"{""collection_ref"":""n5"",""comment_id"":32,""comment_id_parent"":21,""comment_id_previous"":30,""comment_type"":""cmt"",""comment_createtime"":1717003669133,""comment_modifytime"":1717003674890,""commenter_id"":""CLASS1-G2-EY4"",""commenter_text"":[""EY4 is Kalani""]}",3,1
+2024/05/29,17:27:55,ELA_Death,UADDR_31,CLASS1-G1-7PX,select node,23,Sarcastic,2,1
+2024/05/29,17:27:56,ELA_Death,UADDR_38,CLASS1-G2-J9Y,insert edge,27,"{""id"":27,""source"":3,""attributes"":{},""provenance"":[],""createdBy"":""CLASS1-G2-J9Y"",""updatedBy"":""CLASS1-G2-J9Y""}",2,1
+2024/05/29,17:27:59,ELA_Death,UADDR_39,CLASS1-G2-EP6,select node,5,el Día de los Muertos,2,1
+2024/05/29,17:28:00,ELA_Death,UADDR_37,CLASS1-G1-8VR,insert edge,28,"{""id"":28,""source"":26,""attributes"":{},""provenance"":[],""createdBy"":""CLASS1-G1-8VR"",""updatedBy"":""CLASS1-G1-8VR""}",2,1
+2024/05/29,17:28:03,ELA_Death,UADDR_39,CLASS1-G2-EP6,select node,5,el Día de los Muertos,2,1
+2024/05/29,17:28:03,ELA_Death,UADDR_39,CLASS1-G2-EP6,select node,5,el Día de los Muertos,2,1
+2024/05/29,17:28:04,ELA_Death,UADDR_31,CLASS1-G1-7PX,select node,21,Western European-ish,2,1
+2024/05/29,17:28:05,ELA_Death,UADDR_38,CLASS1-G2-J9Y,select node,3,Comforting,2,1
+2024/05/29,17:28:05,ELA_Death,UADDR_38,CLASS1-G2-J9Y,select node,3,Comforting,2,1
+2024/05/29,17:28:06,ELA_Death,UADDR_31,CLASS1-G1-7PX,select node,5,el Día de los Muertos,2,1
+2024/05/29,17:28:06,ELA_Death,UADDR_38,CLASS1-G2-J9Y,update edge,27,"{""id"":27,""source"":3,""target"":7,""updatedBy"":""CLASS1-G2-J9Y"",""provenance"":[]}",2,1
+2024/05/29,17:28:06,ELA_Death,UADDR_38,CLASS1-G2-J9Y,select node,3,Comforting,2,1
+2024/05/29,17:28:16,ELA_Death,UADDR_39,CLASS1-G2-EP6,update readby,21,"{""comment_id"":21,""commenter_ids"":[""CLASS1-G1-82Y"",""CLASS1-G2-EP6""]}",2,1
+2024/05/29,17:28:16,ELA_Death,UADDR_39,CLASS1-G2-EP6,update readby,28,"{""comment_id"":28,""commenter_ids"":[""CLASS1-G1-82Y"",""CLASS1-G2-EP6""]}",2,1
+2024/05/29,17:28:16,ELA_Death,UADDR_39,CLASS1-G2-EP6,update readby,30,"{""comment_id"":30,""commenter_ids"":[""CLASS1-G1-82Y"",""CLASS1-G2-EP6""]}",2,1
+2024/05/29,17:28:16,ELA_Death,UADDR_39,CLASS1-G2-EP6,insert readby,32,"{""comment_id"":32,""commenter_ids"":[""CLASS1-G2-EP6""]}",2,1
+2024/05/29,17:28:20,ELA_Death,UADDR_37,CLASS1-G1-8VR,insert node,35,"{""id"":35,""label"":""cool show!"",""provenance"":[],""createdBy"":""CLASS1-G1-8VR"",""updatedBy"":""CLASS1-G1-8VR""}",2,1
+2024/05/29,17:28:20,ELA_Death,UADDR_37,CLASS1-G1-8VR,select node,26,Light Yagami,2,1
+2024/05/29,17:28:21,ELA_Death,UADDR_31,CLASS1-G1-7PX,update readby,21,"{""comment_id"":21,""commenter_ids"":[""CLASS1-G2-J9Y"",""CLASS1-G1-7PX""]}",2,1
+2024/05/29,17:28:21,ELA_Death,UADDR_31,CLASS1-G1-7PX,update readby,28,"{""comment_id"":28,""commenter_ids"":[""CLASS1-G1-7PX""]}",2,1
+2024/05/29,17:28:21,ELA_Death,UADDR_31,CLASS1-G1-7PX,update readby,30,"{""comment_id"":30,""commenter_ids"":[""CLASS1-G1-7PX""]}",2,1
+2024/05/29,17:28:21,ELA_Death,UADDR_31,CLASS1-G1-7PX,update readby,32,"{""comment_id"":32,""commenter_ids"":[""CLASS1-G1-7PX""]}",2,1
+2024/05/29,17:28:22,ELA_Death,UADDR_37,CLASS1-G1-8VR,update edge,28,"{""id"":28,""source"":26,""target"":35,""updatedBy"":""CLASS1-G1-8VR"",""provenance"":[]}",2,1
+2024/05/29,17:28:22,ELA_Death,UADDR_37,CLASS1-G1-8VR,select node,26,Light Yagami,2,1
+2024/05/29,17:28:26,ELA_Death,UADDR_29,CLASS1-G1-82Y,select node,5,el Día de los Muertos,2,1
+2024/05/29,17:28:30,ELA_Death,UADDR_38,CLASS1-G2-J9Y,select node,34,Gilgamesh,2,1
+2024/05/29,17:28:32,ELA_Death,UADDR_31,CLASS1-G1-7PX,select node,21,Western European-ish,2,1
+2024/05/29,17:28:36,ELA_Death,UADDR_37,CLASS1-G1-8VR,select node,35,cool show!,2,1
+2024/05/29,17:28:41,ELA_Death,UADDR_29,CLASS1-G1-82Y,update readby,21,"{""comment_id"":21,""commenter_ids"":[""CLASS1-G1-82Y""]}",2,1
+2024/05/29,17:28:41,ELA_Death,UADDR_29,CLASS1-G1-82Y,update readby,28,"{""comment_id"":28,""commenter_ids"":[""CLASS1-G1-82Y""]}",2,1
+2024/05/29,17:28:41,ELA_Death,UADDR_29,CLASS1-G1-82Y,update readby,30,"{""comment_id"":30,""commenter_ids"":[""CLASS1-G1-82Y""]}",2,1
+2024/05/29,17:28:41,ELA_Death,UADDR_29,CLASS1-G1-82Y,update readby,32,"{""comment_id"":32,""commenter_ids"":[""CLASS1-G1-82Y""]}",2,1
+2024/05/29,17:28:44,ELA_Death,UADDR_37,CLASS1-G1-8VR,update node,35,"{""id"":35,""label"":""cool show!"",""updatedBy"":""CLASS1-G1-8VR"",""type"":""Descriptive Words"",""provenance"":[]}",2,1
+2024/05/29,17:28:48,ELA_Death,UADDR_38,CLASS1-G2-J9Y,insert comment,33,"{""collection_ref"":""n34"",""comment_id"":33,""comment_id_parent"":"""",""comment_id_previous"":"""",""comment_type"":""cmt"",""comment_createtime"":1717003712493,""comment_modifytime"":1717003728679,""commenter_id"":""CLASS1-G2-J9Y"",""commenter_text"":[""What's the connection to death?\n""]}",2,1
+2024/05/29,17:28:50,ELA_Death,UADDR_38,CLASS1-G2-J9Y,insert readby,33,"{""comment_id"":33,""commenter_ids"":[""CLASS1-G2-J9Y""]}",2,1
+2024/05/29,17:28:50,ELA_Death,UADDR_29,CLASS1-G1-82Y,select node,34,Gilgamesh,2,1
+2024/05/29,17:28:52,ELA_Death,UADDR_29,CLASS1-G1-82Y,update readby,33,"{""comment_id"":33,""commenter_ids"":[""CLASS1-G1-82Y""]}",2,1
+2024/05/29,17:28:56,ELA_Death,UADDR_39,CLASS1-G2-EP6,select tab Nodes Table,,,2,1
+2024/05/29,17:28:57,ELA_Death,UADDR_16,CLASS1-G2-JZ5,select node,34,Gilgamesh,1,3
+2024/05/29,17:29:26,ELA_Death,UADDR_31,CLASS1-G1-7PX,select node,5,el Día de los Muertos,2,1
+2024/05/29,17:29:28,ELA_Death,UADDR_31,CLASS1-G1-7PX,select node,9,Discworld Death,2,1
+2024/05/29,17:29:30,ELA_Death,UADDR_38,CLASS1-G2-J9Y,select node,5,el Día de los Muertos,2,1
+2024/05/29,17:29:34,ELA_Death,UADDR_31,CLASS1-G1-7PX,select node,8,Plague Doctor,2,1
+2024/05/29,17:29:45,ELA_Death,UADDR_31,CLASS1-G1-7PX,select node,16,Hecate,2,1
+2024/05/29,17:29:47,ELA_Death,UADDR_31,CLASS1-G1-7PX,select node,4,Death on the Pale Horse,2,1
+2024/05/29,17:29:49,ELA_Death,UADDR_31,CLASS1-G1-7PX,select node,5,el Día de los Muertos,2,1
+2024/05/29,17:29:51,ELA_Death,UADDR_31,CLASS1-G1-7PX,select node,18,Hel,2,1
+2024/05/29,17:29:54,ELA_Death,UADDR_29,CLASS1-G1-82Y,select node,22,Classical / Ancient Era,2,1
+2024/05/29,17:29:59,ELA_Death,UADDR_31,CLASS1-G1-7PX,select node,29,Mictlantecuhtli,2,1
+2024/05/29,17:30:00,ELA_Death,UADDR_29,CLASS1-G1-82Y,select node,18,Hel,2,1
+2024/05/29,17:30:02,ELA_Death,UADDR_31,CLASS1-G1-7PX,select node,10,Hades,2,1
+2024/05/29,17:30:03,ELA_Death,UADDR_38,CLASS1-G2-J9Y,insert comment,35,"{""collection_ref"":""n5"",""comment_id"":35,""comment_id_parent"":"""",""comment_id_previous"":21,""comment_type"":""cmt"",""comment_createtime"":1717003785124,""comment_modifytime"":1717003803763,""commenter_id"":""CLASS1-G2-J9Y"",""commenter_text"":[""J9Y is Christina""]}",2,1
+2024/05/29,17:30:04,ELA_Death,UADDR_31,CLASS1-G1-7PX,select node,17,Osiris,2,1
+2024/05/29,17:30:06,ELA_Death,UADDR_38,CLASS1-G2-J9Y,update readby,21,"{""comment_id"":21,""commenter_ids"":[""CLASS1-G1-82Y"",""CLASS1-G2-J9Y""]}",2,1
+2024/05/29,17:30:06,ELA_Death,UADDR_38,CLASS1-G2-J9Y,update readby,28,"{""comment_id"":28,""commenter_ids"":[""CLASS1-G1-82Y"",""CLASS1-G2-J9Y""]}",2,1
+2024/05/29,17:30:06,ELA_Death,UADDR_38,CLASS1-G2-J9Y,update readby,30,"{""comment_id"":30,""commenter_ids"":[""CLASS1-G1-82Y"",""CLASS1-G2-J9Y""]}",2,1
+2024/05/29,17:30:06,ELA_Death,UADDR_38,CLASS1-G2-J9Y,update readby,32,"{""comment_id"":32,""commenter_ids"":[""CLASS1-G2-J9Y""]}",2,1
+2024/05/29,17:30:06,ELA_Death,UADDR_38,CLASS1-G2-J9Y,insert readby,35,"{""comment_id"":35,""commenter_ids"":[""CLASS1-G2-J9Y""]}",2,1
+2024/05/29,17:30:07,ELA_Death,UADDR_31,CLASS1-G1-7PX,select node,18,Hel,2,1
+2024/05/29,17:30:09,ELA_Death,UADDR_29,CLASS1-G1-82Y,select node,5,el Día de los Muertos,2,1
+2024/05/29,17:30:12,ELA_Death,UADDR_31,CLASS1-G1-7PX,select node,31,Ego Death,2,1
+2024/05/29,17:30:13,ELA_Death,UADDR_39,CLASS1-G2-EP6,select node,5,el Día de los Muertos,2,1
+2024/05/29,17:30:13,ELA_Death,UADDR_39,CLASS1-G2-EP6,select node,5,el Día de los Muertos,2,1
+2024/05/29,17:30:27,ELA_Death,UADDR_29,CLASS1-G1-82Y,update readby,21,"{""comment_id"":21,""commenter_ids"":[""CLASS1-G1-82Y""]}",2,1
+2024/05/29,17:30:27,ELA_Death,UADDR_29,CLASS1-G1-82Y,update readby,28,"{""comment_id"":28,""commenter_ids"":[""CLASS1-G1-82Y""]}",2,1
+2024/05/29,17:30:27,ELA_Death,UADDR_29,CLASS1-G1-82Y,update readby,30,"{""comment_id"":30,""commenter_ids"":[""CLASS1-G1-82Y""]}",2,1
+2024/05/29,17:30:27,ELA_Death,UADDR_29,CLASS1-G1-82Y,update readby,32,"{""comment_id"":32,""commenter_ids"":[""CLASS1-G1-82Y""]}",2,1
+2024/05/29,17:30:27,ELA_Death,UADDR_29,CLASS1-G1-82Y,update readby,35,"{""comment_id"":35,""commenter_ids"":[""CLASS1-G1-82Y""]}",2,1
+2024/05/29,17:31:02,ELA_Death,UADDR_29,CLASS1-G1-82Y,select node,5,el Día de los Muertos,2,1
+2024/05/29,17:31:05,ELA_Death,UADDR_29,CLASS1-G1-82Y,select node,21,Western European-ish,2,1
+2024/05/29,17:31:12,ELA_Death,UADDR_38,CLASS1-G2-J9Y,select node,20,Death the Gamer,2,1
+2024/05/29,17:31:16,ELA_Death,UADDR_38,CLASS1-G2-J9Y,insert edge,29,"{""id"":29,""source"":20,""attributes"":{},""provenance"":[],""createdBy"":""CLASS1-G2-J9Y"",""updatedBy"":""CLASS1-G2-J9Y""}",2,1
+2024/05/29,17:31:18,ELA_Death,UADDR_38,CLASS1-G2-J9Y,select node,20,Death the Gamer,2,1
+2024/05/29,17:31:18,ELA_Death,UADDR_38,CLASS1-G2-J9Y,select node,20,Death the Gamer,2,1
+2024/05/29,17:31:19,ELA_Death,UADDR_38,CLASS1-G2-J9Y,update edge,29,"{""id"":29,""source"":20,""target"":21,""updatedBy"":""CLASS1-G2-J9Y"",""provenance"":[]}",2,1
+2024/05/29,17:31:19,ELA_Death,UADDR_38,CLASS1-G2-J9Y,select node,20,Death the Gamer,2,1
+2024/05/29,17:31:35,ELA_Death,UADDR_29,CLASS1-G1-82Y,cancel edit node,21,Western European-ish,2,1
+2024/05/29,17:31:44,ELA_Death,UADDR_37,CLASS1-G1-8VR,select tab Nodes Table,,,2,1
+2024/05/29,17:31:46,ELA_Death,UADDR_29,CLASS1-G1-82Y,cancel edit node,21,Western European-ish,2,1
+2024/05/29,17:31:56,ELA_Death,UADDR_29,CLASS1-G1-82Y,cancel edit node,21,Western European-ish,2,1
+2024/05/29,17:31:57,ELA_Death,UADDR_16,CLASS1-G2-JZ5,select tab Graph,,,1,3
+2024/05/29,17:32:08,ELA_Death,UADDR_16,CLASS1-G2-JZ5,select node,34,Gilgamesh,1,3
+2024/05/29,17:32:16,ELA_Death,UADDR_16,CLASS1-G2-JZ5,select tab Nodes Table,,,1,3
+2024/05/29,17:32:17,ELA_Death,UADDR_16,CLASS1-G2-JZ5,select tab Graph,,,1,3
+2024/05/29,17:32:19,ELA_Death,UADDR_39,-,left network,,,2,1
+2024/05/29,17:32:21,ELA_Death,UADDR_38,-,left network,,,2,1
+2024/05/29,17:32:25,ELA_Death,UADDR_16,-,left network,,,1,3
+2024/05/29,17:32:28,ELA_Death,UADDR_38,-,SRV_NET  -,pong not received before time ran out -- CLIENT CONNECTION DEAD!,,2,1
+2024/05/29,17:32:28,ELA_Death,UADDR_39,-,SRV_NET  -,pong not received before time ran out -- CLIENT CONNECTION DEAD!,,2,1
+2024/05/29,17:32:33,ELA_Death,UADDR_16,-,SRV_NET  -,pong not received before time ran out -- CLIENT CONNECTION DEAD!,,1,3
+2024/05/29,17:33:06,ELA_Death,UADDR_31,-,left network,,,2,1
+2024/05/29,17:33:13,ELA_Death,UADDR_31,-,SRV_NET  -,pong not received before time ran out -- CLIENT CONNECTION DEAD!,,2,1
+2024/05/29,17:33:53,ELA_Death,UADDR_37,-,left network,,,2,1
+2024/05/29,17:33:58,ELA_Death,UADDR_37,-,SRV_NET  -,pong not received before time ran out -- CLIENT CONNECTION DEAD!,,2,1
+2024/05/29,17:34:35,ELA_Death,UADDR_25,-,left network,,,3,1
+2024/05/29,17:34:43,ELA_Death,UADDR_25,-,SRV_NET  -,pong not received before time ran out -- CLIENT CONNECTION DEAD!,,3,1
+2024/05/29,17:44:00,ELA_Death,UADDR_29,-,left network,,,2,1
+2024/05/29,17:44:09,ELA_Death,UADDR_29,-,SRV_NET  -,pong not received before time ran out -- CLIENT CONNECTION DEAD!,,2,1
+2024/05/29,16:43:58,HackerGame,-,-,NETCREATE APPSERVER SESSION LOG for 2024/05/29 Wednesday 16:43:58,,,5,1
+2024/05/29,16:43:58,HackerGame,-,-,---,,,5,1
+2024/05/29,16:43:59,HackerGame,UADDR_01,-,joined network,,,0,0
+2024/05/29,16:43:59,HackerGame,UADDR_01,-,getdatabase,,,0,0
+2024/05/29,16:46:40,HackerGame,UADDR_01,-,left network,,,0,0
+2024/05/29,16:46:40,HackerGame,UADDR_02,-,joined network,,,4,2
+2024/05/29,16:46:40,HackerGame,UADDR_02,-,getdatabase,,,4,2
+2024/05/29,16:46:49,HackerGame,UADDR_01,-,SRV_NET  -,pong not received before time ran out -- CLIENT CONNECTION DEAD!,,0,0
+2024/05/29,17:33:53,HackerGame,UADDR_03,-,joined network,,,3,1
+2024/05/29,17:33:53,HackerGame,UADDR_03,-,getdatabase,,,3,1
+2024/05/29,17:35:10,HackerGame,UADDR_03,-,SRV_NET  -,pong not received before time ran out -- CLIENT CONNECTION DEAD!,,3,1
+2024/05/29,17:35:16,HackerGame,UADDR_03,-,left network,,,3,1
+2024/05/29,17:35:25,HackerGame,UADDR_03,-,SRV_NET  -,pong not received before time ran out -- CLIENT CONNECTION DEAD!,,3,1
+2024/05/29,17:43:50,HackerGame,UADDR_04,-,joined network,,,3,1
+2024/05/29,17:43:50,HackerGame,UADDR_04,-,getdatabase,,,3,1
+2024/05/29,17:44:05,HackerGame,UADDR_05,-,joined network,,,3,1
+2024/05/29,17:44:05,HackerGame,UADDR_05,-,getdatabase,,,3,1
+2024/05/29,17:44:09,HackerGame,UADDR_02,C1-GROUP1-4G7,select node,50,USER 50,4,2
+2024/05/29,17:44:10,HackerGame,UADDR_06,-,joined network,,,3,5
+2024/05/29,17:44:10,HackerGame,UADDR_06,-,getdatabase,,,3,5
+2024/05/29,17:44:14,HackerGame,UADDR_05,-,select node,22,USER 22,3,1
+2024/05/29,17:44:15,HackerGame,UADDR_07,-,joined network,,,1,4
+2024/05/29,17:44:15,HackerGame,UADDR_07,-,getdatabase,,,1,4
+2024/05/29,17:44:17,HackerGame,UADDR_08,-,joined network,,,3,1
+2024/05/29,17:44:17,HackerGame,UADDR_08,-,getdatabase,,,3,1
+2024/05/29,17:44:19,HackerGame,UADDR_02,C1-GROUP1-4G7,insert comment,1,"{""collection_ref"":""n50"",""comment_id"":1,""comment_id_parent"":"""",""comment_id_previous"":"""",""comment_type"":""cmt"",""comment_createtime"":1717004656415,""comment_modifytime"":1717004659285,""commenter_id"":""C1-GROUP1-4G7"",""commenter_text"":[""Claimed""]}",4,2
+2024/05/29,17:44:20,HackerGame,UADDR_02,C1-GROUP1-4G7,update readby,1,"{""comment_id"":1,""commenter_ids"":[""1-1-35L"",""C1-GROUP1-4G7""]}",4,2
+2024/05/29,17:44:24,HackerGame,UADDR_08,-,select node,22,USER 22,3,1
+2024/05/29,17:44:32,HackerGame,UADDR_08,-,left network,,,3,1
+2024/05/29,17:44:32,HackerGame,UADDR_09,-,joined network,,,3,1
+2024/05/29,17:44:32,HackerGame,UADDR_09,-,getdatabase,,,3,1
+2024/05/29,17:44:34,HackerGame,UADDR_07,-,select node,24,USER 24,1,4
+2024/05/29,17:44:35,HackerGame,UADDR_09,C1-GROUP2-GMX,select node,22,USER 22,3,1
+2024/05/29,17:44:40,HackerGame,UADDR_08,-,SRV_NET  -,pong not received before time ran out -- CLIENT CONNECTION DEAD!,,3,1
+2024/05/29,17:44:51,HackerGame,UADDR_04,-,select node,58,USER 58,3,1
+2024/05/29,17:44:52,HackerGame,UADDR_09,C1-GROUP2-GMX,update node,22,"{""id"":22,""label"":""USER 22 Claimed"",""updatedBy"":""C1-GROUP2-GMX"",""type"":""USER"",""status"":""Active""}",3,1
+2024/05/29,17:44:59,HackerGame,UADDR_10,-,joined network,,,3,1
+2024/05/29,17:45:07,HackerGame,UADDR_10,-,getdatabase,,,3,1
+2024/05/29,17:45:14,HackerGame,UADDR_10,-,left network,,,3,1
+2024/05/29,17:45:14,HackerGame,UADDR_11,-,joined network,,,3,5
+2024/05/29,17:45:14,HackerGame,UADDR_11,-,getdatabase,,,3,5
+2024/05/29,17:45:14,HackerGame,UADDR_02,C1-GROUP1-4G7,select node,50,USER 50,4,2
+2024/05/29,17:45:16,HackerGame,UADDR_06,-,left network,,,3,5
+2024/05/29,17:45:16,HackerGame,UADDR_12,-,joined network,,,3,1
+2024/05/29,17:45:16,HackerGame,UADDR_12,-,getdatabase,,,3,1
+2024/05/29,17:45:17,HackerGame,UADDR_05,-,left network,,,3,1
+2024/05/29,17:45:17,HackerGame,UADDR_13,-,joined network,,,3,1
+2024/05/29,17:45:17,HackerGame,UADDR_13,-,getdatabase,,,3,1
+2024/05/29,17:45:18,HackerGame,UADDR_07,-,left network,,,1,4
+2024/05/29,17:45:18,HackerGame,UADDR_14,-,joined network,,,3,1
+2024/05/29,17:45:18,HackerGame,UADDR_14,-,getdatabase,,,3,1
+2024/05/29,17:45:21,HackerGame,UADDR_10,-,SRV_NET  -,pong not received before time ran out -- CLIENT CONNECTION DEAD!,,3,1
+2024/05/29,17:45:23,HackerGame,UADDR_02,C1-GROUP1-4G7,update node,50,"{""id"":50,""label"":""USER 50 (claimed)"",""updatedBy"":""C1-GROUP1-4G7"",""type"":""USER"",""status"":""Active""}",4,2
+2024/05/29,17:45:25,HackerGame,UADDR_05,-,SRV_NET  -,pong not received before time ran out -- CLIENT CONNECTION DEAD!,,3,1
+2024/05/29,17:45:25,HackerGame,UADDR_07,-,SRV_NET  -,pong not received before time ran out -- CLIENT CONNECTION DEAD!,,1,4
+2024/05/29,17:45:25,HackerGame,UADDR_06,-,SRV_NET  -,pong not received before time ran out -- CLIENT CONNECTION DEAD!,,3,5
+2024/05/29,17:45:25,HackerGame,UADDR_14,C1-GROUP2-JZQ,select node,12,USER 12,3,1
+2024/05/29,17:45:26,HackerGame,UADDR_13,C1-GROUP1-238,select node,22,USER 22 Claimed,3,1
+2024/05/29,17:45:31,HackerGame,UADDR_12,C1-GROUP2-GNZ,select node,50,USER 50 (claimed),3,1
+2024/05/29,17:45:32,HackerGame,UADDR_14,C1-GROUP2-JZQ,cancel edit node,12,USER 12,3,1
+2024/05/29,17:45:34,HackerGame,UADDR_13,C1-GROUP1-238,select node,4,USER 4,3,1
+2024/05/29,17:45:34,HackerGame,UADDR_02,C1-GROUP1-4G7,select tab Nodes Table,,,4,2
+2024/05/29,17:45:36,HackerGame,UADDR_02,C1-GROUP1-4G7,select tab Edges Table,,,4,2
+2024/05/29,17:45:36,HackerGame,UADDR_02,C1-GROUP1-4G7,select tab Nodes Table,,,4,2
+2024/05/29,17:45:38,HackerGame,UADDR_02,C1-GROUP1-4G7,select tab Edges Table,,,4,2
+2024/05/29,17:45:39,HackerGame,UADDR_13,C1-GROUP1-238,insert comment,2,"{""collection_ref"":""n4"",""comment_id"":2,""comment_id_parent"":"""",""comment_id_previous"":"""",""comment_type"":""cmt"",""comment_createtime"":1717004736663,""comment_modifytime"":1717004739046,""commenter_id"":""C1-GROUP1-238"",""commenter_text"":[""Claimed""]}",3,1
+2024/05/29,17:45:39,HackerGame,UADDR_02,C1-GROUP1-4G7,select tab Nodes Table,,,4,2
+2024/05/29,17:45:40,HackerGame,UADDR_14,C1-GROUP2-JZQ,cancel edit node,12,USER 12,3,1
+2024/05/29,17:45:43,HackerGame,UADDR_02,C1-GROUP1-4G7,select tab Help,,,4,2
+2024/05/29,17:45:45,HackerGame,UADDR_02,C1-GROUP1-4G7,"deselect tab Help, reverting to Graph",,,4,2
+2024/05/29,17:45:45,HackerGame,UADDR_14,C1-GROUP2-JZQ,insert comment,3,"{""collection_ref"":""n12"",""comment_id"":3,""comment_id_parent"":"""",""comment_id_previous"":"""",""comment_type"":""cmt"",""comment_createtime"":1717004744345,""comment_modifytime"":1717004747503,""commenter_id"":""C1-GROUP2-JZQ"",""commenter_text"":[""Claimed""]}",3,1
+2024/05/29,17:45:45,HackerGame,UADDR_02,C1-GROUP1-4G7,select tab Nodes Table,,,4,2
+2024/05/29,17:45:47,HackerGame,UADDR_14,C1-GROUP2-JZQ,insert readby,3,"{""comment_id"":3,""commenter_ids"":[""C1-GROUP2-JZQ""]}",3,1
+2024/05/29,17:45:47,HackerGame,UADDR_02,C1-GROUP1-4G7,select tab Edges Table,,,4,2
+2024/05/29,17:45:50,HackerGame,UADDR_13,C1-GROUP1-238,update readby,2,"{""comment_id"":2,""commenter_ids"":[""1-1-35L"",null,""C1-GROUP1-238""]}",3,1
+2024/05/29,17:45:55,HackerGame,UADDR_11,C1-GROUP1-4MK,select node,36,USER 36,3,5
+2024/05/29,17:46:02,HackerGame,UADDR_13,C1-GROUP1-238,select node,4,USER 4,3,1
+2024/05/29,17:46:03,HackerGame,UADDR_12,C1-GROUP2-GNZ,select node,5,USER 5,3,1
+2024/05/29,17:46:03,HackerGame,UADDR_11,C1-GROUP1-4MK,insert comment,4,"{""collection_ref"":""n36"",""comment_id"":4,""comment_id_parent"":"""",""comment_id_previous"":"""",""comment_type"":""cmt"",""comment_createtime"":1717004757382,""comment_modifytime"":1717004762123,""commenter_id"":""C1-GROUP1-4MK"",""commenter_text"":[""claimed""]}",3,5
+2024/05/29,17:46:07,HackerGame,UADDR_02,C1-GROUP1-4G7,update readby,1,"{""comment_id"":1,""commenter_ids"":[""1-1-35L"",""C1-GROUP1-4G7""]}",4,2
+2024/05/29,17:46:07,HackerGame,UADDR_02,C1-GROUP1-4G7,update readby,2,"{""comment_id"":2,""commenter_ids"":[""1-1-35L"",null,""C1-GROUP1-4G7""]}",4,2
+2024/05/29,17:46:07,HackerGame,UADDR_02,C1-GROUP1-4G7,update readby,3,"{""comment_id"":3,""commenter_ids"":[""C1-GROUP1-4G7""]}",4,2
+2024/05/29,17:46:07,HackerGame,UADDR_02,C1-GROUP1-4G7,insert readby,4,"{""comment_id"":4,""commenter_ids"":[""C1-GROUP1-4G7""]}",4,2
+2024/05/29,17:46:09,HackerGame,UADDR_02,C1-GROUP1-4G7,"deselect tab Edges Table, reverting to Graph",,,4,2
+2024/05/29,17:46:10,HackerGame,UADDR_02,C1-GROUP1-4G7,select tab Nodes Table,,,4,2
+2024/05/29,17:46:11,HackerGame,UADDR_13,C1-GROUP1-238,update readby,2,"{""comment_id"":2,""commenter_ids"":[""1-1-35L"",null,""C1-GROUP1-238""]}",3,1
+2024/05/29,17:46:14,HackerGame,UADDR_02,C1-GROUP1-4G7,select tab Edges Table,,,4,2
+2024/05/29,17:46:15,HackerGame,UADDR_02,C1-GROUP1-4G7,select tab Nodes Table,,,4,2
+2024/05/29,17:46:17,HackerGame,UADDR_04,-,select tab Nodes Table,,,3,1
+2024/05/29,17:46:19,HackerGame,UADDR_04,-,select tab Graph,,,3,1
+2024/05/29,17:46:20,HackerGame,UADDR_12,C1-GROUP2-GNZ,insert comment,5,"{""collection_ref"":""n5"",""comment_id"":5,""comment_id_parent"":"""",""comment_id_previous"":"""",""comment_type"":""cmt"",""comment_createtime"":1717004776527,""comment_modifytime"":1717004780267,""commenter_id"":""C1-GROUP2-GNZ"",""commenter_text"":[""Claimed""]}",3,1
+2024/05/29,17:46:31,HackerGame,UADDR_04,-,left network,,,3,1
+2024/05/29,17:46:31,HackerGame,UADDR_15,-,joined network,,,3,1
+2024/05/29,17:46:31,HackerGame,UADDR_09,C1-GROUP2-GMX,select node,56,USER 56,3,1
+2024/05/29,17:46:31,HackerGame,UADDR_15,-,getdatabase,,,3,1
+2024/05/29,17:46:40,HackerGame,UADDR_13,C1-GROUP1-238,select node,43,USER 43,3,1
+2024/05/29,17:46:40,HackerGame,UADDR_04,-,SRV_NET  -,pong not received before time ran out -- CLIENT CONNECTION DEAD!,,3,1
+2024/05/29,17:46:48,HackerGame,UADDR_11,C1-GROUP1-4MK,update readby,4,"{""comment_id"":4,""commenter_ids"":[""C1-GROUP1-4MK""]}",3,5
+2024/05/29,17:46:50,HackerGame,UADDR_11,C1-GROUP1-4MK,select node,36,USER 36,3,5
+2024/05/29,17:46:51,HackerGame,UADDR_02,C1-GROUP1-4G7,select node,5,USER 5,4,2
+2024/05/29,17:46:53,HackerGame,UADDR_02,C1-GROUP1-4G7,update readby,5,"{""comment_id"":5,""commenter_ids"":[""1-1-35L"",null,""C1-GROUP1-4G7""]}",4,2
+2024/05/29,17:46:54,HackerGame,UADDR_09,C1-GROUP2-GMX,clear filters,,,3,1
+2024/05/29,17:47:06,HackerGame,UADDR_12,C1-GROUP2-GNZ,update readby,5,"{""comment_id"":5,""commenter_ids"":[""1-1-35L"",null,""C1-GROUP2-GNZ""]}",3,1
+2024/05/29,17:47:06,HackerGame,UADDR_09,C1-GROUP2-GMX,select node,50,USER 50 (claimed),3,1
+2024/05/29,17:47:07,HackerGame,UADDR_02,C1-GROUP1-4G7,"deselect tab Nodes Table, reverting to Graph",,,4,2
+2024/05/29,17:47:07,HackerGame,UADDR_11,C1-GROUP1-4MK,select node,36,USER 36,3,5
+2024/05/29,17:47:09,HackerGame,UADDR_14,C1-GROUP2-JZQ,select node,12,USER 12,3,1
+2024/05/29,17:47:10,HackerGame,UADDR_15,C1-GROUP3-JDQ,insert node,117,"{""id"":117,""label"":""50"",""provenance"":[],""createdBy"":""C1-GROUP3-JDQ"",""updatedBy"":""C1-GROUP3-JDQ""}",3,1
+2024/05/29,17:47:10,HackerGame,UADDR_15,C1-GROUP3-JDQ,select node,117,50,3,1
+2024/05/29,17:47:13,HackerGame,UADDR_15,C1-GROUP3-JDQ,delete node,117,,3,1
+2024/05/29,17:47:14,HackerGame,UADDR_11,C1-GROUP1-4MK,update readby,4,"{""comment_id"":4,""commenter_ids"":[""C1-GROUP1-4MK""]}",3,5
+2024/05/29,17:47:16,HackerGame,UADDR_15,C1-GROUP3-JDQ,select node,50,USER 50 (claimed),3,1
+2024/05/29,17:47:22,HackerGame,UADDR_15,C1-GROUP3-JDQ,insert comment,6,"{""collection_ref"":""n50"",""comment_id"":6,""comment_id_parent"":"""",""comment_id_previous"":1,""comment_type"":""cmt"",""comment_createtime"":1717004839000,""comment_modifytime"":1717004841921,""commenter_id"":""C1-GROUP3-JDQ"",""commenter_text"":[""HACKED""]}",3,1
+2024/05/29,17:47:25,HackerGame,UADDR_15,C1-GROUP3-JDQ,update readby,1,"{""comment_id"":1,""commenter_ids"":[""1-1-35L"",""C1-GROUP1-4G7"",""C1-GROUP3-JDQ""]}",3,1
+2024/05/29,17:47:25,HackerGame,UADDR_15,C1-GROUP3-JDQ,update readby,6,"{""comment_id"":6,""commenter_ids"":[""1-1-35L"",""C1-GROUP3-JDQ""]}",3,1
+2024/05/29,17:47:31,HackerGame,UADDR_12,C1-GROUP2-GNZ,update readby,5,"{""comment_id"":5,""commenter_ids"":[""1-1-35L"",null,""C1-GROUP2-GNZ""]}",3,1
+2024/05/29,17:47:33,HackerGame,UADDR_12,-,left network,,,3,1
+2024/05/29,17:47:34,HackerGame,UADDR_16,-,joined network,,,1,3
+2024/05/29,17:47:34,HackerGame,UADDR_16,-,getdatabase,,,1,3
+2024/05/29,17:47:37,HackerGame,UADDR_02,C1-GROUP1-4G7,select node,50,USER 50 (claimed),4,2
+2024/05/29,17:47:40,HackerGame,UADDR_12,-,SRV_NET  -,pong not received before time ran out -- CLIENT CONNECTION DEAD!,,3,1
+2024/05/29,17:47:43,HackerGame,UADDR_13,C1-GROUP1-238,select node,50,USER 50 (claimed),3,1
+2024/05/29,17:47:46,HackerGame,UADDR_11,C1-GROUP1-4MK,select node,50,USER 50 (claimed),3,5
+2024/05/29,17:47:50,HackerGame,UADDR_14,C1-GROUP2-JZQ,select node,6,USER 6,3,1
+2024/05/29,17:47:52,HackerGame,UADDR_02,C1-GROUP1-4G7,update readby,1,"{""comment_id"":1,""commenter_ids"":[""1-1-35L"",""C1-GROUP1-4G7""]}",4,2
+2024/05/29,17:47:52,HackerGame,UADDR_02,C1-GROUP1-4G7,update readby,6,"{""comment_id"":6,""commenter_ids"":[""1-1-35L"",""C1-GROUP1-4G7""]}",4,2
+2024/05/29,17:47:56,HackerGame,UADDR_13,C1-GROUP1-238,select node,50,USER 50 (claimed),3,1
+2024/05/29,17:47:58,HackerGame,UADDR_11,C1-GROUP1-4MK,update readby,1,"{""comment_id"":1,""commenter_ids"":[""1-1-35L"",""C1-GROUP1-4G7"",""C1-GROUP1-4MK""]}",3,5
+2024/05/29,17:47:58,HackerGame,UADDR_11,C1-GROUP1-4MK,update readby,6,"{""comment_id"":6,""commenter_ids"":[""1-1-35L"",""C1-GROUP1-4MK""]}",3,5
+2024/05/29,17:47:58,HackerGame,UADDR_13,C1-GROUP1-238,update readby,1,"{""comment_id"":1,""commenter_ids"":[""1-1-35L"",""C1-GROUP1-4G7"",""C1-GROUP1-238""]}",3,1
+2024/05/29,17:47:58,HackerGame,UADDR_13,C1-GROUP1-238,update readby,6,"{""comment_id"":6,""commenter_ids"":[""1-1-35L"",""C1-GROUP1-238""]}",3,1
+2024/05/29,17:48:04,HackerGame,UADDR_09,C1-GROUP2-GMX,select node,50,USER 50 (claimed),3,1
+2024/05/29,17:48:09,HackerGame,UADDR_02,C1-GROUP1-4G7,select node,27,USER 27,4,2
+2024/05/29,17:48:10,HackerGame,UADDR_13,C1-GROUP1-238,select node,1,USER 1,3,1
+2024/05/29,17:48:15,HackerGame,UADDR_02,C1-GROUP1-4G7,select node,21,USER 21,4,2
+2024/05/29,17:48:20,HackerGame,UADDR_02,C1-GROUP1-4G7,define filter,"{""group"":""focus"",""filter"":{""value"":""2""}}",,4,2
+2024/05/29,17:48:21,HackerGame,UADDR_11,C1-GROUP1-4MK,select node,50,USER 50 (claimed),3,5
+2024/05/29,17:48:21,HackerGame,UADDR_02,C1-GROUP1-4G7,define filter,"{""group"":""focus"",""filter"":{""value"":""3""}}",,4,2
+2024/05/29,17:48:28,HackerGame,UADDR_02,C1-GROUP1-4G7,select node,50,USER 50 (claimed),4,2
+2024/05/29,17:48:31,HackerGame,UADDR_09,C1-GROUP2-GMX,select node,27,USER 27,3,1
+2024/05/29,17:48:35,HackerGame,UADDR_02,C1-GROUP1-4G7,define filter,"{""group"":""focus"",""filter"":{""value"":""2""}}",,4,2
+2024/05/29,17:48:36,HackerGame,UADDR_02,C1-GROUP1-4G7,define filter,"{""group"":""focus"",""filter"":{""value"":""1""}}",,4,2
+2024/05/29,17:48:37,HackerGame,UADDR_14,C1-GROUP2-JZQ,select node,50,USER 50 (claimed),3,1
+2024/05/29,17:48:40,HackerGame,UADDR_09,C1-GROUP2-GMX,select node,50,USER 50 (claimed),3,1
+2024/05/29,17:48:46,HackerGame,UADDR_02,C1-GROUP1-4G7,select node,1,USER 1,4,2
+2024/05/29,17:48:47,HackerGame,UADDR_15,C1-GROUP3-JDQ,select node,1,USER 1,3,1
+2024/05/29,17:48:51,HackerGame,UADDR_11,C1-GROUP1-4MK,select node,1,USER 1,3,5
+2024/05/29,17:48:52,HackerGame,UADDR_15,C1-GROUP3-JDQ,select node,50,USER 50 (claimed),3,1
+2024/05/29,17:48:54,HackerGame,UADDR_15,C1-GROUP3-JDQ,select node,27,USER 27,3,1
+2024/05/29,17:48:56,HackerGame,UADDR_02,C1-GROUP1-4G7,select node,27,USER 27,4,2
+2024/05/29,17:48:56,HackerGame,UADDR_09,C1-GROUP2-GMX,define filter,"{""group"":""focus"",""filter"":{""value"":""2""}}",,3,1
+2024/05/29,17:49:04,HackerGame,UADDR_13,C1-GROUP1-238,select node,50,USER 50 (claimed),3,1
+2024/05/29,17:49:08,HackerGame,UADDR_13,C1-GROUP1-238,select node,50,USER 50 (claimed),3,1
+2024/05/29,17:49:10,HackerGame,UADDR_11,C1-GROUP1-4MK,select node,50,USER 50 (claimed),3,5
+2024/05/29,17:49:12,HackerGame,UADDR_13,C1-GROUP1-238,select node,27,USER 27,3,1
+2024/05/29,17:49:12,HackerGame,UADDR_02,C1-GROUP1-4G7,select node,50,USER 50 (claimed),4,2
+2024/05/29,17:49:17,HackerGame,UADDR_02,C1-GROUP1-4G7,define filter,"{""group"":""focus"",""filter"":{""value"":""2""}}",,4,2
+2024/05/29,17:49:21,HackerGame,UADDR_11,C1-GROUP1-4MK,define filter,"{""group"":""focus"",""filter"":{""value"":""2""}}",,3,5
+2024/05/29,17:49:23,HackerGame,UADDR_13,C1-GROUP1-238,select node,50,USER 50 (claimed),3,1
+2024/05/29,17:49:25,HackerGame,UADDR_11,C1-GROUP1-4MK,select node,50,USER 50 (claimed),3,5
+2024/05/29,17:49:25,HackerGame,UADDR_13,C1-GROUP1-238,define filter,"{""group"":""focus"",""filter"":{""value"":1}}",,3,1
+2024/05/29,17:49:26,HackerGame,UADDR_13,C1-GROUP1-238,define filter,"{""group"":""focus"",""filter"":{""value"":""2""}}",,3,1
+2024/05/29,17:49:38,HackerGame,UADDR_09,C1-GROUP2-GMX,select node,50,USER 50 (claimed),3,1
+2024/05/29,17:49:39,HackerGame,UADDR_15,C1-GROUP3-JDQ,select node,22,USER 22 Claimed,3,1
+2024/05/29,17:49:44,HackerGame,UADDR_09,C1-GROUP2-GMX,select node,23,USER 23,3,1
+2024/05/29,17:49:47,HackerGame,UADDR_09,C1-GROUP2-GMX,select node,50,USER 50 (claimed),3,1
+2024/05/29,17:49:54,HackerGame,UADDR_14,C1-GROUP2-JZQ,select node,12,USER 12,3,1
+2024/05/29,17:50:03,HackerGame,UADDR_14,C1-GROUP2-JZQ,update node,12,"{""id"":12,""label"":""USER 12 Claimed"",""updatedBy"":""C1-GROUP2-JZQ"",""type"":""USER"",""status"":""Active""}",3,1
+2024/05/29,17:50:13,HackerGame,UADDR_02,C1-GROUP1-4G7,select tab Nodes Table,,,4,2
+2024/05/29,17:50:15,HackerGame,UADDR_09,C1-GROUP2-GMX,select node,50,USER 50 (claimed),3,1
+2024/05/29,17:50:35,HackerGame,UADDR_16,C1-GROUP2-GNZ,update readby,1,"{""comment_id"":1,""commenter_ids"":[""1-1-35L"",""C1-GROUP1-4G7"",""C1-GROUP3-JDQ"",""C1-GROUP2-GNZ""]}",1,3
+2024/05/29,17:50:35,HackerGame,UADDR_16,C1-GROUP2-GNZ,update readby,6,"{""comment_id"":6,""commenter_ids"":[""1-1-35L"",""C1-GROUP3-JDQ"",""C1-GROUP2-GNZ""]}",1,3
+2024/05/29,17:50:35,HackerGame,UADDR_16,C1-GROUP2-GNZ,update readby,2,"{""comment_id"":2,""commenter_ids"":[""1-1-35L"",null,""C1-GROUP1-238"",""C1-GROUP2-GNZ""]}",1,3
+2024/05/29,17:50:35,HackerGame,UADDR_16,C1-GROUP2-GNZ,update readby,3,"{""comment_id"":3,""commenter_ids"":[""C1-GROUP1-4G7"",""C1-GROUP2-GNZ""]}",1,3
+2024/05/29,17:50:35,HackerGame,UADDR_16,C1-GROUP2-GNZ,update readby,4,"{""comment_id"":4,""commenter_ids"":[""C1-GROUP1-4MK"",""C1-GROUP2-GNZ""]}",1,3
+2024/05/29,17:50:35,HackerGame,UADDR_16,C1-GROUP2-GNZ,update readby,5,"{""comment_id"":5,""commenter_ids"":[""1-1-35L"",null,""C1-GROUP2-GNZ""]}",1,3
+2024/05/29,17:50:47,HackerGame,UADDR_09,C1-GROUP2-GMX,select node,27,USER 27,3,1
+2024/05/29,17:51:03,HackerGame,UADDR_09,C1-GROUP2-GMX,select node,104,TV & Movie Influencers,3,1
+2024/05/29,17:51:10,HackerGame,UADDR_09,C1-GROUP2-GMX,select node,50,USER 50 (claimed),3,1
+2024/05/29,17:51:17,HackerGame,UADDR_02,C1-GROUP1-4G7,"deselect tab Nodes Table, reverting to Graph",,,4,2
+2024/05/29,17:51:18,HackerGame,UADDR_09,C1-GROUP2-GMX,select node,50,USER 50 (claimed),3,1
+2024/05/29,17:51:49,HackerGame,UADDR_02,C1-GROUP1-4G7,"deselect tab Graph, reverting to Graph",,,4,2
+2024/05/29,17:51:57,HackerGame,UADDR_02,C1-GROUP1-4G7,clear filters,,,4,2
+2024/05/29,17:52:06,HackerGame,UADDR_09,C1-GROUP2-GMX,clear filters,,,3,1
+2024/05/29,17:52:12,HackerGame,UADDR_13,C1-GROUP1-238,clear filters,,,3,1
+2024/05/29,17:52:16,HackerGame,UADDR_02,C1-GROUP1-4G7,update comment,6,"{""collection_ref"":""n50"",""comment_id"":6,""comment_id_parent"":"""",""comment_id_previous"":"""",""comment_type"":""cmt"",""comment_createtime"":1717004839000,""comment_modifytime"":1717004842054,""commenter_id"":""C1-GROUP3-JDQ"",""commenter_text"":[""HACKED""]}",4,2
+2024/05/29,17:52:16,HackerGame,UADDR_02,C1-GROUP1-4G7,delete comment,1,,4,2
+2024/05/29,17:52:28,HackerGame,UADDR_02,-,left network,,,4,2
+2024/05/29,17:52:29,HackerGame,UADDR_17,-,joined network,,,3,1
+2024/05/29,17:52:29,HackerGame,UADDR_17,-,getdatabase,,,3,1
+2024/05/29,17:52:33,HackerGame,UADDR_17,C1-GROUP1-4G7,select node,50,USER 50 (claimed),3,1
+2024/05/29,17:52:35,HackerGame,UADDR_02,-,SRV_NET  -,pong not received before time ran out -- CLIENT CONNECTION DEAD!,,4,2
+2024/05/29,17:52:38,HackerGame,UADDR_17,C1-GROUP1-4G7,delete comment,6,,3,1
+2024/05/29,17:52:46,HackerGame,UADDR_16,C1-GROUP2-GNZ,select node,5,USER 5,1,3
+2024/05/29,17:52:52,HackerGame,UADDR_16,C1-GROUP2-GNZ,delete comment,5,,1,3
+2024/05/29,17:53:02,HackerGame,UADDR_16,C1-GROUP2-GNZ,select node,6,USER 6,1,3
+2024/05/29,17:53:06,HackerGame,UADDR_17,C1-GROUP1-4G7,update readby,2,"{""comment_id"":2,""commenter_ids"":[""1-1-35L"",null,""C1-GROUP1-238"",""C1-GROUP2-GNZ"",""C1-GROUP1-4G7""]}",3,1
+2024/05/29,17:53:06,HackerGame,UADDR_17,C1-GROUP1-4G7,update readby,3,"{""comment_id"":3,""commenter_ids"":[""C1-GROUP1-4G7"",""C1-GROUP2-GNZ""]}",3,1
+2024/05/29,17:53:06,HackerGame,UADDR_17,C1-GROUP1-4G7,update readby,4,"{""comment_id"":4,""commenter_ids"":[""C1-GROUP1-4MK"",""C1-GROUP2-GNZ"",""C1-GROUP1-4G7""]}",3,1
+2024/05/29,17:53:07,HackerGame,UADDR_16,C1-GROUP2-GNZ,select node,60,USER 60,1,3
+2024/05/29,17:53:13,HackerGame,UADDR_17,C1-GROUP1-4G7,select tab Nodes Table,,,3,1
+2024/05/29,17:53:14,HackerGame,UADDR_17,C1-GROUP1-4G7,select tab Edges Table,,,3,1
+2024/05/29,17:53:14,HackerGame,UADDR_17,C1-GROUP1-4G7,select tab Nodes Table,,,3,1
+2024/05/29,17:53:15,HackerGame,UADDR_17,C1-GROUP1-4G7,select tab Graph,,,3,1
+2024/05/29,17:53:16,HackerGame,UADDR_17,C1-GROUP1-4G7,select tab Nodes Table,,,3,1
+2024/05/29,17:53:31,HackerGame,UADDR_16,C1-GROUP2-GNZ,select node,6,USER 6,1,3
+2024/05/29,17:53:40,HackerGame,UADDR_09,C1-GROUP2-GMX,select node,22,USER 22 Claimed,3,1
+2024/05/29,17:53:41,HackerGame,UADDR_13,C1-GROUP1-238,select node,4,USER 4,3,1
+2024/05/29,17:53:42,HackerGame,UADDR_14,C1-GROUP2-JZQ,cancel edit node,12,USER 12 Claimed,3,1
+2024/05/29,17:53:43,HackerGame,UADDR_16,C1-GROUP2-GNZ,update node,6,"{""id"":6,""label"":""USER 6 (claimed)"",""updatedBy"":""C1-GROUP2-GNZ"",""type"":""USER"",""status"":""Active""}",1,3
+2024/05/29,17:53:46,HackerGame,UADDR_09,C1-GROUP2-GMX,update node,22,"{""id"":22,""label"":""USER 22"",""updatedBy"":""C1-GROUP2-GMX"",""type"":""USER"",""status"":""Active""}",3,1
+2024/05/29,17:53:49,HackerGame,UADDR_14,C1-GROUP2-JZQ,update readby,3,"{""comment_id"":3,""commenter_ids"":[""C1-GROUP2-JZQ""]}",3,1
+2024/05/29,17:53:50,HackerGame,UADDR_15,C1-GROUP3-JDQ,clear filters,,,3,1
+2024/05/29,17:53:51,HackerGame,UADDR_09,C1-GROUP2-GMX,select node,44,USER 44,3,1
+2024/05/29,17:53:53,HackerGame,UADDR_13,C1-GROUP1-238,define filter,"{""group"":""focus"",""filter"":{""value"":""3""}}",,3,1
+2024/05/29,17:53:54,HackerGame,UADDR_15,C1-GROUP3-JDQ,select node,4,USER 4,3,1
+2024/05/29,17:53:56,HackerGame,UADDR_09,C1-GROUP2-GMX,update node,44,"{""id"":44,""label"":""USER 44 claimed"",""updatedBy"":""C1-GROUP2-GMX"",""type"":""USER"",""status"":""Active""}",3,1
+2024/05/29,17:54:00,HackerGame,UADDR_13,C1-GROUP1-238,select node,4,USER 4,3,1
+2024/05/29,17:54:07,HackerGame,UADDR_11,C1-GROUP1-4MK,select node,46,USER 46,3,5
+2024/05/29,17:54:09,HackerGame,UADDR_13,C1-GROUP1-238,define filter,"{""group"":""focus"",""filter"":{""value"":""2""}}",,3,1
+2024/05/29,17:54:09,HackerGame,UADDR_11,C1-GROUP1-4MK,select node,21,USER 21,3,5
+2024/05/29,17:54:10,HackerGame,UADDR_11,C1-GROUP1-4MK,select tab Nodes Table,,,3,5
+2024/05/29,17:54:12,HackerGame,UADDR_13,C1-GROUP1-238,define filter,"{""group"":""focus"",""filter"":{""value"":""1""}}",,3,1
+2024/05/29,17:54:14,HackerGame,UADDR_16,C1-GROUP2-GNZ,select tab Nodes Table,,,1,3
+2024/05/29,17:54:17,HackerGame,UADDR_16,C1-GROUP2-GNZ,sort node table,label,-1,1,3
+2024/05/29,17:54:18,HackerGame,UADDR_13,C1-GROUP1-238,select node,85,Music Groups,3,1
+2024/05/29,17:54:28,HackerGame,UADDR_17,C1-GROUP1-4G7,"deselect tab Nodes Table, reverting to Graph",,,3,1
+2024/05/29,17:54:32,HackerGame,UADDR_11,C1-GROUP1-4MK,update readby,4,"{""comment_id"":4,""commenter_ids"":[""C1-GROUP1-4MK""]}",3,5
+2024/05/29,17:54:33,HackerGame,UADDR_11,C1-GROUP1-4MK,select node,36,USER 36,3,5
+2024/05/29,17:54:37,HackerGame,UADDR_11,C1-GROUP1-4MK,"deselect tab Nodes Table, reverting to Graph",,,3,5
+2024/05/29,17:54:51,HackerGame,UADDR_13,C1-GROUP1-238,select node,32,USER 32,3,1
+2024/05/29,17:55:03,HackerGame,UADDR_15,C1-GROUP3-JDQ,insert node,117,"{""id"":117,""label"":""32"",""provenance"":[],""createdBy"":""C1-GROUP3-JDQ"",""updatedBy"":""C1-GROUP3-JDQ""}",3,1
+2024/05/29,17:55:03,HackerGame,UADDR_15,C1-GROUP3-JDQ,select node,117,32,3,1
+2024/05/29,17:55:05,HackerGame,UADDR_15,C1-GROUP3-JDQ,delete node,117,,3,1
+2024/05/29,17:55:06,HackerGame,UADDR_15,C1-GROUP3-JDQ,select node,32,USER 32,3,1
+2024/05/29,17:55:13,HackerGame,UADDR_15,C1-GROUP3-JDQ,insert comment,7,"{""collection_ref"":""n32"",""comment_id"":7,""comment_id_parent"":"""",""comment_id_previous"":"""",""comment_type"":""cmt"",""comment_createtime"":1717005308878,""comment_modifytime"":1717005313144,""commenter_id"":""C1-GROUP3-JDQ"",""commenter_text"":[""Hacked""]}",3,1
+2024/05/29,17:55:16,HackerGame,UADDR_15,C1-GROUP3-JDQ,update node,32,"{""id"":32,""label"":""USER 32"",""updatedBy"":""C1-GROUP3-JDQ"",""type"":""USER"",""status"":""Hacked""}",3,1
+2024/05/29,17:55:20,HackerGame,UADDR_09,C1-GROUP2-GMX,select node,32,USER 32,3,1
+2024/05/29,17:55:21,HackerGame,UADDR_16,C1-GROUP2-GNZ,select node,32,USER 32,1,3
+2024/05/29,17:55:24,HackerGame,UADDR_14,C1-GROUP2-JZQ,select node,32,USER 32,3,1
+2024/05/29,17:55:26,HackerGame,UADDR_11,C1-GROUP1-4MK,select node,36,USER 36,3,5
+2024/05/29,17:55:27,HackerGame,UADDR_09,C1-GROUP2-GMX,insert comment,8,"{""collection_ref"":""n32"",""comment_id"":8,""comment_id_parent"":"""",""comment_id_previous"":7,""comment_type"":""cmt"",""comment_createtime"":1717005324530,""comment_modifytime"":1717005327706,""commenter_id"":""C1-GROUP2-GMX"",""commenter_text"":[""Oh noes!""]}",3,1
+2024/05/29,17:55:28,HackerGame,UADDR_15,C1-GROUP3-JDQ,select node,4,USER 4,3,1
+2024/05/29,17:55:29,HackerGame,UADDR_14,C1-GROUP2-JZQ,define filter,"{""group"":""focus"",""filter"":{""value"":""2""}}",,3,1
+2024/05/29,17:55:32,HackerGame,UADDR_09,C1-GROUP2-GMX,select node,32,USER 32,3,1
+2024/05/29,17:55:35,HackerGame,UADDR_16,C1-GROUP2-GNZ,select node,32,USER 32,1,3
+2024/05/29,17:55:35,HackerGame,UADDR_11,C1-GROUP1-4MK,update readby,4,"{""comment_id"":4,""commenter_ids"":[""C1-GROUP1-4MK""]}",3,5
+2024/05/29,17:55:40,HackerGame,UADDR_09,C1-GROUP2-GMX,define filter,"{""group"":""focus"",""filter"":{""value"":""2""}}",,3,1
+2024/05/29,17:55:41,HackerGame,UADDR_11,C1-GROUP1-4MK,select node,32,USER 32,3,5
+2024/05/29,17:55:42,HackerGame,UADDR_17,C1-GROUP1-4G7,select node,42,USER 42,3,1
+2024/05/29,17:55:43,HackerGame,UADDR_16,C1-GROUP2-GNZ,select node,104,TV & Movie Influencers,1,3
+2024/05/29,17:55:47,HackerGame,UADDR_11,C1-GROUP1-4MK,define filter,"{""group"":""focus"",""filter"":{""value"":""1""}}",,3,5
+2024/05/29,17:55:48,HackerGame,UADDR_15,C1-GROUP3-JDQ,define filter,"{""group"":""focus"",""filter"":{""value"":""2""}}",,3,1
+2024/05/29,17:55:49,HackerGame,UADDR_17,C1-GROUP1-4G7,select node,32,USER 32,3,1
+2024/05/29,17:55:50,HackerGame,UADDR_11,C1-GROUP1-4MK,select node,11,USER 11,3,5
+2024/05/29,17:55:50,HackerGame,UADDR_14,C1-GROUP2-JZQ,select node,56,USER 56,3,1
+2024/05/29,17:55:55,HackerGame,UADDR_14,C1-GROUP2-JZQ,select node,32,USER 32,3,1
+2024/05/29,17:55:57,HackerGame,UADDR_17,C1-GROUP1-4G7,update node,32,"{""id"":32,""label"":""USER 32"",""updatedBy"":""C1-GROUP1-4G7"",""type"":""USER"",""status"":""Hacked""}",3,1
+2024/05/29,17:56:04,HackerGame,UADDR_17,C1-GROUP1-4G7,insert comment,9,"{""collection_ref"":""n32"",""comment_id"":9,""comment_id_parent"":8,""comment_id_previous"":"""",""comment_type"":""cmt"",""comment_createtime"":1717005362265,""comment_modifytime"":1717005364941,""commenter_id"":""C1-GROUP1-4G7"",""commenter_text"":[""Ye""]}",3,1
+2024/05/29,17:56:06,HackerGame,UADDR_17,C1-GROUP1-4G7,update readby,7,"{""comment_id"":7,""commenter_ids"":[""1-1-35L"",""C1-GROUP1-4G7""]}",3,1
+2024/05/29,17:56:06,HackerGame,UADDR_17,C1-GROUP1-4G7,insert readby,8,"{""comment_id"":8,""commenter_ids"":[""C1-GROUP1-4G7""]}",3,1
+2024/05/29,17:56:06,HackerGame,UADDR_17,C1-GROUP1-4G7,insert readby,9,"{""comment_id"":9,""commenter_ids"":[""C1-GROUP1-4G7""]}",3,1
+2024/05/29,17:56:17,HackerGame,UADDR_14,C1-GROUP2-JZQ,update readby,2,"{""comment_id"":2,""commenter_ids"":[""1-1-35L"",null,""C1-GROUP2-JZQ""]}",3,1
+2024/05/29,17:56:17,HackerGame,UADDR_14,C1-GROUP2-JZQ,update readby,3,"{""comment_id"":3,""commenter_ids"":[""C1-GROUP2-JZQ""]}",3,1
+2024/05/29,17:56:17,HackerGame,UADDR_14,C1-GROUP2-JZQ,update readby,4,"{""comment_id"":4,""commenter_ids"":[""C1-GROUP2-JZQ""]}",3,1
+2024/05/29,17:56:17,HackerGame,UADDR_14,C1-GROUP2-JZQ,update readby,7,"{""comment_id"":7,""commenter_ids"":[""1-1-35L"",""C1-GROUP2-JZQ""]}",3,1
+2024/05/29,17:56:17,HackerGame,UADDR_14,C1-GROUP2-JZQ,update readby,8,"{""comment_id"":8,""commenter_ids"":[""C1-GROUP2-JZQ""]}",3,1
+2024/05/29,17:56:17,HackerGame,UADDR_14,C1-GROUP2-JZQ,update readby,9,"{""comment_id"":9,""commenter_ids"":[""C1-GROUP2-JZQ""]}",3,1
+2024/05/29,17:56:20,HackerGame,UADDR_17,C1-GROUP1-4G7,define filter,"{""group"":""focus"",""filter"":{""value"":""2""}}",,3,1
+2024/05/29,17:56:26,HackerGame,UADDR_16,C1-GROUP2-GNZ,select node,32,USER 32,1,3
+2024/05/29,17:56:31,HackerGame,UADDR_16,C1-GROUP2-GNZ,define filter,"{""group"":""focus"",""filter"":{""value"":""2""}}",,1,3
+2024/05/29,17:56:34,HackerGame,UADDR_11,C1-GROUP1-4MK,select node,32,USER 32,3,5
+2024/05/29,17:56:36,HackerGame,UADDR_11,C1-GROUP1-4MK,select node,103,Humor Influencers,3,5
+2024/05/29,17:56:38,HackerGame,UADDR_16,C1-GROUP2-GNZ,define filter,"{""group"":""focus"",""filter"":{""value"":""1""}}",,1,3
+2024/05/29,17:56:43,HackerGame,UADDR_16,C1-GROUP2-GNZ,insert node,117,"{""id"":117,""label"":""user 32"",""provenance"":[],""createdBy"":""C1-GROUP2-GNZ"",""updatedBy"":""C1-GROUP2-GNZ""}",1,3
+2024/05/29,17:56:43,HackerGame,UADDR_11,C1-GROUP1-4MK,select node,32,USER 32,3,5
+2024/05/29,17:56:43,HackerGame,UADDR_16,C1-GROUP2-GNZ,select node,117,user 32,1,3
+2024/05/29,17:56:45,HackerGame,UADDR_16,C1-GROUP2-GNZ,delete node,117,,1,3
+2024/05/29,17:56:49,HackerGame,UADDR_11,C1-GROUP1-4MK,select node,32,USER 32,3,5
+2024/05/29,17:56:51,HackerGame,UADDR_11,C1-GROUP1-4MK,select node,103,Humor Influencers,3,5
+2024/05/29,17:56:55,HackerGame,UADDR_09,C1-GROUP2-GMX,select node,32,USER 32,3,1
+2024/05/29,17:57:15,HackerGame,UADDR_16,C1-GROUP2-GNZ,clear filters,,,1,3
+2024/05/29,17:57:27,HackerGame,UADDR_16,C1-GROUP2-GNZ,select node,32,USER 32,1,3
+2024/05/29,17:57:36,HackerGame,UADDR_16,C1-GROUP2-GNZ,define filter,"{""group"":""focus"",""filter"":{""value"":""2""}}",,1,3
+2024/05/29,17:57:44,HackerGame,UADDR_17,C1-GROUP1-4G7,select node,4,USER 4,3,1
+2024/05/29,17:57:54,HackerGame,UADDR_15,C1-GROUP3-JDQ,clear filters,,,3,1
+2024/05/29,17:57:56,HackerGame,UADDR_15,-,left network,,,3,1
+2024/05/29,17:57:57,HackerGame,UADDR_09,-,left network,,,3,1
+2024/05/29,17:58:03,HackerGame,UADDR_14,-,left network,,,3,1
