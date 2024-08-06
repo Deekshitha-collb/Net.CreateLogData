@@ -26,16 +26,12 @@ jobs:
       run: |
         ls -al "Code"
 
-    - name: Deploy with Voila
+    - name: Convert Notebook to HTML
       run: |
-        voila "Code/Net. Create Log Data.ipynb" --no-browser --port=8000 --base_url=/ --VoilaConfiguration.enable_nbextensions=True &
+        jupyter nbconvert --to html "Code/Net. Create Log Data.ipynb" --output-dir=./voila_output
 
-    - name: Sleep to allow Voila to initialize (optional)
-      run: |
-        sleep 10  # Pause for 10 seconds to simulate serving time
-
-    - name: Upload to GitHub Pages
+    - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.GH_PAT }}  # Use the Personal Access Token (PAT)
-        publish_dir: ./voila
+        publish_dir: ./voila_output
