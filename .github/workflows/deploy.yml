@@ -22,10 +22,6 @@ jobs:
         python -m pip install --upgrade pip
         pip install notebook voila
 
-    - name: List files in Code directory (debugging step)
-      run: |
-        ls -al "Code"
-
     - name: Convert Notebook to HTML
       run: |
         jupyter nbconvert --to html "Code/Net. Create Log Data.ipynb" --output-dir=./voila_output
