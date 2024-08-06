@@ -3,33 +3,39 @@ name: Deploy Jupyter Notebook as Voila App
 on:
   push:
     branches:
-      - main
+      - main  # Triggers the workflow on push to the main branch
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v3
+    - name: Checkout code
+      uses: actions/checkout@v3
+
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
         python-version: '3.8'
+
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
         pip install notebook voila
+
     - name: List files in Code directory (debugging step)
       run: |
         ls -al "Code"
+
     - name: Deploy with Voila
       run: |
         voila "Code/Net. Create Log Data.ipynb" --no-browser --port=8000 --base_url=/ --VoilaConfiguration.enable_nbextensions=True &
+
     - name: Sleep to allow Voila to initialize (optional)
       run: |
         sleep 10  # Pause for 10 seconds to simulate serving time
+
     - name: Upload to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
       with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}  # Use the GITHUB_TOKEN to push changes
+        github_token: ${{ secrets.GH_PAT }}  # Use the Personal Access Token (PAT)
         publish_dir: ./voila
-
